@@ -1,0 +1,12 @@
+2018/10/26-21:23:43.570 4258 Reusing MANIFEST /home/gautham/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/10/26-21:23:43.570 4258 Recovering log #14
+2018/10/26-21:23:43.604 4258 Reusing old log /home/gautham/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000014.log 
+2018/10/26-21:44:30.782 6775 Level-0 table #19: started
+2018/10/26-21:44:31.159 6775 Level-0 table #19: 1567357 bytes OK
+2018/10/26-21:44:31.262 6775 Delete type=0 #14
+2018/10/26-22:37:07.785 6775 Compacting 1@1 + 1@2 files
+2018/10/26-22:37:08.027 6775 Generated table #20@1: 5725 keys, 920290 bytes
+2018/10/26-22:37:08.027 6775 Compacted 1@1 + 1@2 files => 920290 bytes
+2018/10/26-22:37:08.082 6775 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/26-22:37:08.083 6775 Delete type=2 #16
+2018/10/26-22:37:08.083 6775 Delete type=2 #19

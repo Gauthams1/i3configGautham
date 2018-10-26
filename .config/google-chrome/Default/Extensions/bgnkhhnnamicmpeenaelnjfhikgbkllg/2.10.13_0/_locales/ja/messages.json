@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: $1のサブスクリプションを有効にしますか？"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard: ルールを$1からあなたのユーザーフィルタにインポートしますか？"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "AdGuardはユーザフィルタへのルールのインポートを完了しました。 インポートされたルール番号: $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "インポートが正常に終了しました"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard for Windows"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "«$1» が自動的に有効になりました"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "フィルタの自動有効化"
+   },
+   "assistant_another_element": {
+      "message": "別の要素を選択する"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "各Webサイトに本ルールを適用する"
+   },
+   "assistant_block": {
+      "message": "ブロック"
+   },
+   "assistant_block_by_reference": {
+      "message": "URLで要素をブロックする"
+   },
+   "assistant_block_element": {
+      "message": "要素をブロックする"
+   },
+   "assistant_block_element_explain": {
+      "message": "要素ブロッキング・ルールの設定"
+   },
+   "assistant_block_similar": {
+      "message": "類似した要素をブロックする"
+   },
+   "assistant_extended_settings": {
+      "message": "アドバンスト設定"
+   },
+   "assistant_preview": {
+      "message": "プレビュー"
+   },
+   "assistant_preview_end": {
+      "message": "プレビュー終了"
+   },
+   "assistant_preview_header": {
+      "message": "要素をブロック【プレビュー】"
+   },
+   "assistant_preview_header_info": {
+      "message": "ブロックを確定する前に、ページの見た目がどのようになるかを、確認してください。"
+   },
+   "assistant_preview_start": {
+      "message": "プレビュー"
+   },
+   "assistant_select_element": {
+      "message": "選択モード"
+   },
+   "assistant_select_element_cancel": {
+      "message": "キャンセル"
+   },
+   "assistant_select_element_ext": {
+      "message": "ページ上でブロックする要素をクリックしてください"
+   },
+   "assistant_slider_explain": {
+      "message": "スライダーを動かし、本ルールによって要素がブロックされるサイズを変更してください。"
+   },
+   "assistant_slider_if_hide": {
+      "message": "フィルタには、選択した要素をブロックするルールが含まれます"
+   },
+   "assistant_slider_max": {
+      "message": "大きく"
+   },
+   "assistant_slider_min": {
+      "message": "小さく"
+   },
+   "background_tab_title": {
+      "message": "バックグラウンド・タブ"
+   },
+   "context_abuse_site": {
+      "message": "このウェブサイトに関するクレームを送信する..."
+   },
+   "context_ads_has_been_removed": {
+      "message": "このページから広告が削除されました"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "$1 によって保護されています"
+   },
+   "context_antibanner": {
+      "message": "広告ブロッカー"
+   },
+   "context_block_site_ads": {
+      "message": "このウェブサイトの広告をブロックする..."
+   },
+   "context_block_site_element": {
+      "message": "要素をブロックする..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: 画像をブロックする..."
+   },
+   "context_disable_protection": {
+      "message": "AdGuardの保護を一時的に停止する"
+   },
+   "context_enable_protection": {
+      "message": "AdGuardの保護の一時停止を解除する"
+   },
+   "context_general_settings": {
+      "message": "一般設定"
+   },
+   "context_miscellaneous_settings": {
+      "message": "その他の設定"
+   },
+   "context_open_log": {
+      "message": "フィルタリングログ..."
+   },
+   "context_open_settings": {
+      "message": "AdGuard 設定"
+   },
+   "context_safebrowsing": {
+      "message": "ブラウジングセキュリティ"
+   },
+   "context_security_report": {
+      "message": "ウェブサイトのセキュリティレポートを開く..."
+   },
+   "context_site_exception": {
+      "message": "このウェブサイトは例外として登録されています"
+   },
+   "context_site_filtering_disabled": {
+      "message": "このドメインではAdGuardは動作できません"
+   },
+   "context_site_filtering_off": {
+      "message": "このウェブサイトでフィルタリングを無効にする"
+   },
+   "context_site_filtering_on": {
+      "message": "このウェブサイトでフィルタリングを有効にする"
+   },
+   "context_site_protection_disabled": {
+      "message": "AdGuardの保護を停止中"
+   },
+   "context_update_antibanner_filters": {
+      "message": "フィルタの アップデートを確認する"
+   },
+   "context_userfilter": {
+      "message": "ユーザーフィルタ"
+   },
+   "context_whitelist": {
+      "message": "ホワイトリスト"
+   },
+   "description": {
+      "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites."
+   },
+   "description_blocked": {
+      "message": "Ads blocked on this page: $1"
+   },
+   "filter_download_ads_malware": {
+      "message": "ウイルスや悪質なソフトウェアの90％は非良心的な\u003Cbr/>広告ネットワークを介して配信されます。"
+   },
+   "filter_download_do_you_know": {
+      "message": "ご存知ですか？"
+   },
+   "filter_download_loading": {
+      "message": "フィルタのデータベースを読み込み中です。お待ち下さい…"
+   },
+   "filter_download_rules": {
+      "message": "毎週平均100件以上の広告フィルタ・ルールを追加しています"
+   },
+   "filter_download_sb_sites": {
+      "message": "AdGuradには100万以上のウェブサイトに関するフィッシングやマルウェア情報のデータベースがあります。"
+   },
+   "filter_download_title": {
+      "message": "フィルタのデータベースを読み込み中。お待ち下さい..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "ログをクリアする"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "ホワイトリストに登録済"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "検索語句を入力してください"
+   },
+   "filtering_log_tab": {
+      "message": "タブ"
+   },
+   "filtering_log_title": {
+      "message": "フィルタリングログ"
+   },
+   "filtering_modal_add_rule": {
+      "message": "ルールを追加する"
+   },
+   "filtering_modal_add_title": {
+      "message": "ルールの追加"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "全てのウェブサイトにこのルールを適用"
+   },
+   "filtering_modal_block": {
+      "message": "ブロックする"
+   },
+   "filtering_modal_element": {
+      "message": "要素："
+   },
+   "filtering_modal_exception_title": {
+      "message": "例外の追加"
+   },
+   "filtering_modal_filter": {
+      "message": "フィルタ名:"
+   },
+   "filtering_modal_important": {
+      "message": "ルールをより優先させる"
+   },
+   "filtering_modal_info_title": {
+      "message": "詳細情報の確認"
+   },
+   "filtering_modal_match_case": {
+      "message": "場合によって決める"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "新しいタブで開く"
+   },
+   "filtering_modal_options": {
+      "message": "オプション"
+   },
+   "filtering_modal_patterns": {
+      "message": "パターン"
+   },
+   "filtering_modal_remove_user": {
+      "message": "ユーザーフィルタから除去する"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "ホワイトリスト・フィルタから除去する"
+   },
+   "filtering_modal_rule": {
+      "message": "ルール:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "ルールテキスト"
+   },
+   "filtering_modal_source": {
+      "message": "発行元:"
+   },
+   "filtering_modal_third_party": {
+      "message": "第三者のリクエストのみに適用"
+   },
+   "filtering_modal_type": {
+      "message": "種類:"
+   },
+   "filtering_modal_unblock": {
+      "message": "ブロックを解除する"
+   },
+   "filtering_refresh_tab": {
+      "message": "ページを更新する"
+   },
+   "filtering_table_empty_row": {
+      "message": "このページのログはありません。ログを見るには\u003Ca href='#' class='reloadTab'>ページを再読み込み\u003C/a>してください。"
+   },
+   "filtering_table_filter": {
+      "message": "フィルタ"
+   },
+   "filtering_table_rule": {
+      "message": "フィルタリング・ルール名"
+   },
+   "filtering_table_source": {
+      "message": "発行元"
+   },
+   "filtering_table_type": {
+      "message": "種類"
+   },
+   "filtering_type_all": {
+      "message": "全て"
+   },
+   "name": {
+      "message": "AdGuard 広告ブロッカー"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "検索広告とウェブサイトの自己宣伝を許可する\u003Ca target='_blank' href='https://adguard.com/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'>詳細はこちら\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "広告ブロッカー"
+   },
+   "options_antibanner_info": {
+      "message": "フィルタ・ルールの総数: $1"
+   },
+   "options_antibanner_list_empty": {
+      "message": "リストにフィルタが登録されていません。\u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>フィルタを追加\u003C/a>"
+   },
+   "options_blog": {
+      "message": "AdGuard ブログ"
+   },
+   "options_collect_hit_stats": {
+      "message": "広告フィルタの使用状況の統計を送信する\u003Ca target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>もっと詳しくはこちら\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "有効フィルタが多すぎます。 Safari で使用できるルールの数は、50000までです。"
+   },
+   "options_do_you_like": {
+      "message": "AdGuardに満足していますか？"
+   },
+   "options_download_adguard": {
+      "message": "Download full version"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "全てのフィルタ"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "最も適切なフィルタを自動的に有効にする"
+   },
+   "options_feedback": {
+      "message": "お問合せ"
+   },
+   "options_filter_version": {
+      "message": "バージョン $1. $2 $3 に更新されました。"
+   },
+   "options_footer_like_us": {
+      "message": "評価する！"
+   },
+   "options_forum": {
+      "message": "AdGuard フォーラム"
+   },
+   "options_general_settings": {
+      "message": "一般設定"
+   },
+   "options_like_us": {
+      "message": "AdGuardをお気に入りましたか？評価をお願いします！"
+   },
+   "options_miscellaneous_settings": {
+      "message": "その他の設定"
+   },
+   "options_modal_cancel": {
+      "message": "キャンセル"
+   },
+   "options_modal_edit": {
+      "message": "フィルタ・リスト"
+   },
+   "options_modal_homepage": {
+      "message": "ホームページ"
+   },
+   "options_modal_save": {
+      "message": "変更を保存"
+   },
+   "options_open_changelog": {
+      "message": "チェンジログ"
+   },
+   "options_open_log": {
+      "message": "フィルタリングログ"
+   },
+   "options_popup_update_error": {
+      "message": "アップデート失敗しました。しばらく経ってからもう一度試してください。"
+   },
+   "options_popup_update_not_found": {
+      "message": "アップデートはありません"
+   },
+   "options_popup_update_title": {
+      "message": "フィルタは問題なく更新されました"
+   },
+   "options_popup_update_updated": {
+      "message": "「$1」 が $2 にアップデートされました"
+   },
+   "options_reset_stats": {
+      "message": "統計をリセット"
+   },
+   "options_reset_stats_done": {
+      "message": "統計リセットされました"
+   },
+   "options_safebrowsing": {
+      "message": "ブラウジングセキュリティ"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "フィッシング詐欺とマルウェアからの保護\u003Ca target='_blank' href='https://adguard.com/how-malware-blocked.html?utm_source=extension&aid=16593' class='sp-table-row-info'>詳しくはこちら\u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "ブラウジングセキュリティ・フィルタの開発にご協力をお願いします\u003Cspan class='sp-table-row-info'>匿名でセキュリティに関する情報を送信する\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "結果が見つかりません"
+   },
+   "options_settings": {
+      "message": "AdGuard 設定"
+   },
+   "options_show_adguard_full_version": {
+      "message": "AdGuard フルバージョンの情報を表示する"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "AdGuard 拡張機能アイコンでブロックされた広告の数を表示する"
+   },
+   "options_show_context_menu": {
+      "message": "ブラウザの右クリックメニューに AdGuard アイテムを追加する"
+   },
+   "options_site": {
+      "message": "公式ウェブサイト"
+   },
+   "options_too_many_filters_selected": {
+      "message": "選択したフィルタ・サブスクリプションの数が多すぎます。この為、ブラウザの動作が極端に遅くなる可能性があります。"
+   },
+   "options_update_antibanner_filters": {
+      "message": "フィルタのアップデートを確認する"
+   },
+   "options_use_optimized_filters": {
+      "message": "最適化されたフィルタを使用する\u003Cspan class='sp-table-row-info'>このフィルタはモバイル端末向けに最適化された軽量版フィルタのリストです\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "ユーザーフィルタ"
+   },
+   "options_userfilter_add_rule": {
+      "message": "新しいルールを追加"
+   },
+   "options_userfilter_clear": {
+      "message": "クリア"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "ユーザーフィルタをクリアすると全てのルールが削除されます。ユーザーフィルタを本当にクリアしてもよろしいですか？"
+   },
+   "options_userfilter_description": {
+      "message": "このフィルタに独自のルールを追加できます。このオプションはHTML/CSSに精通した上級者ユーザーにおすすめです。 \u003Ca class='spl-user-descr-link'href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>フィルタ・ルールのチュートリアル\u003C/a>を読むことで独自のフィルタ・ルールを作成する方法を学べます。"
+   },
+   "options_userfilter_export": {
+      "message": "エクスポート"
+   },
+   "options_userfilter_import": {
+      "message": "インポート"
+   },
+   "options_userfilter_search": {
+      "message": "ユーザー・フィルタを検索"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "検索"
+   },
+   "options_userlist_empty": {
+      "message": "ユーザー・フィルタは登録されていません。\u003Ca class='spl-user-descr-link addUserFilter' href='#'>新しいルールを追加\u003C/a>しますか？"
+   },
+   "options_whitelist": {
+      "message": "ホワイトリスト"
+   },
+   "options_whitelist_add_domain": {
+      "message": "ウェブサイトを追加"
+   },
+   "options_whitelist_description": {
+      "message": "AdGuard はホワイトリストにあるウェブサイトをフィルタリングしません。"
+   },
+   "options_whitelist_empty": {
+      "message": "ホワイトリストにウェブサイトが登録されていません。\u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>ウェブサイトを追加\u003C/a>しますか？"
+   },
+   "options_whitelist_inverse": {
+      "message": "ホワイトリストを逆転させる\u003Cspan class='sp-table-row-info'>ホワイトリスト\u003Ci>以外で\u003C/i>全ての広告をアンブロックする\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "ホワイトリストを検索"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "検索"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "ホワイトリストをクリアすると全てのルールが削除されます。ホワイトリストを本当にクリアしてもよろしいですか？"
+   },
+   "popup_abuse_problem": {
+      "message": "Submit a&nbsp;complaint"
+   },
+   "popup_abuse_site": {
+      "message": "このウェブサイトについてクレームを送信する"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard for Android"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "AdGuard\u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>インテグレーションモード\u003C/a>が有効です"
+   },
+   "popup_adguard_ios": {
+      "message": "AdGuard for iOS"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "popup_adguard_other_os": {
+      "message": "AdGuardの他のバージョン:"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard for Windows"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "このページから広告が削除されました"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "$1 によって保護されています"
+   },
+   "popup_block_site_ads": {
+      "message": "このページの広告をブロックする"
+   },
+   "popup_block_site_ads_android": {
+      "message": "このウェブサイトの広告をブロックする"
+   },
+   "popup_disable_protection": {
+      "message": "AdGuardの保護を一時的に停止する"
+   },
+   "popup_enable_protection": {
+      "message": "AdGuard保護の一時停止を解除する"
+   },
+   "popup_feedback_cancel": {
+      "message": "キャンセル"
+   },
+   "popup_feedback_comment": {
+      "message": "コメント"
+   },
+   "popup_feedback_empty_option": {
+      "message": "クレームの理由を選択してください。"
+   },
+   "popup_feedback_malware_option": {
+      "message": "フィッシングの疑いがある"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "広告が表示された"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "クレームの理由を選択してください。"
+   },
+   "popup_feedback_other_option": {
+      "message": "その他の理由"
+   },
+   "popup_feedback_send": {
+      "message": "クレームを送信する"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "ウェブサイトの表示が崩れている"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "フィルターログを開く..."
+   },
+   "popup_in_white_list_android": {
+      "message": "ホワイトリストに入っています"
+   },
+   "popup_open_log_android": {
+      "message": "フィルタリングログ"
+   },
+   "popup_open_settings": {
+      "message": "AdGuard 設定"
+   },
+   "popup_security_report": {
+      "message": "ウェブサイト・セキュリティレポート"
+   },
+   "popup_security_report_android": {
+      "message": "セキュリティレポート"
+   },
+   "popup_site_exception": {
+      "message": "このウェブサイトは除外リストに入っています"
+   },
+   "popup_site_exception_info": {
+      "message": "このウェブサイトの動作を邪魔する可能性があるため、フィルタリングは停止しています。"
+   },
+   "popup_site_filtering_disabled": {
+      "message": "AdGuardはこのドメインでは動作できません"
+   },
+   "popup_site_filtering_state": {
+      "message": "このウェブサイトでの保護"
+   },
+   "popup_site_protection_disabled": {
+      "message": "AdGuardの保護を停止中"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "AdGuardの保護は一時停止中"
+   },
+   "popup_tab_blocked": {
+      "message": "ブロック数: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "総数：$1"
+   },
+   "popup_what_wrong_site": {
+      "message": "ウェブサイトで怪しかった点はなんですか？"
+   },
+   "release_notes_title": {
+      "message": "AdGuard Extension updated!"
+   },
+   "release_notes_whats_new": {
+      "message": "What's new in&nbsp;this version?"
+   },
+   "sb_adguard_blocked": {
+      "message": "AdGuard はこのページへのアクセスをブロックしました"
+   },
+   "sb_go_back": {
+      "message": "元のページに戻る"
+   },
+   "sb_goto_site": {
+      "message": "そのまま続行する"
+   },
+   "sb_main_title": {
+      "message": "注意！！セキュリティリスクに晒されている可能性があります。"
+   },
+   "sb_malware_description": {
+      "message": "AdGuardは、続行すると悪質なソフトウェアがコンピュータにインストールされる可能性があることを発見しました。 過去にこのサイトを訪問したことがあったり、またはこのサイトを信頼している場合は、本サイトは最近、ハッカーによって侵害された可能性があります。 続行しないか、もしくは後でもう一度試してみることをおすすめします。"
+   },
+   "sb_malware_site": {
+      "message": "\u003Cstrong>$1\u003C/strong>はマルウエアに感染する恐れのあるページとして報告されており、あなたが設定したセキュリティ設定に基づいてブロックされました。"
+   },
+   "sb_more_actions": {
+      "message": "アドバンスド設定"
+   },
+   "sb_phishing_description": {
+      "message": "AdGuard は、このページが、ユーザーに個人情報や財務情報の共有を依頼するように設計された別のウェブサイトの偽造または模造品であることを発見しました。 このページに個人情報を入力すると、ID 盗難やその他の悪用が発生する可能性があります。"
+   },
+   "sb_phishing_site": {
+      "message": "\u003Cstrong>$1\u003C/strong>はフィッシング詐欺のページとして報告されており、あなたの設定したセキュリティ設定に基づいてブロックされました。"
+   },
+   "sb_site_report": {
+      "message": "詳細"
+   },
+   "sb_title": {
+      "message": "注意！！セキュリティリスクに晒されている可能性があります。"
+   },
+   "short_name": {
+      "message": "AdGuard 広告ブロッカー"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "すべてのブラウザで広告をブロック"
+   },
+   "thankyou_compare_blocked": {
+      "message": "広告ブロッキング"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "ブラウザ拡張機能の能力で限られている"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "AdGuard 拡張機能"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "フル"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard for Windows"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "thankyou_compare_increase": {
+      "message": "ページの読み込み時間を短縮"
+   },
+   "thankyou_compare_parent": {
+      "message": "ペアレンタルコントロール"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "フィッシングや悪意のあるWebサイトに対する保護"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "フィッシング攻撃からの保護"
+   },
+   "thankyou_compare_support": {
+      "message": "テクニカルサポート"
+   },
+   "thankyou_compare_traffic": {
+      "message": "インターネットトラフィックを節約"
+   },
+   "thankyou_download": {
+      "message": "AdGuardをダウンロードする"
+   },
+   "thankyou_enjoy": {
+      "message": "介入する広告、あなたの動きをすべて追跡するカウンター、あなたを待ち伏せしようとしている詐欺やウイルスなどといった脅威ナシでさまざまなウェブサイトをお楽しみ下さい。"
+   },
+   "thankyou_help_in_development": {
+      "message": "AdGuard フィルタの開発に参加する"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "AdGuard が疑わしいと判断したウェブサイトや、AdGuard 広告ブロッカーの動作について匿名の統計を送信する。\u003Cspan class='warn-message'>&nbsp;動作の遅いコンピューターには非推奨。\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "インストール済み"
+   },
+   "thankyou_setup_filter": {
+      "message": "あなたのフィルタの設定をカスタマイズ"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "ブラウジングセキュリティ・モジュールは、悪質なウェブサイトやフィッシング詐欺のウェブサイトからあなたを守ります。 このモジュールは\u003Ca target='blank'href='http://adguard.com/how-malware-blocked.html'>特別なWebサービス\u003C/a>を使用して、訪問するウェブサイトをチェックします。"
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "フィッシングや悪質なWebサイトに対する保護"
+   },
+   "thankyou_title": {
+      "message": "AdGuardをインストールしていただきありがとうございます！"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "AdGuard はSNSウィジットをウェブページから除去する事ができます。例えば、「いいね！」ボタンなど、あなたの行動を追跡するもののことです。"
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "SNSウィジェットをブロックする"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "何百社ものインターネット企業があなたの行動を偵察しています。 AdGuard を使うと、これらのスパイから簡単に保護されることができます。"
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "すべての既知のカウンタおよび分析システム用フィルタ"
+   },
+   "thankyou_want_full_protection": {
+      "message": "フルプロテクションを試してみたいですか？AdGuard for Windows をダウンロード！"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "フルプロテクションを試してみたいですか？AdGuard for Mac をダウンロード！"
+   }
+}

@@ -1,0 +1,27 @@
+2018/10/19-10:05:48.689 1375 Reusing MANIFEST /home/gautham/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2018/10/19-10:05:48.727 1375 Recovering log #62
+2018/10/19-10:05:49.370 1375 Reusing old log /home/gautham/.config/google-chrome/Default/Sync Data/LevelDB/000062.log 
+2018/10/19-23:35:04.917 3561 Level-0 table #66: started
+2018/10/19-23:35:05.072 3561 Level-0 table #66: 773145 bytes OK
+2018/10/19-23:35:05.147 3561 Delete type=0 #62
+2018/10/21-10:40:59.265 3561 Level-0 table #68: started
+2018/10/21-10:40:59.446 3561 Level-0 table #68: 848984 bytes OK
+2018/10/21-10:40:59.542 3561 Delete type=0 #65
+2018/10/23-01:23:43.791 3561 Level-0 table #70: started
+2018/10/23-01:23:43.972 3561 Level-0 table #70: 940950 bytes OK
+2018/10/23-01:23:44.187 3561 Delete type=0 #67
+2018/10/23-01:23:44.189 3561 Compacting 4@0 + 1@1 files
+2018/10/23-01:23:44.316 3561 Generated table #71@0: 558 keys, 195823 bytes
+2018/10/23-01:23:44.316 3561 Compacted 4@0 + 1@1 files => 195823 bytes
+2018/10/23-01:23:44.371 3561 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/23-01:23:44.372 3561 Delete type=2 #63
+2018/10/23-01:23:44.372 3561 Delete type=2 #60
+2018/10/23-01:23:44.372 3561 Delete type=2 #68
+2018/10/23-01:23:44.373 3561 Delete type=2 #66
+2018/10/23-01:23:44.374 3561 Delete type=2 #70
+2018/10/24-10:51:40.091 3561 Level-0 table #73: started
+2018/10/24-10:51:40.257 3561 Level-0 table #73: 790373 bytes OK
+2018/10/24-10:51:40.574 3561 Delete type=0 #69
+2018/10/25-18:29:52.143 3561 Level-0 table #75: started
+2018/10/25-18:29:52.277 3561 Level-0 table #75: 755910 bytes OK
+2018/10/25-18:29:52.351 3561 Delete type=0 #72

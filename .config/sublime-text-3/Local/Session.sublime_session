@@ -1,0 +1,1044 @@
+{
+	"folder_history":
+	[
+		"/home/gautham/Documents/projects/smp/smp",
+		"/home/gautham/Documents/projects/google code jam",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sort a scrambled itinerary",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Googol String",
+		"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/GBus count",
+		"/home/gautham/Documents/projects/code snip",
+		"/home/gautham/Documents/projects/code snip/js",
+		"/home/gautham/Documents/projects/code snip/js/it",
+		"/home/gautham/Documents/projects/newsgator3"
+	],
+	"last_version": 3176,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 743.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"gen_str",
+						"gen_string"
+					],
+					[
+						"check",
+						"check_arry"
+					],
+					[
+						"temp",
+						"tempobj"
+					],
+					[
+						"chara",
+						"characters_included"
+					],
+					[
+						"time",
+						"times_found"
+					],
+					[
+						"gen",
+						"gen_string_list"
+					],
+					[
+						"times",
+						"times_found"
+					],
+					[
+						"gen_strin",
+						"gen_string_list"
+					],
+					[
+						"char",
+						"chars_inc"
+					],
+					[
+						"gene",
+						"generate_string"
+					],
+					[
+						"cha",
+						"chars_inc"
+					],
+					[
+						"string",
+						"stringlist"
+					],
+					[
+						"tos",
+						"toString\t(): string String"
+					],
+					[
+						"min",
+						"min_params"
+					],
+					[
+						"min_val",
+						"min_value"
+					],
+					[
+						"tota",
+						"totallength"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"total",
+						"totallength"
+					],
+					[
+						"arr",
+						"arrlength"
+					],
+					[
+						"last",
+						"last_index"
+					],
+					[
+						"Ar",
+						"Ary_1"
+					],
+					[
+						"Math",
+						"Math_floor\t( x: number ): number Math"
+					],
+					[
+						"tar",
+						"targetvalue"
+					],
+					[
+						"fun",
+						"function_with_name"
+					],
+					[
+						"first",
+						"first_index"
+					],
+					[
+						"func",
+						"function_with_name"
+					],
+					[
+						"Array",
+						"Arraymanup"
+					],
+					[
+						"ret",
+						"reteven"
+					],
+					[
+						"math",
+						"Math_floor\t( x: number ): number Math"
+					],
+					[
+						"funtion",
+						"function_with_name"
+					],
+					[
+						"mer",
+						"mergeSort"
+					],
+					[
+						"inser",
+						"insertionSort"
+					],
+					[
+						"sel",
+						"selectionSort"
+					],
+					[
+						"bubb",
+						"bubbleSort"
+					],
+					[
+						"sub",
+						"subarray"
+					],
+					[
+						"parse",
+						"parseInt\t( s: string, radix: int ): int Global"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"using",
+						"using\tnamespace"
+					],
+					[
+						"cl",
+						"cl\tconsole.log"
+					],
+					[
+						"console",
+						"console_log"
+					],
+					[
+						"cons",
+						"console_log"
+					],
+					[
+						"co",
+						"contentLines"
+					],
+					[
+						"file",
+						"filePath"
+					],
+					[
+						"cou",
+						"cout\tiostream"
+					],
+					[
+						"iostr",
+						"I-iostream\tinc"
+					],
+					[
+						"clu",
+						"includes\tfunc"
+					],
+					[
+						"a",
+						"aggregate"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ht",
+						"HTMLPrettify"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"htmlprettify",
+						"HTMLPrettify"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Channel"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/index.cc",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/output2.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/am.txt",
+				"/home/gautham/Downloads/C-large-practice.in",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/index.js",
+				"/home/gautham/Downloads/C-small-practice.in",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/output",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/backup.cpp",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/index.py",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/am2.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/output.txt",
+				"/home/gautham/Downloads/D-small-practice (1).in",
+				"/home/gautham/Downloads/D-large-practice (1).in",
+				"/home/gautham/Downloads/A-small-practice.in",
+				"/home/gautham/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sort a scrambled itinerary/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sort a scrambled itinerary/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Googol String/output.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/output.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/am.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/index.js",
+				"/home/gautham/Documents/projects/code snip/c/library.cpp",
+				"/home/gautham/Documents/projects/code snip/c/a.out",
+				"/home/gautham/Documents/projects/code snip/c/string.cpp",
+				"/home/gautham/Documents/projects/code snip/c/skeleton.cpp",
+				"/home/gautham/Documents/projects/newsgator3/views/admin/searchmedia.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/views/app/index.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/models/media.js",
+				"/home/gautham/Documents/projects/newsgator3/routes/index.js",
+				"/home/gautham/Documents/projects/newsgator3/routes/admin.js",
+				"/home/gautham/Documents/projects/newsgator3/views/cart/cart.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/views/app/productpage.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/routes/media.js",
+				"/home/gautham/Documents/projects/newsgator3/views/media/uploadmedia.handlebars",
+				"/home/gautham/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"x",
+					"check_arry",
+					"i",
+					"arr1",
+					"strings[i]",
+					"strings",
+					"consol",
+					"check_arry[i]",
+					"arr_obj",
+					"Things",
+					"+strings[i][strings[i].length-1]",
+					"string[",
+					"a",
+					" ",
+					"1",
+					":",
+					"(in",
+					"i]",
+					"i",
+					"{",
+					"index",
+					"maxparams",
+					"params",
+					"conso",
+					"30",
+					"(parseInt(i) + parseInt(max_no))",
+					") +",
+					"k, obj_1",
+					"itern2",
+					"i",
+					"j",
+					"i",
+					"{",
+					"arry2",
+					"arry1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1362.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"friends",
+						"friends_from"
+					],
+					[
+						"fri",
+						"friends_weight"
+					],
+					[
+						"some",
+						"somethingelse"
+					],
+					[
+						"gen_str",
+						"gen_string"
+					],
+					[
+						"check",
+						"check_arry"
+					],
+					[
+						"temp",
+						"tempobj"
+					],
+					[
+						"chara",
+						"characters_included"
+					],
+					[
+						"time",
+						"times_found"
+					],
+					[
+						"gen",
+						"gen_string_list"
+					],
+					[
+						"times",
+						"times_found"
+					],
+					[
+						"gen_strin",
+						"gen_string_list"
+					],
+					[
+						"char",
+						"chars_inc"
+					],
+					[
+						"gene",
+						"generate_string"
+					],
+					[
+						"cha",
+						"chars_inc"
+					],
+					[
+						"string",
+						"stringlist"
+					],
+					[
+						"tos",
+						"toString\t(): string String"
+					],
+					[
+						"min",
+						"min_params"
+					],
+					[
+						"min_val",
+						"min_value"
+					],
+					[
+						"tota",
+						"totallength"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"total",
+						"totallength"
+					],
+					[
+						"arr",
+						"arrlength"
+					],
+					[
+						"last",
+						"last_index"
+					],
+					[
+						"Ar",
+						"Ary_1"
+					],
+					[
+						"Math",
+						"Math_floor\t( x: number ): number Math"
+					],
+					[
+						"tar",
+						"targetvalue"
+					],
+					[
+						"fun",
+						"function_with_name"
+					],
+					[
+						"first",
+						"first_index"
+					],
+					[
+						"func",
+						"function_with_name"
+					],
+					[
+						"Array",
+						"Arraymanup"
+					],
+					[
+						"ret",
+						"reteven"
+					],
+					[
+						"math",
+						"Math_floor\t( x: number ): number Math"
+					],
+					[
+						"funtion",
+						"function_with_name"
+					],
+					[
+						"mer",
+						"mergeSort"
+					],
+					[
+						"inser",
+						"insertionSort"
+					],
+					[
+						"sel",
+						"selectionSort"
+					],
+					[
+						"bubb",
+						"bubbleSort"
+					],
+					[
+						"sub",
+						"subarray"
+					],
+					[
+						"parse",
+						"parseInt\t( s: string, radix: int ): int Global"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"using",
+						"using\tnamespace"
+					],
+					[
+						"cl",
+						"cl\tconsole.log"
+					],
+					[
+						"console",
+						"console_log"
+					],
+					[
+						"cons",
+						"console_log"
+					],
+					[
+						"co",
+						"contentLines"
+					],
+					[
+						"file",
+						"filePath"
+					],
+					[
+						"cou",
+						"cout\tiostream"
+					],
+					[
+						"iostr",
+						"I-iostream\tinc"
+					],
+					[
+						"clu",
+						"includes\tfunc"
+					],
+					[
+						"a",
+						"aggregate"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/second/index.js",
+					"settings":
+					{
+						"buffer_size": 855,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ht",
+						"HTMLPrettify"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"htmlprettify",
+						"HTMLPrettify"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Channel"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/gautham/Documents/projects/google code jam",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/second",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/third"
+			],
+			"file_history":
+			[
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/second/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/second/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/first/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/first/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/first/index.cpp",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/first/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/first/main.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/King's Circle/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/King's Circle/ams.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/King's Circle/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/King's Circle/index.py",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/King's Circle/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/Sherlock and bit strings/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/Sherlock and bit strings/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/Sherlock and bit strings/index.py",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/Sherlock and bit strings/index.cpp",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/No Nine/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/No Nine/index.py",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round B 2018/No Nine/am.txt",
+				"/home/gautham/Downloads/A-large-practice.in",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/index.cc",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/output2.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/am.txt",
+				"/home/gautham/Downloads/C-large-practice.in",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Scrambled Words/index.js",
+				"/home/gautham/Downloads/C-small-practice.in",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/output",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Lucky Dip/backup.cpp",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/index.py",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Round A 2018/Even Digits/output.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/am2.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sums of Sums/output.txt",
+				"/home/gautham/Downloads/D-small-practice (1).in",
+				"/home/gautham/Downloads/D-large-practice (1).in",
+				"/home/gautham/Downloads/A-small-practice.in",
+				"/home/gautham/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sort a scrambled itinerary/index.js",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Sort a scrambled itinerary/am.txt",
+				"/home/gautham/Documents/projects/google code jam/Kickstart Practice Round 2018/Googol String/output.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/output.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/am.txt",
+				"/home/gautham/Documents/projects/code snip/js/it/index.js",
+				"/home/gautham/Documents/projects/code snip/c/library.cpp",
+				"/home/gautham/Documents/projects/code snip/c/a.out",
+				"/home/gautham/Documents/projects/code snip/c/string.cpp",
+				"/home/gautham/Documents/projects/code snip/c/skeleton.cpp",
+				"/home/gautham/Documents/projects/newsgator3/views/admin/searchmedia.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/views/app/index.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/models/media.js",
+				"/home/gautham/Documents/projects/newsgator3/routes/index.js",
+				"/home/gautham/Documents/projects/newsgator3/routes/admin.js",
+				"/home/gautham/Documents/projects/newsgator3/views/cart/cart.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/views/app/productpage.handlebars",
+				"/home/gautham/Documents/projects/newsgator3/routes/media.js",
+				"/home/gautham/Documents/projects/newsgator3/views/media/uploadmedia.handlebars",
+				"/home/gautham/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"i",
+					"i ",
+					" ",
+					"N",
+					"i",
+					"2",
+					"= ",
+					"X",
+					"_3[",
+					"_3",
+					"C",
+					"×",
+					"i ",
+					"_2",
+					"1",
+					"]",
+					" ",
+					"i",
+					"cnt",
+					"m_1",
+					"Thjngs",
+					"i",
+					"[i]=",
+					"push",
+					"parseInt",
+					"dinates",
+					" ",
+					"=",
+					"×",
+					"3",
+					"c",
+					"s)",
+					"0 R",
+					"x",
+					"check_arry",
+					"i",
+					"arr1",
+					"strings[i]",
+					"strings",
+					"consol",
+					"check_arry[i]",
+					"arr_obj",
+					"Things",
+					"+strings[i][strings[i].length-1]",
+					"string[",
+					"a",
+					" ",
+					"1",
+					":",
+					"(in",
+					"i]",
+					"i",
+					"{",
+					"index",
+					"maxparams",
+					"params",
+					"conso",
+					"30",
+					"(parseInt(i) + parseInt(max_no))",
+					") +",
+					"k, obj_1",
+					"itern2",
+					"i",
+					"j",
+					"i",
+					"{",
+					"arry2",
+					"arry1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gautham/Documents/projects/google code jam"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gautham/Documents/projects/google code jam/Kickstart Round E 2018/second/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 855,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										76,
+										76
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,2,23,1364,766,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

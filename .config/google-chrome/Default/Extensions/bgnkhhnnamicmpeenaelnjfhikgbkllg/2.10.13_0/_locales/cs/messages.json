@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: Chcete povolit předplatné $1?"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard: Chcete importovat pravidla z $1 do svého uživatelského filtru?"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "AdGuard dokončil import pravidel do uživalského filtru. Počet importovaných pravidel: $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "Import byl úspěšně dokončen"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard pro Mac"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard pro Windows"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "«$1» byl automaticky aktivován"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Automatická aktivace filtrů"
+   },
+   "assistant_another_element": {
+      "message": "Vyber další element"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "Použít toto pravidlo&nbsp;pro každou webovou stránku"
+   },
+   "assistant_block": {
+      "message": "Blokovat"
+   },
+   "assistant_block_by_reference": {
+      "message": "Blokovat prvek podle&nbsp;URL"
+   },
+   "assistant_block_element": {
+      "message": "Blokování"
+   },
+   "assistant_block_element_explain": {
+      "message": "Blokování nastavení pravidel"
+   },
+   "assistant_block_similar": {
+      "message": "Blokovat podobné elemnty"
+   },
+   "assistant_extended_settings": {
+      "message": "Pokročilá nastavení..."
+   },
+   "assistant_preview": {
+      "message": "Náhled"
+   },
+   "assistant_preview_end": {
+      "message": "Konec náhledu"
+   },
+   "assistant_preview_header": {
+      "message": "Blokovaný prvek - Náhled"
+   },
+   "assistant_preview_header_info": {
+      "message": "Zkontrolujte, jak bude vypadat stránka před potvrzením blokování."
+   },
+   "assistant_preview_start": {
+      "message": "Náhled"
+   },
+   "assistant_select_element": {
+      "message": "Režim výběru"
+   },
+   "assistant_select_element_cancel": {
+      "message": "Zrušit"
+   },
+   "assistant_select_element_ext": {
+      "message": "Klikněte na&nbsp;jakýkoliv prvek na&nbsp;stránce"
+   },
+   "assistant_slider_explain": {
+      "message": "Pomocí posuvníku&nbsp; změnit velikost&nbsp; prvku&nbsp; se&nbsp; zablokovány&nbsp; toto pravidlo:"
+   },
+   "assistant_slider_if_hide": {
+      "message": "Filtr bude obsahovat&nbsp; pravidlo, že blokuje vybraný prvek"
+   },
+   "assistant_slider_max": {
+      "message": "VĚTŠÍ"
+   },
+   "assistant_slider_min": {
+      "message": "MENŠÍ"
+   },
+   "background_tab_title": {
+      "message": "Karta pozadí"
+   },
+   "context_abuse_site": {
+      "message": "Odeslat stížnost na tuto stránku..."
+   },
+   "context_ads_has_been_removed": {
+      "message": "Reklamy na této stránce byly zablokovány"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "Chráněno $1"
+   },
+   "context_antibanner": {
+      "message": "Blokování reklamy"
+   },
+   "context_block_site_ads": {
+      "message": "Zablokovat reklamy na této stránce..."
+   },
+   "context_block_site_element": {
+      "message": "Zablokovat element..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: Blokovat obrázek..."
+   },
+   "context_disable_protection": {
+      "message": "Pozastavit ochranu AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "Znovu spustit ochanu AdGuard"
+   },
+   "context_general_settings": {
+      "message": "Obecná nastavení"
+   },
+   "context_miscellaneous_settings": {
+      "message": "Různé"
+   },
+   "context_open_log": {
+      "message": "Záznam filtrování..."
+   },
+   "context_open_settings": {
+      "message": "Nastavení AdGuardu..."
+   },
+   "context_safebrowsing": {
+      "message": "Bezpečnost procházení webu"
+   },
+   "context_security_report": {
+      "message": "Otevřít bezpečnostní zprávu o webové stránce..."
+   },
+   "context_site_exception": {
+      "message": "Tato webová stránka je ve vyjímkách"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard nefunguje na této doméně"
+   },
+   "context_site_filtering_off": {
+      "message": "Vypnout filtrování na této stránce"
+   },
+   "context_site_filtering_on": {
+      "message": "Zapnout filtrování na této stránce"
+   },
+   "context_site_protection_disabled": {
+      "message": "Ochrana AdGuard je pozastavena"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Vyhledat aktualizace filtrů"
+   },
+   "context_userfilter": {
+      "message": "Uživatelský filtr"
+   },
+   "context_whitelist": {
+      "message": "Seznam povolených webů"
+   },
+   "description": {
+      "message": "Nepřekonané rozšíření proti reklamám a vyskakovacím oknům. Blokuje reklamy na Facebooku, Youtube a všech ostatních stránkách."
+   },
+   "description_blocked": {
+      "message": "Reklam blokováno na této stránce: $1"
+   },
+   "filter_download_ads_malware": {
+      "message": "90% of&nbsp;virů a škodlivého softwaru&nbsp;je distribuováno\u003Cbr/>skrze podezřelé reklamní&nbsp;servery."
+   },
+   "filter_download_do_you_know": {
+      "message": "Víte že?"
+   },
+   "filter_download_loading": {
+      "message": "Prosím čekejte než se načte databáze filtrů&nbsp;..."
+   },
+   "filter_download_rules": {
+      "message": "Průměrně&nbsp;přidáváme&nbsp;více než 100&nbsp;reklamních filtrů každý týden."
+   },
+   "filter_download_sb_sites": {
+      "message": "AdGuard databáze phishingu a malwaru obsahuje\u003Cbr/>více než 1&nbsp;milión webových stránek."
+   },
+   "filter_download_title": {
+      "message": "Databáze filtrů&nbsp;se načítá..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "Vymazat"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "Tato stránká je ve whitelistu"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "Začněte vyhledávat"
+   },
+   "filtering_log_tab": {
+      "message": "Záložka:"
+   },
+   "filtering_log_title": {
+      "message": "Záznam filtrování"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Přidat pravidlo"
+   },
+   "filtering_modal_add_title": {
+      "message": "Přiřadit pravidlo"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Aplikovat pravidlo na všechny webové stránky"
+   },
+   "filtering_modal_block": {
+      "message": "Blokovat"
+   },
+   "filtering_modal_element": {
+      "message": "Prvek:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Přidat výjimku."
+   },
+   "filtering_modal_filter": {
+      "message": "Filtr:"
+   },
+   "filtering_modal_important": {
+      "message": "Přiřadit pravidlu vyšší prioritu"
+   },
+   "filtering_modal_info_title": {
+      "message": "Požadovat detaily"
+   },
+   "filtering_modal_match_case": {
+      "message": "Zohlednit velká písmena"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Otevřít v nové záložce"
+   },
+   "filtering_modal_options": {
+      "message": "Možnosti"
+   },
+   "filtering_modal_patterns": {
+      "message": "Vzory"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Odstranit z uživatelských filtrů"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "Odebrat z whitelistu"
+   },
+   "filtering_modal_rule": {
+      "message": "Pravidlo:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "Text pravidla"
+   },
+   "filtering_modal_source": {
+      "message": "Zdroj:"
+   },
+   "filtering_modal_third_party": {
+      "message": "Aplikovat pouze na požadavky třetích stran"
+   },
+   "filtering_modal_type": {
+      "message": "Typ:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Odblokovat"
+   },
+   "filtering_refresh_tab": {
+      "message": "Obnovit stránku"
+   },
+   "filtering_table_empty_row": {
+      "message": "Záznam této stránky je prázdný. \u003Ca href='#' class='reloadTab'>Obnovte stránku\u003C/a> pro zobrazení záznamu."
+   },
+   "filtering_table_filter": {
+      "message": "Filtr"
+   },
+   "filtering_table_rule": {
+      "message": "Pravidlo filtrování"
+   },
+   "filtering_table_source": {
+      "message": "Zdroj"
+   },
+   "filtering_table_type": {
+      "message": "Typ"
+   },
+   "filtering_type_all": {
+      "message": "Vše"
+   },
+   "name": {
+      "message": "AdGuard AdBlocker"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "Povolit vyhledávání reklam a vlastní propagaci webových stránek\u003Ca target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Dozvědět se&nbsp;více\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "Ad&nbsp;blocker"
+   },
+   "options_antibanner_info": {
+      "message": "Počet pravidel filtru"
+   },
+   "options_antibanner_list_empty": {
+      "message": "Seznam filtrů je&nbsp;prázdný. \u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>Přidat nový filtr\u003C/a>?"
+   },
+   "options_blog": {
+      "message": "AdGuard blog"
+   },
+   "options_collect_hit_stats": {
+      "message": "Odeslat statistiku&nbsp;použitívání filtru\u003Ca target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Zjistit více&nbsp;\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "Příliš mnoho povolených filtrů. Safari není schopno používat více než 50000 pravidel."
+   },
+   "options_do_you_like": {
+      "message": "Líbí se vám AdGuard?"
+   },
+   "options_download_adguard": {
+      "message": "Stáhnout plnou verzi"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "Všechny filtry"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Aktivovat nejvhodnější filtry automaticky"
+   },
+   "options_feedback": {
+      "message": "Kntaktujte&nbsp;nás"
+   },
+   "options_filter_version": {
+      "message": "Verze $1. Aktualizováno $2 v $3."
+   },
+   "options_footer_like_us": {
+      "message": "Ohodnotit!"
+   },
+   "options_forum": {
+      "message": "AdGuard fórum"
+   },
+   "options_general_settings": {
+      "message": "Obecná nastavení"
+   },
+   "options_like_us": {
+      "message": "Líbí se vám AdGuard? Ohodnoťte ho!"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Různé"
+   },
+   "options_modal_cancel": {
+      "message": "Zrušit"
+   },
+   "options_modal_edit": {
+      "message": "Seznam filtrů"
+   },
+   "options_modal_homepage": {
+      "message": "Domovská stránka"
+   },
+   "options_modal_save": {
+      "message": "Uložit změny"
+   },
+   "options_open_changelog": {
+      "message": "Seznam změn"
+   },
+   "options_open_log": {
+      "message": "Záznam filtrování"
+   },
+   "options_popup_update_error": {
+      "message": "Nepovedlo se získat aktualizace. Prosím opakujte později."
+   },
+   "options_popup_update_not_found": {
+      "message": "Žádné aktualizace nenalezeny"
+   },
+   "options_popup_update_title": {
+      "message": "Filtry úspěšně aktualizovány"
+   },
+   "options_popup_update_updated": {
+      "message": "\"$1\" aktualizován na verzi $2"
+   },
+   "options_reset_stats": {
+      "message": "Vynulovat statistiky"
+   },
+   "options_reset_stats_done": {
+      "message": "Statistiky jsou vynulovány"
+   },
+   "options_safebrowsing": {
+      "message": "Bezpečnost procházení internetu"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Ochrana proti phishingu a škodlivému softwaru\u003Ca target='_blank' href='https://adguard.com/how-malware-blocked.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Dozvědět se&nbsp;více\u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "Pomožte&nbsp;nám s&nbsp;vývojem filtrů pro bezpečné procházení webu\u003Cspan class='sp-table-row-info'>Poslat anonymní zprávu týkající se bezpečnosti\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "Nic nenalezeno"
+   },
+   "options_settings": {
+      "message": "Nastavení AdGuardu"
+   },
+   "options_show_adguard_full_version": {
+      "message": "Zobrazit informace o plné verzi&nbsp;AdGuard"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "Ukozovat počet&nbsp;blokovaných reklam na&nbsp;ikoně AdGuardu"
+   },
+   "options_show_context_menu": {
+      "message": "Přidat AdGuard do&nbsp;kontextového menu prohlížeče."
+   },
+   "options_site": {
+      "message": "Oficiální stránka"
+   },
+   "options_too_many_filters_selected": {
+      "message": "Přihlásili jste se k příliš mnoha filtrům. To může značně zpomalit váš prohlížeč."
+   },
+   "options_update_antibanner_filters": {
+      "message": "Vyhledat aktualizace filtrů"
+   },
+   "options_use_optimized_filters": {
+      "message": "Použít optimalizované filtry\u003Cspan class='sp-table-row-info'>Zjednodušené filtry optimalivané pro mobilní zařízení\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "Uživatelský filtr"
+   },
+   "options_userfilter_add_rule": {
+      "message": "Přidat nové pravidlo"
+   },
+   "options_userfilter_clear": {
+      "message": "Vymazat"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "Vymazání uživatelského filtru odstraní všechna pravidla. Opravdu chcete vymazat uživatelský filtr?"
+   },
+   "options_userfilter_description": {
+      "message": "Do tohoto filtru můžete přidat vlastní pravidla. Tato možnost je doporučena pro pokročilé uživatele, kteří jsou obeznámeni s HTML/CSS. Chcete-li se neučit psát svá vlastní filtrovací pravidla, přečtěte si \u003Ca class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>návod filtrovacích pravidel\u003C/a>."
+   },
+   "options_userfilter_export": {
+      "message": "Exportovat"
+   },
+   "options_userfilter_import": {
+      "message": "Importovat"
+   },
+   "options_userfilter_search": {
+      "message": "Hledat v uživatelských filtrech"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "Zadejte vyhledávací řetězec"
+   },
+   "options_userlist_empty": {
+      "message": "Uživatelský filtr je prázdný. \u003Ca class='spl-user-descr-link addUserFilter' href='#'>Přidat nové pravidlo\u003C/a>?"
+   },
+   "options_whitelist": {
+      "message": "Whitelist"
+   },
+   "options_whitelist_add_domain": {
+      "message": "Přidat stránku"
+   },
+   "options_whitelist_description": {
+      "message": "AdGuard nefiltruje stránky ve whitelistu."
+   },
+   "options_whitelist_empty": {
+      "message": "Whitelist je práydný. \u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>Přidat stránku\u003C/a> do whitelistu?"
+   },
+   "options_whitelist_inverse": {
+      "message": "Invertovat whitelist\u003Cspan class='sp-table-row-info'>Povolit reklamy všude \u003Ci>kromě\u003C/i> whitelistu\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "Hledat ve whitelistu"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "Zadejte vyhledávací řetězec"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "Vymazání whitelistu odstraní všechna pravidla. Opravdu chcete smazat whitelist?"
+   },
+   "popup_abuse_problem": {
+      "message": "Submit a&nbsp;complaint"
+   },
+   "popup_abuse_site": {
+      "message": "Odeslat&nbsp;stížnost na&nbsp;tuto webovou stránku"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard pro Android"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "Mód integrace AdGuard \u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>je\u003C/a> aktivní"
+   },
+   "popup_adguard_ios": {
+      "message": "AdGuard pro iOS"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard pro Mac"
+   },
+   "popup_adguard_other_os": {
+      "message": "Jiné verze AdGuard:"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard pro Windows"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "Reklamy na této stránce byly odstraněny"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "Chráněno $1"
+   },
+   "popup_block_site_ads": {
+      "message": "Blokovat reklamy&nbsp;na&nbsp;této stránce"
+   },
+   "popup_block_site_ads_android": {
+      "message": "Blokovat reklamu na webové stránce"
+   },
+   "popup_disable_protection": {
+      "message": "Pozastavit ochranu AdGuard"
+   },
+   "popup_enable_protection": {
+      "message": "Znovu spustit ochanu AdGuard"
+   },
+   "popup_feedback_cancel": {
+      "message": "Zrušit"
+   },
+   "popup_feedback_comment": {
+      "message": "Komentář"
+   },
+   "popup_feedback_empty_option": {
+      "message": "Vyberte důvod stížnosti"
+   },
+   "popup_feedback_malware_option": {
+      "message": "Podezření z phishingu"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "Nezablokovaná&nbsp;reklama"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "Musíte vybrat&nbsp;důvod stížnosti!"
+   },
+   "popup_feedback_other_option": {
+      "message": "Jiné"
+   },
+   "popup_feedback_send": {
+      "message": "Odeslat&nbsp;stížnost"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "Špatné zobrazení stránky"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "Otevřít log filtrování..."
+   },
+   "popup_in_white_list_android": {
+      "message": "Seznam povolených webů"
+   },
+   "popup_open_log_android": {
+      "message": "Záznam filtrování"
+   },
+   "popup_open_settings": {
+      "message": "Nastavení AdGuardu"
+   },
+   "popup_security_report": {
+      "message": "Bezpečnostní hlášení webové stránky"
+   },
+   "popup_security_report_android": {
+      "message": "Bezpečnostní hlášení"
+   },
+   "popup_site_exception": {
+      "message": "Tato webová stránka je&nbsp;ve&nbsp;vyjímkách"
+   },
+   "popup_site_exception_info": {
+      "message": "Filtrování je&nbsp;vypnuto, protože&nbsp;může způsobit nesprávné zobrazení této webové stránky."
+   },
+   "popup_site_filtering_disabled": {
+      "message": "AdGuard nefunguje na&nbsp;této doméně."
+   },
+   "popup_site_filtering_state": {
+      "message": "Ochrana na této webové stránce"
+   },
+   "popup_site_protection_disabled": {
+      "message": "Ochrana AdGuard je pozastavena"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "Ochrana je pozastavena"
+   },
+   "popup_tab_blocked": {
+      "message": "Blokováno: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "Celkem: $1"
+   },
+   "popup_what_wrong_site": {
+      "message": "Co je&nbsp;špatně s touto webovou stránkou?"
+   },
+   "release_notes_title": {
+      "message": "AdGuard rozšíření aktualizováno!"
+   },
+   "release_notes_whats_new": {
+      "message": "Co je nového v&nbsp; této verzi?"
+   },
+   "sb_adguard_blocked": {
+      "message": "AdGuard zablokoval přístup k&nbsp;této stránce"
+   },
+   "sb_go_back": {
+      "message": "Zpět"
+   },
+   "sb_goto_site": {
+      "message": "Přesto pokračovat"
+   },
+   "sb_main_title": {
+      "message": "Varování! Může být&nbsp;nebezpečné!"
+   },
+   "sb_malware_description": {
+      "message": "AdGuard zjistil, že škodlivý software může být&nbsp;nainstalován na Váš počítač pokud&nbsp;budete pokračovat. Pokud&nbsp;jste navštívili tuto stránku v&nbsp;minulosti, nebo&nbsp;věříte této stránce, &nbsp;je&nbsp;možné, že&nbsp;byla nedávno napadena&nbsp;&nbsp;hackery. Doporučujeme&nbsp;Vám abyste&nbsp;nepokračovali nebo&nbsp;to zkusili později."
+   },
+   "sb_malware_site": {
+      "message": "Tato webová stránka na&nbsp;\u003Cstrong>$1\u003C/strong>bzla nahlášena jako&nbsp;a&nbsp;obsahující malware a byla zablokována na základě&nbsp;Vašich bezpečnostních nastavení."
+   },
+   "sb_more_actions": {
+      "message": "Pokročilé"
+   },
+   "sb_phishing_description": {
+      "message": "AdGuard zjistil, že tato stránka může být&nbsp;a&nbsp;klamavá nebo&nbsp;imitací&nbsp;jiné webové stránky, navrhnutá, aby&nbsp;naváděla uživatele ke sdílení osobních nebo&nbsp;finančních údajů. Poskytování jakýchkoli osobních údajů na&nbsp;této stránce může vést&nbsp;ke kráděži nebo&nbsp;jinému zneužití Vašich údajů."
+   },
+   "sb_phishing_site": {
+      "message": "Tato webová stránka na&nbsp;\u003Cstrong>$1\u003C/strong>bzla nahlášena jako&nbsp;a&nbsp;obsahující phishing a byla zablokována na základě&nbsp;Vašich bezpečnostních nastavení."
+   },
+   "sb_site_report": {
+      "message": "Více informací"
+   },
+   "sb_title": {
+      "message": "Varování! Může být&nbsp;nebezpečné!"
+   },
+   "short_name": {
+      "message": "AdGuard AdBlocker"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "Blokuje reklamy napříč všemi prohlížeči"
+   },
+   "thankyou_compare_blocked": {
+      "message": "Blokování Reklam"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "Omezeno rozšířením schopností prohlížeče"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "Rozšíření AdGuard"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "Úplný"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard pro Windows"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard pro Mac"
+   },
+   "thankyou_compare_increase": {
+      "message": "Snižuje čas načítání stránky"
+   },
+   "thankyou_compare_parent": {
+      "message": "Rodičovská Kontrola"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "Ochrana proti phishingu a hrozbám z webových stránek"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "Ochrana proti phishingovým útokům"
+   },
+   "thankyou_compare_support": {
+      "message": "Technická Podpora"
+   },
+   "thankyou_compare_traffic": {
+      "message": "Šetření internetového provozu"
+   },
+   "thankyou_download": {
+      "message": "Stáhni AdGuard"
+   },
+   "thankyou_enjoy": {
+      "message": "Užijte si&nbsp;šikoré spektrum&nbsp;webových stránek bez otravných reklam, trackerů, které sledují Vaše chování a další hrozby jako&nbsp;viry nebo&nbsp;podvody, snažící se&nbsp;vás&nbsp;oklamat."
+   },
+   "thankyou_help_in_development": {
+      "message": "Účast ve&nbsp; vývoji&nbsp; AdGuard filtrů"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "Odesílat anonymní statistiky o práci na filtrech reklam AdGuardu a webech, které identifikoval AdGuard jako podezřelé. \u003Cspan class='warn-message'>Není doporučeno na pomalých počítačích.\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "INSTALOVÁNO"
+   },
+   "thankyou_setup_filter": {
+      "message": "Upravit nastavení filtrování"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "Modul Bezpečnost procházení webu Vás chrání před nebezpečnými a phishingovými webovými stránkami. Tento modul používá \u003Ca target='blank' href='http://adguard.com/how-malware-blocked.html'>speciální webovou službu\u003C/a> k prověřování webových stránek, které navštivujete."
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "Ochrana proti phishingu a hrozbám z webových stránek"
+   },
+   "thankyou_title": {
+      "message": "Děkujeme že jste si nainstalovali AdGuard!"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "AdGuard je schopen odstranit widgety z webových stránek. Například tlačítko \"Like\" které sleduje Vaši aktivitu."
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "Filter widgetů sociálních sití"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "Stovky&nbsp;internetových společností sledují Vaše chování na internetu. AdGuard se stará o to&nbsp;abyste byli dobře chráněni před tímto sledováním."
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "&nbsp;Filtr pro všechna známá počítadla a analytické systémy"
+   },
+   "thankyou_want_full_protection": {
+      "message": "Chcete &nbsp; vyzkoušet plnou ochranu? Stáhněte si AdGuard pro Windows!"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "Chcete &nbsp; vyzkoušet plnou ochranu? Stáhněte si AdGuard pro Mac!"
+   }
+}

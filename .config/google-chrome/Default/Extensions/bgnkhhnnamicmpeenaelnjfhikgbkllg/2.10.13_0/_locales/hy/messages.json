@@ -1,0 +1,707 @@
+{
+    "filtering_modal_element": {
+        "message": "Element:"
+    },
+    "background_tab_title": {
+        "message": "Background tab"
+    },
+    "filtering_modal_important": {
+        "message": "Բարձր առաջնահերթություն տալ կանոնին"
+    },
+    "thankyou_want_full_protection": {
+        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք AdGuard for Windows-ը:"
+    },
+    "thankyou_want_full_protection_mac": {
+        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք AdGuard for Mac-ը:"
+    },
+    "thankyou_compare_ext_title": {
+        "message": "AdGuard-ի ընդլայնում"
+    },
+    "thankyou_compare_full_title": {
+        "message": "AdGuard for Windows"
+    },
+    "thankyou_compare_full_title_mac": {
+        "message": "AdGuard for Mac"
+    },
+    "thankyou_compare_blocked": {
+        "message": "Գովազդի արգելում"
+    },
+    "thankyou_compare_ext_blocking": {
+        "message": "Սահմանափակ է ըստ դիտարկիչի ընդլայնման համատեղելիության"
+    },
+    "thankyou_compare_full_blocking": {
+        "message": "Լրիվ"
+    },
+    "thankyou_compare_safebrowsing": {
+        "message": "Պաշտպանություն որսումից և վնասագրերից"
+    },
+    "thankyou_compare_parent": {
+        "message": "Ծնողական հսկում"
+    },
+    "thankyou_compare_safebrowsing_attack": {
+        "message": "Պաշտպանություն որսումից"
+    },
+    "thankyou_compare_any_browser": {
+        "message": "Արգելել գովազդը բոլոր դիտարկիչներում"
+    },
+    "thankyou_compare_traffic": {
+        "message": "Խնայում է ինտերնետ-տրաֆիկը"
+    },
+    "thankyou_compare_increase": {
+        "message": "Արագացնում է էջի բեռնումը"
+    },
+    "thankyou_compare_support": {
+        "message": "Տեխնիկական աջակցություն"
+    },
+    "thankyou_installed": {
+        "message": "ՏԵՂԱԴՐՎԱԾ Է"
+    },
+    "thankyou_download": {
+        "message": "Ներբեռնել AdGuard-ը"
+    },
+    "thankyou_help_in_development": {
+        "message": "Մասնակցեք AdGuard-ի զտիչների &nbsp;ստեղծմանը&nbsp;"
+    },
+    "thankyou_help_in_development_description": {
+        "message": "Ուղարկել անանուն վիճակագրություն&nbsp;AdGuard-ի գովազդի&nbsp;զտիչների աշխատանքի մասին, ինչպես&nbsp;նաև&nbsp;այն կայքերի մասին, որոնք AdGuard-ը նույնացրել է որպես&nbsp;կասկածելի: <span class='warn-message'>Խորհուրդ չի տրվում&nbsp;դանդաղ համակարգիչներում:</span>"
+    },
+    "release_notes_title": {
+        "message": "AdGuard Extension updated!"
+    },
+    "release_notes_whats_new": {
+        "message": "Ինչն է նոր այս &nbsp;տարբերակում"
+    },
+    "assistant_select_element": {
+        "message": "Ընտրման եղանակ"
+    },
+    "assistant_select_element_ext": {
+        "message": "Սեղմեք&nbsp;էջի ցանկացած&nbsp;տարրին"
+    },
+    "assistant_select_element_cancel": {
+        "message": "Չեղարկել"
+    },
+    "assistant_block_element": {
+        "message": "Արգել տարրը"
+    },
+    "assistant_block_element_explain": {
+        "message": "Տարրի արգելափակման կանոնի կարգավորում"
+    },
+    "assistant_slider_explain": {
+        "message": "Օգտագործեք սահիչը՝&nbsp;փոխելու համար&nbsp;տարրի չափը,&nbsp;որն&nbsp;արգելափակվելու է&nbsp;ըստ հետևյալ կանոնի."
+    },
+    "assistant_slider_if_hide": {
+        "message": "Զտիչը պարունակում է&nbsp;կանոն, որն արգելափակում է ընտրված տարրը"
+    },
+    "assistant_slider_min": {
+        "message": "ՓՈՔՐ"
+    },
+    "assistant_slider_max": {
+        "message": "ՄԵԾ"
+    },
+    "assistant_extended_settings": {
+        "message": "Ընդլայնված կարգավորումներ"
+    },
+    "assistant_apply_rule_to_all_sites": {
+        "message": "Կիրառել այս կանոնը &nbsp;ցանկացած կայքի համար"
+    },
+    "assistant_block_by_reference": {
+        "message": "Արգելափակել տարրը ըստ &nbsp;url-ի"
+    },
+    "assistant_block_similar": {
+        "message": "Արգելափակել նման տարրերը"
+    },
+    "assistant_block": {
+        "message": "Արգելափակել"
+    },
+    "assistant_another_element": {
+        "message": "Ընտրել այլ տարր"
+    },
+    "assistant_preview": {
+        "message": "Նախադիտում"
+    },
+    "assistant_preview_header": {
+        "message": "Արգելափակված տարր - նախատեսք"
+    },
+    "assistant_preview_header_info": {
+        "message": "Ստուեք, թե էջը ինչպես պետք է ցուցադրվի՝ արգելափակումը հաստատելուց հետո:"
+    },
+    "assistant_preview_start": {
+        "message": "Նախադիտում"
+    },
+    "assistant_preview_end": {
+        "message": "Ավարտել նախադիտումը"
+    },
+    "name": {
+        "message": "AdGuard AdBlocker"
+    },
+    "short_name": {
+        "message": "AdGuard AdBlocker"
+    },
+    "description": {
+        "message": "Անգերազանցելի ad-block ընդլայնում՝ ընդդեմ գովազդի և ելնող պատուհանների: Արգելափակում է գովազդները Facebook-ում, Youtube-ում և այլ կայքերում:"
+    },
+    "description_blocked": {
+        "message": "Արգելափակված գովազդներ էջում. $1"
+    },
+    "options_settings": {
+        "message": "AdGuard-ի կարգավորումներ"
+    },
+    "options_general_settings": {
+        "message": "Գլխավոր կարգավորումներ"
+    },
+    "options_allow_acceptable_ads": {
+        "message": "Թույլատրել ընդունելի գովազդները<a target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Իմանալ ավելին&nbsp;</a>"
+    },
+    "options_show_blocked_ads_count": {
+        "message": "Ցուցադրել &nbsp;արգելափակված գովազդների քանակը&nbsp;AdGuard-ի ընդլայնման պատկերակում"
+    },
+    "options_enable_autodetect_filter": {
+        "message": "Ակտիվացնել առավել համապատասխանող զտիչները ինքնաբար"
+    },
+    "options_antibanner": {
+        "message": "Գովազդի&nbsp;արգելափակում"
+    },
+    "options_antibanner_info": {
+        "message": "Զտիչի կանոնների քանակ՝: $1"
+    },
+    "options_content_blocker_overlimit": {
+        "message": "չափից շատ կանոններ են միացված։ Safari-ն չի կարող կիրառել 50000-ից ավելի կանոններ։"
+    },
+    "options_whitelist": {
+        "message": "Սպիտակ ցուցակ"
+    },
+    "options_update_antibanner_filters": {
+        "message": "Ստուգել զտիչի թարմացումները"
+    },
+    "options_edit_antibanner_filters": {
+        "message": "Բոլոր զտիչները"
+    },
+    "options_too_many_filters_selected": {
+        "message": "Զտիչների բաժանորդագրությունները շատ են: Դա&nbsp;կարող է դանդաղեցնել դիտարկիչի աշխատանքը:"
+    },
+    "options_modal_cancel": {
+        "message": "Չեղարկել"
+    },
+    "options_modal_save": {
+        "message": "Պահպանել փոփոխությունները"
+    },
+    "options_modal_edit": {
+        "message": "Զտիչների ցանկը"
+    },
+    "options_modal_homepage": {
+        "message": "Կայքը"
+    },
+    "options_antibanner_list_empty": {
+        "message": "Զտիչների ցուցակը&nbsp;դատարկ է: <a class='spl-user-descr-link editAntiBannerFilters' href='#'>Ավելացնե՞լ նոր զտիչ</a>:"
+    },
+    "options_whitelist_description": {
+        "message": "AdGuard-ը չի զտում այն կայքերը, որոնք գտնվում են Սպիտակ ցուցակում:"
+    },
+    "options_whitelist_inverse": {
+        "message": "Հակադարձել սպիտակ ցուցակը<span class='sp-table-row-info'>Ապաարգելափակել գովազդները <i>բացի</i> Սպիտակ ցուցակից</span>"
+    },
+    "options_whitelist_add_domain": {
+        "message": "Ավելացնել կայք"
+    },
+    "options_userfilter": {
+        "message": "Օգտվողի զտիչ"
+    },
+    "options_userfilter_description": {
+        "message": "Կարող եք հավելել Ձեր կանոնները &nbsp;այս զտիչում: Այս ընտրանքը&nbsp;խորհուրդ է տրվում միայն հմուտ օգտվողներին, որոնք ծանոթ են HTML/CSS-ին: Կարդացեք <a class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>զտիչի կանոնների ձեռնարկը՝ իմանալու</a>, թե&nbsp;ինչպես&nbsp;գրել զտիչի կանոն:"
+    },
+    "options_userfilter_add_rule": {
+        "message": "Ավելացնել նոր կանոն"
+    },
+    "options_userfilter_export": {
+        "message": "Արտահանել"
+    },
+    "options_userfilter_import": {
+        "message": "Ներմուծել"
+    },
+    "options_userfilter_clear": {
+        "message": "Մաքրել"
+    },
+    "options_userfilter_clear_confirm": {
+        "message": "Օգտվողի զտիչների մաքրումը կհեռացնի բոլոր կանոնները: Շարունակե՞լ:"
+    },
+    "options_whitelistfilter_clear_confirm": {
+        "message": "Սպիտակ ցուցակի մաքրումը կհեռացնի բոլոր կանոնները: Շարունակե՞լ:"
+    },
+    "options_open_changelog": {
+        "message": "Փոփոխություններ"
+    },
+    "options_safebrowsing": {
+        "message": "Դիտարկիչի անվտանգություն"
+    },
+    "options_safebrowsing_enabled": {
+        "message": "Պաշտպանություն որսումից և վնասագրերից<a target='_blank' href='https://kb.adguard.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Իմանալ ավելին&nbsp;</a>"
+    },
+    "options_safebrowsing_help": {
+        "message": "Օգնեք&nbsp;մեզ&nbsp;դիտարկման զտիչների զարգացման գործում<span class='sp-table-row-info'>Ուղարկեք մեզ անվտանգության հետ կապված անանուն տեղեկություններ</span>"
+    },
+    "options_filter_version": {
+        "message": "Տարբերակ $1: Թարմացում $2, $3-ին:"
+    },
+    "options_site": {
+        "message": "Պաշտոնական կայք"
+    },
+    "options_blog": {
+        "message": "AdGuard-ի բլոգ"
+    },
+    "options_forum": {
+        "message": "AdGuard-ի ֆորում"
+    },
+    "options_feedback": {
+        "message": "Կապնվել&nbsp;մեզ հետ"
+    },
+    "options_do_you_like": {
+        "message": "Դուք &nbsp;հավանեցի՞ք AdGuard-ը:"
+    },
+    "options_like_us": {
+        "message": "Հավանու՞մ եք AdGuard-ը: Գնահատեք&nbsp;այն:"
+    },
+    "options_footer_like_us": {
+        "message": "Գնահատեք&nbsp;այն:"
+    },
+    "options_download_adguard": {
+        "message": "Ներբեռնել լրիվ տարբերակը"
+    },
+    "options_whitelist_empty": {
+        "message": "Սպիտակ ցուցակը դատարկ է: <a class='spl-user-descr-link addWhiteListFilter' href='#'>Հավելե՞լ կայք</a> Սպիտակ ցուցակում:"
+    },
+    "options_userlist_empty": {
+        "message": "Օգտվողի զտիչը դատարկ է: <a class='spl-user-descr-link addUserFilter' href='#'>Հավելե՞լ նոր զտիչի կանոն</a>:"
+    },
+    "options_searchlist_empty": {
+        "message": "Ոչինչ չի գտնվել"
+    },
+    "options_whitelist_search": {
+        "message": "Փնտրել &nbsp;Սպիտակ ցուցակում"
+    },
+    "options_whitelist_search_placeholder": {
+        "message": "Մուտքագրել որոնում"
+    },
+    "options_userfilter_search": {
+        "message": "Փնտրել օգտվողի&nbsp;զտիչում"
+    },
+    "options_userfilter_search_placeholder": {
+        "message": "Մուտքագրել որոնում"
+    },
+    "options_miscellaneous_settings": {
+        "message": "Խառը"
+    },
+    "options_show_adguard_full_version": {
+        "message": "Ցուցադրել տեղեկությունը &nbsp;AdGuard-ի ամբողջական տարբերակում"
+    },
+    "options_open_log": {
+        "message": "Զտիչների մատյան"
+    },
+    "options_reset_stats": {
+        "message": "Վերակայել վիճակագրությունը"
+    },
+    "options_reset_stats_done": {
+        "message": "Վիճակագրությունը վերակայված է"
+    },
+    "options_collect_hit_stats": {
+        "message": "Ուղարկել մեզ գովազդի&nbsp;զտիչների օգտագործման վիճակագրություն<a target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Իմանալ ավելին դրա&nbsp;մասին</a>"
+    },
+    "options_show_context_menu": {
+        "message": "Հավելել AdGuard տարրը&nbsp;դիտարկիչի համատեքստային ցանկում"
+    },
+    "options_use_optimized_filters": {
+        "message": "Կիրառեք օպտիմիզացված զտիչներ։<span class='sp-table-row-info'>Հեռախոսների համար օպտիմիզացված թեթև զտիչների ցանկ։</span>"
+    },
+    "options_popup_update_title": {
+        "message": "Զտիչները հաջողությամբ թարմացվեցին"
+    },
+    "options_popup_update_not_found": {
+        "message": "Թարմացումներ չկան"
+    },
+    "options_popup_update_error": {
+        "message": "Հնարավոր չեղավ ստանալ թարմացում: Խնդրում ենք կրկին փորձել:"
+    },
+    "options_popup_update_updated": {
+        "message": "\"$1\"-ը թարմացվել է $2-ի"
+    },
+    "popup_block_site_ads": {
+        "message": "Արգելափակել գովազդը&nbsp;այս&nbsp;կայքում"
+    },
+    "popup_abuse_site": {
+        "message": "Ներկայացնել&nbsp;բողոք&nbsp;այս կայքի համար"
+    },
+    "popup_abuse_problem": {
+        "message": "Ուղարկել &nbsp;բողոք"
+    },
+    "popup_security_report": {
+        "message": "Կայքի անվտանգության զեկույց"
+    },
+    "popup_open_settings": {
+        "message": "AdGuard-ի կարգավորումներ"
+    },
+    "popup_disable_protection": {
+        "message": "Դադարեցնել AdGuard-ի պաշտպանությունը"
+    },
+    "popup_enable_protection": {
+        "message": "Շարունակել AdGuard-ի պաշտպանությունը"
+    },
+    "popup_site_protection_disabled": {
+        "message": "AdGuard-ի պաշտպանությունը դադարեցված է"
+    },
+    "popup_site_filtering_state": {
+        "message": "Պաշտպանություն այս կայքում"
+    },
+    "popup_site_filtering_disabled": {
+        "message": "AdGuard-ը չի կարող աշխատեցվել &nbsp;այս տիրույթում"
+    },
+    "popup_site_exception": {
+        "message": "Կայքը &nbsp;բացառություններում&nbsp; է"
+    },
+    "popup_site_exception_info": {
+        "message": "Զտիչները&nbsp;անջատված են, քանի որ&nbsp;հնարավոր է դրանք խոչընդոտեն կայքի աշխատանքին:"
+    },
+    "popup_block_site_ads_android": {
+        "message": "Արգելել գովազդը այս կայքից"
+    },
+    "popup_security_report_android": {
+        "message": "Անվտանգության զեկույց"
+    },
+    "popup_in_white_list_android": {
+        "message": "Սպիտակ ցուցակում"
+    },
+    "popup_site_protection_disabled_android": {
+        "message": "Պաշտպանությունը դադարեցված է"
+    },
+    "popup_open_log_android": {
+        "message": "Զտիչների մատյան"
+    },
+    "popup_feedback_empty_option": {
+        "message": "Նշեք բողոքի պատճառը"
+    },
+    "popup_feedback_malware_option": {
+        "message": "Կասկածվում է որսում"
+    },
+    "popup_feedback_wrong_block_option": {
+        "message": "Կայքի տեսքը խեղաթյուրված է"
+    },
+    "popup_feedback_miss_ads_option": {
+        "message": "Գովազդը&nbsp;բաց է թողնված"
+    },
+    "popup_feedback_other_option": {
+        "message": "Այլ"
+    },
+    "popup_feedback_option_is_empty": {
+        "message": "Պետք է նշեք &nbsp;պատճառ բողոքի համար:"
+    },
+    "popup_what_wrong_site": {
+        "message": "Ի՞նչն է սխալ &nbsp;այս կայքում"
+    },
+    "popup_feedback_comment": {
+        "message": "Մեկնաբանություն"
+    },
+    "popup_feedback_send": {
+        "message": "Ուղարկել &nbsp;բողոք"
+    },
+    "popup_feedback_cancel": {
+        "message": "Չեղարկել"
+    },
+    "popup_tab_blocked": {
+        "message": "Արգելափակված. $1"
+    },
+    "popup_tab_blocked_all": {
+        "message": "Ընդհանուր. $1"
+    },
+    "popup_ads_has_been_removed": {
+        "message": "Գովազդները հեռացված են այս էջից"
+    },
+    "popup_ads_has_been_removed_by_adguard": {
+        "message": "Պաշտպանված է $1-ի կողմից"
+    },
+    "popup_filtering_log_icon_title": {
+        "message": "Բացում է զտիչների մատյանը..."
+    },
+    "popup_adguard_other_os": {
+        "message": "AdGuard-ի այլ տարբերակներ."
+    },
+    "popup_adguard_footer_integration": {
+        "message": "AdGuard-ի <a href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>ինտեգրման եղանակը</a> ակտիվ է:"
+    },
+    "popup_adguard_android": {
+        "message": "AdGuard for Android"
+    },
+    "popup_adguard_windows": {
+        "message": "AdGuard for Windows"
+    },
+    "popup_adguard_mac": {
+        "message": "AdGuard for Mac"
+    },
+    "popup_adguard_ios": {
+        "message": "AdGuard for iOS"
+    },
+    "context_block_site_ads": {
+        "message": "Արգելափակել գովազդը այս կայքում..."
+    },
+    "context_block_site_image": {
+        "message": "AdGuard. Պատկերի արգելափակում..."
+    },
+    "context_block_site_element": {
+        "message": "Տարրի արգելափակում..."
+    },
+    "context_abuse_site": {
+        "message": "Ներկայացնել բողոք այս կայքի համար..."
+    },
+    "context_security_report": {
+        "message": "Բացել կայքի անվտանգության զեկույցը..."
+    },
+    "context_ads_has_been_removed": {
+        "message": "Գովազդները հեռացված են այս էջից"
+    },
+    "context_ads_has_been_removed_by_adguard": {
+        "message": "Պաշտպանված է $1-ի կողմից"
+    },
+    "context_site_filtering_disabled": {
+        "message": "AdGuard-ը չի կարող մեկնարկվել այս տիրույթում"
+    },
+    "context_disable_protection": {
+        "message": "Դադարեցնել AdGuard-ի պաշտպանությունը"
+    },
+    "context_enable_protection": {
+        "message": "Շարունակել AdGuard-ի պաշտպանությունը"
+    },
+    "context_site_protection_disabled": {
+        "message": "AdGuard-ի պաշտպանությունը դադարեցված է"
+    },
+    "context_open_settings": {
+        "message": "AdGuard-ի կարգավորումներ..."
+    },
+    "context_open_log": {
+        "message": "Զտիչների մատյան"
+    },
+    "context_site_exception": {
+        "message": "Կայքը բացառություններից է"
+    },
+    "context_site_filtering_on": {
+        "message": "Միացնել զտումը այս կայքում"
+    },
+    "context_site_filtering_off": {
+        "message": "Անջատել զտումը այս կայքում"
+    },
+    "context_update_antibanner_filters": {
+        "message": "Ստուգել զտիչի թարմացումները"
+    },
+    "context_general_settings": {
+        "message": "Գլխավոր կարգավորումներ"
+    },
+    "context_antibanner": {
+        "message": "Գովազդի արգելափակում"
+    },
+    "context_safebrowsing": {
+        "message": "Դիտարկման անվտանգություն"
+    },
+    "context_whitelist": {
+        "message": "Սպիտակ ցուցակ"
+    },
+    "context_userfilter": {
+        "message": "Օգտվողի զտիչ"
+    },
+    "context_miscellaneous_settings": {
+        "message": "Խառը"
+    },
+    "sb_title": {
+        "message": "Զգուշացում: &nbsp;Ապահով չէ:"
+    },
+    "sb_main_title": {
+        "message": "Զգուշացում: &nbsp;Ապահով չէ:"
+    },
+    "sb_adguard_blocked": {
+        "message": "AdGuard-ը արգելափակել է մուտքը&nbsp;այս էջին"
+    },
+    "sb_malware_site": {
+        "message": "Այս վեբ էջը՝ &nbsp;<strong>$1</strong>, զեկուցված է որպես&nbsp;վնասագիր&nbsp;էջ և արգելափակված է՝ համաձայն&nbsp;անվտանգության Ձեր կարգավորումների:"
+    },
+    "sb_phishing_site": {
+        "message": "Այս վեբ էջը՝ &nbsp;<strong>$1</strong>, զեկուցված է &nbsp;որսում&nbsp;էջ և արգելափակված է՝ համաձայն&nbsp;անվտանգության Ձեր կարգավորումների:"
+    },
+    "sb_malware_description": {
+        "message": "AdGuard-ը գտնում է, որ վնասագիր ծրագիր կարող է&nbsp;տեղադրվել Ձեր համակարգչում, եթե&nbsp;շարունակեք: Եթե&nbsp;այս կայքը այցելել եք&nbsp;վերջերս կամ&nbsp;վստահում եք այս կայքին,&nbsp;ապա&nbsp;հնարավոր է, որ այն&nbsp;միայն վերջերս է վնասվել&nbsp;հաքերների&nbsp;կողմից: Մենք&nbsp;խորհուրդ ենք տալիս&nbsp;չշարունակել կամ&nbsp;կրկին փորձել ավելի ուշ:"
+    },
+    "sb_phishing_description": {
+        "message": "AdGuard-ը գտել է, որ այս էջը կարող է հանդիսանալ&nbsp;կեղծ&nbsp;կամ&nbsp;այլ կայքի&nbsp;նմանակում՝ խաբեությամբ&nbsp;օգտվողներից անձնական կամ&nbsp;ֆինանսական տեղեկություններ գողանալու նպատակով: Այս էջում ցանկացած անձնական տեղեկության մուտքագրում&nbsp;կարող է հանգեցնել&nbsp;իսկորոշման գողացման կամ&nbsp;այլ խնդրի:"
+    },
+    "sb_go_back": {
+        "message": "Վերադառնալ"
+    },
+    "sb_more_actions": {
+        "message": "Ընդլայնված"
+    },
+    "sb_site_report": {
+        "message": "Լրացուցիչ տեղեկություն"
+    },
+    "sb_goto_site": {
+        "message": "Շարունակել"
+    },
+    "alert_popup_filter_enabled_title": {
+        "message": "Զտիչների ինքնաակտիվացում"
+    },
+    "alert_popup_filter_enabled_text": {
+        "message": "«$1»-ը ինքնաակտիվացվել է"
+    },
+    "filter_download_title": {
+        "message": "Զտիչների շտեմարանը&nbsp;բեռնվում է..."
+    },
+    "filter_download_loading": {
+        "message": "Սպասեք, մինչև զտիչների շտեմարանը&nbsp;կբեռնվի..."
+    },
+    "filter_download_do_you_know": {
+        "message": "Գիտե՞ք, որ"
+    },
+    "filter_download_sb_sites": {
+        "message": "AdGuard-ի որսման և վնասագրերի շտեմարանները պարունակում են<br/>ավելի քան 1&nbsp;միլիոն կայքեր:"
+    },
+    "filter_download_rules": {
+        "message": "&nbsp;Միջինը&nbsp;յուրաքանչյուր շաբաթ մենք ավելացնում ենք 100&nbsp;զտիչ:"
+    },
+    "filter_download_ads_malware": {
+        "message": "Վիրուսների և վնասագրերի &nbsp;90%-ը&nbsp;տարածվում են<br/> անբարեխիղճ գովազդային&nbsp;ցանցերի միջոցով:"
+    },
+    "thankyou_title": {
+        "message": "Շնորհակալություն AdGuard-ը նախընտրելու համար:"
+    },
+    "thankyou_enjoy": {
+        "message": "Վայելեք &nbsp;ամենատարբեր&nbsp;կայքերի դիտարկում՝ առանց կպչուն գովազդների, հաշվիչների, որոնք հետևում են Ձեր ամեն քայլը և այլ վտանգների, որոնցից են՝&nbsp;վիրուսները կամ&nbsp;խարդախ կայքերը, որոնք սպասում են&nbsp;իրենց զոհին՝&nbsp;:"
+    },
+    "thankyou_setup_filter": {
+        "message": "Կազմաձևել զտելու ընտրանքները"
+    },
+    "thankyou_setup_safebrowsing_title": {
+        "message": "Պաշտպանություն որսումի և վնասագրերի դեմ"
+    },
+    "thankyou_setup_safebrowsing_description": {
+        "message": "Դիտարկիչի անվտանգության մոդուլը պաշտպանում է վնասագրերից և որսումից: Մոդուլը օգտագործում է <a target='blank' href='http://adguard.com/how-malware-blocked.html'>հատուկ վեբ ծառայություն</a>՝ ստուգելու համար այն կայքը, որ այցելում եք:"
+    },
+    "thankyou_tracking_spyware_filter_title": {
+        "message": "Զտիչ&nbsp;՝ հայտնի բոլոր հաշվիչ և վերլուծական համակարգերից"
+    },
+    "thankyou_tracking_spyware_filter_description": {
+        "message": "Հարյուրավոր ինտերնետ &nbsp;ընկերություններ լրտեսում են Ձեր յուրաքանչյուր քայլը: AdGuard-ի միջոցով կարող եք &nbsp;հեշտությամբ պաշտպանվել լրտեսվելուց:"
+    },
+    "thankyou_tracking_social_filter_title": {
+        "message": "Սոցիալական ցանցերի վիդջեթների զտիչ"
+    },
+    "thankyou_tracking_social_filter_description": {
+        "message": "AdGuard-ը կարող է հեռացնել սոցիալական ցանցի վիդջեթները վեբ կայքերից: Օրինակ՝ «Հավանել» կոճակները, որոնք հետևում են Ձեր ակտիվությանը:"
+    },
+    "adguard_product_windows": {
+        "message": "AdGuard for Windows"
+    },
+    "adguard_product_mac": {
+        "message": "AdGuard for Mac"
+    },
+    "filtering_log_title": {
+        "message": "Զտիչների մատյան"
+    },
+    "filtering_log_tab": {
+        "message": "Ներդիր."
+    },
+    "filtering_log_search_string": {
+        "message": "Մուտքագրել որոնում"
+    },
+    "filtering_log_preserve_log": {
+        "message": "Preserve log"
+    },
+    "filtering_refresh_tab": {
+        "message": "Թարմացնել էջը"
+    },
+    "filtering_clear_tab_events": {
+        "message": "Մաքրել"
+    },
+    "filtering_type_all": {
+        "message": "Բոլորը"
+    },
+    "filtering_table_type": {
+        "message": "Տեսակ"
+    },
+    "filtering_table_rule": {
+        "message": "Զտիչի կանոն"
+    },
+    "filtering_table_source": {
+        "message": "Աղբյուր"
+    },
+    "filtering_table_filter": {
+        "message": "Զտիչ"
+    },
+    "filtering_table_empty_row": {
+        "message": "Այս էջի մատյանը դատարկ է: <a href='#' class='reloadTab'>Կրկին բեռնել էջը</a>՝ մատյանը դիտելու համար:"
+    },
+    "filtering_modal_info_title": {
+        "message": "Հարցման մանրամասներ"
+    },
+    "filtering_modal_type": {
+        "message": "Տեսակ."
+    },
+    "filtering_modal_source": {
+        "message": "Աղբյուր."
+    },
+    "filtering_modal_rule": {
+        "message": "Կանոն."
+    },
+    "filtering_modal_filter": {
+        "message": "Զտիչ."
+    },
+    "filtering_modal_block": {
+        "message": "Արգելափակել"
+    },
+    "filtering_modal_unblock": {
+        "message": "Ապաարգելափակել"
+    },
+    "filtering_modal_remove_user": {
+        "message": "Հեռացնել օգտվողի զտիչից"
+    },
+    "filtering_modal_remove_whitelist": {
+        "message": "Հեռացնել Սպիտակ ցուցակի զտիչից"
+    },
+    "filtering_modal_add_title": {
+        "message": "Կանոնի հավելում"
+    },
+    "filtering_modal_rule_text": {
+        "message": "Կանոնի տեքստ"
+    },
+    "filtering_modal_patterns": {
+        "message": "Նախշեր"
+    },
+    "filtering_modal_options": {
+        "message": "Ընտրանքներ"
+    },
+    "filtering_modal_apply_domains": {
+        "message": "Կիրառել կանոնը բոլոր կայքերին"
+    },
+    "filtering_modal_match_case": {
+        "message": "Դիտարկել գործը"
+    },
+    "filtering_modal_third_party": {
+        "message": "Կիրառել միայն երրորդ կողմի հարցումներին"
+    },
+    "filtering_modal_add_rule": {
+        "message": "Ավելացնել կանոն"
+    },
+    "filtering_modal_exception_title": {
+        "message": "Բացառության հավելում"
+    },
+    "filtering_modal_open_in_new_tab": {
+        "message": "Բացել նոր ներդիրում"
+    },
+    "filtering_log_in_whitelist": {
+        "message": "Կայքը Սպիտակ ցուցակում է"
+    },
+    "abp_subscribe_confirm_enable": {
+        "message": "AdGuard. միացնե՞լ $1 բաժանորդագրությունը:"
+    },
+    "abp_subscribe_confirm_import": {
+        "message": "AdGuard. Ցանկանու՞մ եք ներմուծել կանոնները $1-ից օգտվողի զտիչ:"
+    },
+    "abp_subscribe_confirm_import_finished_title": {
+        "message": "Հաջողությամբ ներմուծվեց"
+    },
+    "abp_subscribe_confirm_import_finished_text": {
+        "message": "AdGuard-ը ներմուծեց օգտվողի կանոնները: Ներմուծված կանոնի համարը. $1"
+    }
+}

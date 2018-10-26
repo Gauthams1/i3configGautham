@@ -1,0 +1,9 @@
+2018/10/11-21:42:23.016 2243 Reusing MANIFEST /home/gautham/.config/google-chrome/Default/IndexedDB/https_www.piaget.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/11-21:42:34.703 6065 Current memtable full; waiting...
+2018/10/11-21:42:34.703 7513 Level-0 table #5: started
+2018/10/11-21:42:34.836 7513 Level-0 table #5: 442 bytes OK
+2018/10/11-21:42:34.928 7513 Delete type=0 #3
+2018/10/11-21:42:34.928 7513 Level-0 table #7: started
+2018/10/11-21:42:34.928 7513 Level-0 table #7: 0 bytes OK
+2018/10/11-21:42:35.117 7513 Delete type=0 #4
+2018/10/11-21:42:35.118 7513 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

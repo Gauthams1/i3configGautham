@@ -1,0 +1,75 @@
+2018/10/19-10:06:09.667 1377 Reusing MANIFEST /home/gautham/.config/google-chrome/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/19-10:06:09.674 1377 Recovering log #154
+2018/10/19-10:06:10.421 1377 Reusing old log /home/gautham/.config/google-chrome/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/000154.log 
+2018/10/20-03:28:01.625 30616 Level-0 table #159: started
+2018/10/20-03:28:01.970 30616 Level-0 table #159: 2306816 bytes OK
+2018/10/20-03:28:02.128 30616 Delete type=0 #154
+2018/10/20-03:39:52.585 30616 Compacting 1@1 + 1@2 files
+2018/10/20-03:39:52.691 30616 Generated table #160@1: 2020 keys, 164159 bytes
+2018/10/20-03:39:52.691 30616 Compacted 1@1 + 1@2 files => 164159 bytes
+2018/10/20-03:39:52.817 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/20-03:39:52.818 30616 Delete type=2 #159
+2018/10/20-03:39:52.830 30616 Delete type=2 #156
+2018/10/21-07:26:06.942 30616 Level-0 table #162: started
+2018/10/21-07:26:07.275 30616 Level-0 table #162: 2522275 bytes OK
+2018/10/21-07:26:07.565 30616 Delete type=0 #158
+2018/10/21-07:32:59.282 30616 Compacting 1@1 + 1@2 files
+2018/10/21-07:32:59.395 30616 Generated table #163@1: 2089 keys, 166995 bytes
+2018/10/21-07:32:59.395 30616 Compacted 1@1 + 1@2 files => 166995 bytes
+2018/10/21-07:32:59.523 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/21-07:32:59.524 30616 Delete type=2 #160
+2018/10/21-07:32:59.524 30616 Delete type=2 #162
+2018/10/21-13:02:48.206 30616 Level-0 table #165: started
+2018/10/21-13:02:48.491 30616 Level-0 table #165: 2450759 bytes OK
+2018/10/21-13:02:48.628 30616 Delete type=0 #161
+2018/10/21-13:25:16.004 30616 Compacting 1@1 + 1@2 files
+2018/10/21-13:25:16.146 30616 Generated table #166@1: 2125 keys, 169504 bytes
+2018/10/21-13:25:16.147 30616 Compacted 1@1 + 1@2 files => 169504 bytes
+2018/10/21-13:25:16.283 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/21-13:25:16.283 30616 Delete type=2 #163
+2018/10/21-13:25:16.283 30616 Delete type=2 #165
+2018/10/22-10:17:19.065 30616 Level-0 table #168: started
+2018/10/22-10:17:19.482 30616 Level-0 table #168: 2371960 bytes OK
+2018/10/22-10:17:19.620 30616 Delete type=0 #164
+2018/10/22-10:25:39.297 30616 Compacting 1@1 + 1@2 files
+2018/10/22-10:25:39.452 30616 Generated table #169@1: 2201 keys, 174412 bytes
+2018/10/22-10:25:39.452 30616 Compacted 1@1 + 1@2 files => 174412 bytes
+2018/10/22-10:25:39.577 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/22-10:25:39.577 30616 Delete type=2 #168
+2018/10/22-10:25:39.578 30616 Delete type=2 #166
+2018/10/23-11:28:23.147 30616 Level-0 table #171: started
+2018/10/23-11:28:23.391 30616 Level-0 table #171: 2592777 bytes OK
+2018/10/23-11:28:23.482 30616 Delete type=0 #167
+2018/10/23-11:45:14.355 30616 Compacting 1@1 + 1@2 files
+2018/10/23-11:45:14.501 30616 Generated table #172@1: 2259 keys, 177730 bytes
+2018/10/23-11:45:14.502 30616 Compacted 1@1 + 1@2 files => 177730 bytes
+2018/10/23-11:45:14.675 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/23-11:45:14.675 30616 Delete type=2 #169
+2018/10/23-11:45:14.675 30616 Delete type=2 #171
+2018/10/23-20:05:27.051 30616 Level-0 table #174: started
+2018/10/23-20:05:27.226 30616 Level-0 table #174: 2291458 bytes OK
+2018/10/23-20:05:27.284 30616 Delete type=0 #170
+2018/10/23-21:08:50.359 30616 Compacting 1@1 + 1@2 files
+2018/10/23-21:08:50.510 30616 Generated table #175@1: 2342 keys, 181949 bytes
+2018/10/23-21:08:50.510 30616 Compacted 1@1 + 1@2 files => 181949 bytes
+2018/10/23-21:08:50.626 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/23-21:08:50.627 30616 Delete type=2 #172
+2018/10/23-21:08:50.627 30616 Delete type=2 #174
+2018/10/24-18:52:02.594 30616 Level-0 table #177: started
+2018/10/24-18:52:02.838 30616 Level-0 table #177: 2408679 bytes OK
+2018/10/24-18:52:02.907 30616 Delete type=0 #173
+2018/10/24-19:17:53.757 30616 Compacting 1@1 + 1@2 files
+2018/10/24-19:17:53.892 30616 Generated table #178@1: 2400 keys, 184773 bytes
+2018/10/24-19:17:53.892 30616 Compacted 1@1 + 1@2 files => 184773 bytes
+2018/10/24-19:17:53.970 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/24-19:17:53.970 30616 Delete type=2 #175
+2018/10/24-19:17:53.970 30616 Delete type=2 #177
+2018/10/25-17:42:53.893 30616 Level-0 table #180: started
+2018/10/25-17:42:54.121 30616 Level-0 table #180: 2736792 bytes OK
+2018/10/25-17:42:54.191 30616 Delete type=0 #176
+2018/10/25-18:14:24.274 30616 Compacting 1@1 + 1@2 files
+2018/10/25-18:14:24.376 30616 Generated table #181@1: 2442 keys, 190174 bytes
+2018/10/25-18:14:24.376 30616 Compacted 1@1 + 1@2 files => 190174 bytes
+2018/10/25-18:14:24.510 30616 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/10/25-18:14:24.510 30616 Delete type=2 #180
+2018/10/25-18:14:24.512 30616 Delete type=2 #178

@@ -1,0 +1,23 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.youidraw.com/apps/painter/"
+      },
+      "urls": [ "http://www.youidraw.com/apps/painter/" ]
+   },
+   "description": "Easy Online Paint Tool with Brush, Pencil, Paper texture, shapes, based on Harmony-Brushes.",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlgmqXpVviwKFLAoV+HVxJaIBzyGLU8vSuZITemhMaa4mijune2Zuri6Vhh+Bl4tbkI6jeGCgwU/lTAJ5Pqb0G8SStGDPvr+TBNHVq45nBPAic8qKq+FuMWM4U2FveyLvDtM+kjdh7bUDn92DAfpvRq8zLYjNYrSjDjCai8n/PDlbBC76slT2fUp1s57llHeLZge+nW6lrVuobmJcCG2a5plpG8mXtzyXPgtDXnIk3XzrOi9NmU5ySRO+7cUjn5NrMw7pDpviq/YgplSUh2HirHWKffPx+2aDl0bCt3AN1A1S9pVKYJkJh+QWSCJ8EemUu3thypwry8S+eCQdJcqmCQIDAQAB",
+   "manifest_version": 2,
+   "name": "YouiDraw Painter",
+   "omnibox": {
+      "keyword": "Painter"
+   },
+   "permissions": [ "unlimitedStorage" ],
+   "short_name": "Painter",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

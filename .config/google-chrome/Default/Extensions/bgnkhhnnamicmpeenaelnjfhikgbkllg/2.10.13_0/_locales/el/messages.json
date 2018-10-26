@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: do you want to enable the $1 subscription?"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard: do you want to import rules from $1 to your user filter?"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "AdGuard has finished importing rules to the user filter. Imported rules number: $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "Importing has been successfully finished"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard for Windows"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "«$1» has been activated automatically"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Auto-activation of the filters"
+   },
+   "assistant_another_element": {
+      "message": "Επιλέξτε ένα άλλο στοιχείο"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "Εφαρμόστε αυτόν τον κανόνα σε κάθε ιστοσελίδα\u003Cinput id='oneDomainRadio' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block": {
+      "message": "Μπλόκαρε"
+   },
+   "assistant_block_by_reference": {
+      "message": "Μπλοκάρισμα στοιχείου από τη διεύθυνση\u003Cinput id='blockByUrl' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block_element": {
+      "message": "Μπλοκάρισμα στοιχείου"
+   },
+   "assistant_block_element_explain": {
+      "message": "Εγκατάσταση κανόνα μπλοκαρίσματος στοιχείου"
+   },
+   "assistant_block_similar": {
+      "message": "Μπλοκάρισμα παρομοίων στοιχείων\u003Cinput id='blockSimilar' type='checkbox' class='checkbox'>"
+   },
+   "assistant_extended_settings": {
+      "message": "Προχωρημένες ρυθμίσεις..."
+   },
+   "assistant_preview": {
+      "message": "Προεπισκόπηση"
+   },
+   "assistant_preview_end": {
+      "message": "Τέλος Προεπισκόπηση"
+   },
+   "assistant_preview_header": {
+      "message": "Block element - Preview"
+   },
+   "assistant_preview_header_info": {
+      "message": "Check how the page will look like before confirming the block."
+   },
+   "assistant_preview_start": {
+      "message": "Προεπισκόπηση"
+   },
+   "assistant_select_element": {
+      "message": "Λειτουργία επιλογής"
+   },
+   "assistant_select_element_cancel": {
+      "message": "Ακύρωση της λειτουργίας επιλογής"
+   },
+   "assistant_select_element_ext": {
+      "message": "Κάντε κλικ σε οποιοδήποτε στοιχείο της σελίδας"
+   },
+   "assistant_slider_explain": {
+      "message": "Χρησιμοποιήστε το ρυθμιστή για να αλλάξετε το μέγεθος του στοιχείου που πρόκειται να αποκλειστεί από αυτόν τον κανόνα:"
+   },
+   "assistant_slider_if_hide": {
+      "message": "Το φίλτρο θα περιέχει έναν κανόνα που αποκλείει το επιλεγμένο στοιχείο"
+   },
+   "assistant_slider_max": {
+      "message": "Μεγαλύτερο"
+   },
+   "assistant_slider_min": {
+      "message": "Μικρότερο"
+   },
+   "background_tab_title": {
+      "message": "Background tab"
+   },
+   "context_abuse_site": {
+      "message": "Υποβολή παραπόνου σε αυτή την ιστοσελίδα"
+   },
+   "context_ads_has_been_removed": {
+      "message": "Διαφημίσεις έχουν αφαιρεθεί από αυτή την σελίδα"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "Προστατευμένο από $1"
+   },
+   "context_antibanner": {
+      "message": "Μπλοκάρισμα διαφημίσεων"
+   },
+   "context_block_site_ads": {
+      "message": "Μπλόκαρε διαφημίσεις σε αυτή την ιστοσελίδα"
+   },
+   "context_block_site_element": {
+      "message": "Μπλόκαρε στοιχείο..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: Μπλόκαρε εικόνα..."
+   },
+   "context_disable_protection": {
+      "message": "Παύση Προστασίας AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "Συνέχιση Προστασίας AdGuard"
+   },
+   "context_general_settings": {
+      "message": "Γενικές ρυθμίσεις"
+   },
+   "context_miscellaneous_settings": {
+      "message": "Διάφορα"
+   },
+   "context_open_log": {
+      "message": "Αρχείο φιλτραρίσματος..."
+   },
+   "context_open_settings": {
+      "message": "Ρυθμίσεις AdGuard..."
+   },
+   "context_safebrowsing": {
+      "message": "Ασφάλεια κατά την περιήγηση"
+   },
+   "context_security_report": {
+      "message": "Ανοίξτε την έκθεση ασφάλειας  της ιστοσελίδα..."
+   },
+   "context_site_exception": {
+      "message": "Αυτή η ιστοσελίδα βρίσκεται στις εξαιρέσεις"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard δεν μπορεί να τρέξει σε αυτόν τον τομέα"
+   },
+   "context_site_filtering_off": {
+      "message": "Απενεργοποίησε το φιλτράρισμα αυτής της ιστοσελίδας"
+   },
+   "context_site_filtering_on": {
+      "message": "Ενεργοποίησε το φιλτράρισμα αυτής της ιστοσελίδας"
+   },
+   "context_site_protection_disabled": {
+      "message": "Η Προστασία AdGuard έχει παύση"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Έλεγχος για ενημερώσεις του φίλτρου"
+   },
+   "context_userfilter": {
+      "message": "Φίλτρο χρήστη"
+   },
+   "context_whitelist": {
+      "message": "Λίστα επιτρεπόμενων"
+   },
+   "description": {
+      "message": "Απαράμιλλη επέκταση μπλοκαρίσματος εναντίον των διαφημίσεων και των  αναδυώμενων παραθύρων. Μπλοκάρει τις διαφημίσεις στο Facebook, Youtube και όλες τις άλλες ιστοσελίδες."
+   },
+   "description_blocked": {
+      "message": "Διαφημίσεις που έχουν μπλοκαριστεί σε αυτή τη σελίδα: $ 1"
+   },
+   "filter_download_ads_malware": {
+      "message": "90% of&nbsp;viruses and malicious software is&nbsp;distributed\u003Cbr/>through unscrupulous ad&nbsp;networks."
+   },
+   "filter_download_do_you_know": {
+      "message": "Did you know?"
+   },
+   "filter_download_loading": {
+      "message": "Please wait while filters database is&nbsp;loading..."
+   },
+   "filter_download_rules": {
+      "message": "On&nbsp;average we&nbsp;add more than 100&nbsp;ad filter rules every week."
+   },
+   "filter_download_sb_sites": {
+      "message": "AdGuard phishing and malware database contains\u003Cbr/>more than 1&nbsp;million websites."
+   },
+   "filter_download_title": {
+      "message": "Filters database is&nbsp;loading..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "Clear"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "The site is whitelisted"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "Enter search string"
+   },
+   "filtering_log_tab": {
+      "message": "Tab:"
+   },
+   "filtering_log_title": {
+      "message": "Filtering log"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Add a rule"
+   },
+   "filtering_modal_add_title": {
+      "message": "Adding a rule"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Apply the rule to all websites"
+   },
+   "filtering_modal_block": {
+      "message": "Block"
+   },
+   "filtering_modal_element": {
+      "message": "Element:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Add an exception"
+   },
+   "filtering_modal_filter": {
+      "message": "Filter:"
+   },
+   "filtering_modal_important": {
+      "message": "Give a higher priority to the rule"
+   },
+   "filtering_modal_info_title": {
+      "message": "Request details"
+   },
+   "filtering_modal_match_case": {
+      "message": "Consider the case"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Open in a new tab"
+   },
+   "filtering_modal_options": {
+      "message": "Options"
+   },
+   "filtering_modal_patterns": {
+      "message": "Patterns"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Remove from user filters"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "Remove from whitelist filter"
+   },
+   "filtering_modal_rule": {
+      "message": "Rule:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "Rule text"
+   },
+   "filtering_modal_source": {
+      "message": "Source:"
+   },
+   "filtering_modal_third_party": {
+      "message": "Apply to third party requests only"
+   },
+   "filtering_modal_type": {
+      "message": "Type:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Unblock"
+   },
+   "filtering_refresh_tab": {
+      "message": "Refresh page"
+   },
+   "filtering_table_empty_row": {
+      "message": "The log for this page is empty. \u003Ca href='#' class='reloadTab'>Reload page\u003C/a> to see the log."
+   },
+   "filtering_table_filter": {
+      "message": "Filter"
+   },
+   "filtering_table_rule": {
+      "message": "Filtering rule"
+   },
+   "filtering_table_source": {
+      "message": "Source"
+   },
+   "filtering_table_type": {
+      "message": "Type"
+   },
+   "filtering_type_all": {
+      "message": "All"
+   },
+   "name": {
+      "message": "Μπλοκάρισμα διαφημίσεων AdGuard"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "Επέτρεψε τις αποδεκτές διαφημίσεις\u003Ca target='_blank' href='https://adguard.com/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Μάθε περισσότερα για αυτές\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "Μπλοκάρισμα διαφημίσεων"
+   },
+   "options_antibanner_info": {
+      "message": "Filter rules count: $1"
+   },
+   "options_antibanner_list_empty": {
+      "message": "Η λίστα των φίλτρων είναι κενή. \u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>Πρόσθεσε νέο φίλτρο\u003C/a>?"
+   },
+   "options_blog": {
+      "message": "Ιστολόγιο AdGuard"
+   },
+   "options_collect_hit_stats": {
+      "message": "Στείλε στατιστικά για την χρήση των φίλτρων\u003Ca target='_blank' href='https://adguard.com/filter-rules-statistics.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Μάθε περισσότερα για αυτό\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "Too many filters enabled. Safari cannot use more than 50000 rules."
+   },
+   "options_do_you_like": {
+      "message": "Σου αρέσει η επέκταση AdGuard;"
+   },
+   "options_download_adguard": {
+      "message": "Κατέβασε την πλήρη έκδοση"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "Όλα τα φίλτρα"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Ενεργοποιήστε τα πιο κατάλληλα φίλτρα αυτόματα"
+   },
+   "options_feedback": {
+      "message": "Επικοινώνησε μαζί μας"
+   },
+   "options_filter_version": {
+      "message": "Η έκδοση $1. ενημερώθηκε $2 σε $3."
+   },
+   "options_footer_like_us": {
+      "message": "Βαθμολόγησε την!"
+   },
+   "options_forum": {
+      "message": "Φόρουμ AdGuard"
+   },
+   "options_general_settings": {
+      "message": "Γενικές ρυθμίσεις"
+   },
+   "options_like_us": {
+      "message": "Σου αρέσει η επέκταση AdGuard; Βαθμολόγησε την!"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Διάφορα"
+   },
+   "options_modal_cancel": {
+      "message": "Ακύρωση"
+   },
+   "options_modal_edit": {
+      "message": "Λίστα φίλτρων"
+   },
+   "options_modal_homepage": {
+      "message": "Αρχική σελίδα"
+   },
+   "options_modal_save": {
+      "message": "Αποθήκευση αλλαγών"
+   },
+   "options_open_changelog": {
+      "message": "Αρχείο καταγραφής αλλαγών"
+   },
+   "options_open_log": {
+      "message": "Φιλτράρισμα αρχείου καταγραφής"
+   },
+   "options_popup_update_error": {
+      "message": "Αποτυχία λήψης ενημερώσεων. Παρακαλώ δοκιμάστε ξανά αργότερα."
+   },
+   "options_popup_update_not_found": {
+      "message": "Δεν βρέθηκαν ενημερώσεις"
+   },
+   "options_popup_update_title": {
+      "message": "Τα φίλτρα έχουν ενημερωθεί επιτυχώς"
+   },
+   "options_popup_update_updated": {
+      "message": "\"$1\" ενημερώθηκε στην έκδοση $2"
+   },
+   "options_reset_stats": {
+      "message": "Μηδενισμός στατιστικών"
+   },
+   "options_reset_stats_done": {
+      "message": "Τα στατιστικά έχουν μηδενιστεί"
+   },
+   "options_safebrowsing": {
+      "message": "Ασφάλεια κατά την περιήγηση"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό \u003Ca target='_blank' href='https://adguard.com/how-malware-blocked.html?utm_source=extension&aid=16593' class='sp-table-row-info'> Μάθετε περισσότερα γι 'αυτό \u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "Βοηθήστε μας στην ανάπτυξη φίλτρων ασφαλείας για την περιήγηση\u003Cspan class='sp-table-row-info'>Υποβολή ανώνυμων πληροφορίες σχετικά με την ασφάλεια\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "Δεν βρέθηκε τίποτα"
+   },
+   "options_settings": {
+      "message": "Ρυθμίσεις AdGuard"
+   },
+   "options_show_adguard_full_version": {
+      "message": "Δείτε πληροφορίες σχετικά με την πλήρη έκδοση AdGuard"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "Να αναφερθεί ο αριθμός των μπλοκαρισμένων διαφημίσεων στο εικονίδιο επέκτασης AdGuard"
+   },
+   "options_show_context_menu": {
+      "message": "Προσθήκη των στοιχείων AdGuard στο μενού του προγράμματος περιήγησης"
+   },
+   "options_site": {
+      "message": "Επίσημη ιστοσελίδα"
+   },
+   "options_too_many_filters_selected": {
+      "message": "Έχετε επιλέξει πάρα πολλές συνδρομές φίλτρων. Αυτό μπορεί να επιβραδύνει την περιήγηση σας στο διαδίκτυο σημαντικά."
+   },
+   "options_update_antibanner_filters": {
+      "message": "Έλεγχος για ενημερώσεις του φίλτρου"
+   },
+   "options_use_optimized_filters": {
+      "message": "Use optimized filters\u003Cspan class='sp-table-row-info'>Light filter lists optimized for mobile devices\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "Φίλτρα χρήστη"
+   },
+   "options_userfilter_add_rule": {
+      "message": "Πρόσθεσε νέο κανόνα"
+   },
+   "options_userfilter_clear": {
+      "message": "Απαλοιφή"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "Η απαλοιφή του φίλτρου χρήστη αφαιρεί όλους τους κανόνες. Θέλετε πραγματικά να απαλείψετε το φίλτρο χρήστη;"
+   },
+   "options_userfilter_description": {
+      "message": "Μπορείς να προσθέσεις τους δικούς σου κανόνες σε αυτό το φίλτρο.  Αυτή η επιλογή συνιστάται για προχωρημένους χρήστες εξοικειωμένοι με την HTML / CSS. Διαβάστε τον\u003Ca class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>οδηγό κανόνων των φίλτρων\u003C/a>  για να μάθεις πώς να γράψεις τους δικούς σου κανόνες φίλτρων."
+   },
+   "options_userfilter_export": {
+      "message": "Εξαγωγή"
+   },
+   "options_userfilter_import": {
+      "message": "Εισαγωγή"
+   },
+   "options_userfilter_search": {
+      "message": "Αναζήτηση στο φίλτρο χρήστη"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "Εισάγετε συμβολοσειράς αναζήτησης"
+   },
+   "options_userlist_empty": {
+      "message": "Το φίλτρο χρήστη είναι κενό. \u003Ca class='spl-user-descr-link addUserFilter' href='#'>Πρόσθεσε ένα νέο κανόνα φίλτρου\u003C/a>?"
+   },
+   "options_whitelist": {
+      "message": "Λίστα επιτρεπόμενων"
+   },
+   "options_whitelist_add_domain": {
+      "message": "Πρόσθεσε ιστοσελίδα"
+   },
+   "options_whitelist_description": {
+      "message": "Το AdGuard δεν φιλτράρει ιστοσελίδες από τη λίστα επιτρεπόμενων."
+   },
+   "options_whitelist_empty": {
+      "message": "Η λίστα επιτρεπόμενων είναι άδεια.\u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>\u003C\u003C\u003CΠρόσθεσε οποιαδήποτε ιστοσελίδα\u003C/a> στη λίστα επιτρεπόμενων;"
+   },
+   "options_whitelist_inverse": {
+      "message": "Αντιστροφή λίστας επιτρεπόμενων\u003Cspan class='sp-table-row-info'>Ξεμπλοκάρισμα διαφημίσεων παντού\u003Ci>εκτός\u003C/i> από τη λίστα επιτρεπόμενων\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "Αναζήτηση στην λίστα επιτρεπόμενων"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "Εισάγετε συμβολοσειράς αναζήτησης"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "Η απαλοιφή της λίστας επιτρεπόμενων θα διαγράψει όλους τους κανόνες. Είστε βέβαιοι ότι θέλετε να καταργήσετε την λίστα επιτρεπόμενων;"
+   },
+   "popup_abuse_problem": {
+      "message": "Υπέβαλε παράπονο"
+   },
+   "popup_abuse_site": {
+      "message": "Υποβολή παραπόνου για αυτή την ιστοσελίδα"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard για Android"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "AdGuard \u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>λειτουργία ενσωμάτωσης\u003C/a>είναι ενεργοποιημένη"
+   },
+   "popup_adguard_ios": {
+      "message": "AdGuard for iOS"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard για Mac"
+   },
+   "popup_adguard_other_os": {
+      "message": "AdGuard για άλλες πλατφόρμες:"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard για Windows"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "Διαφημίσεις έχουν αφαιρεθεί από αυτή τη σελίδα"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "Προστατεύτηκε από $1"
+   },
+   "popup_block_site_ads": {
+      "message": "Μπλόκαρε τις διαφημίσεις σε αυτή την ιστοσελίδα"
+   },
+   "popup_block_site_ads_android": {
+      "message": "Μπλόκαρε διαφημίσεις σε αυτή την ιστοσελίδα"
+   },
+   "popup_disable_protection": {
+      "message": "Παύση AdGuard προστασίας"
+   },
+   "popup_enable_protection": {
+      "message": "Συνέχιση AdGuard Προστασίας"
+   },
+   "popup_feedback_cancel": {
+      "message": "Ακύρωση"
+   },
+   "popup_feedback_comment": {
+      "message": "Σχόλιο"
+   },
+   "popup_feedback_empty_option": {
+      "message": "Επιλέξτε λόγο παραπόνου"
+   },
+   "popup_feedback_malware_option": {
+      "message": "Ύποπτο για ηλεκτρονικό ψάρεμα"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "Η διαφήμιση παραλείφθηκε"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "Πρέπει να επιλέξεις λόγο για το παράπονο σου"
+   },
+   "popup_feedback_other_option": {
+      "message": "Άλλο"
+   },
+   "popup_feedback_send": {
+      "message": "Υποβολή παραπόνου"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "Η παρουσίαση της ιστοσελίδα έχει παραμορφωθεί"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "Άνοιξε το αρχείο φιλτραρίσματος"
+   },
+   "popup_in_white_list_android": {
+      "message": "Μέσα στην λίστα επιτρεπόμενων"
+   },
+   "popup_open_log_android": {
+      "message": "Φιλτράρισμα αρχείου καταγραφής"
+   },
+   "popup_open_settings": {
+      "message": "Ρυθμίσεις AdGuard"
+   },
+   "popup_security_report": {
+      "message": "Έκθεση ασφαλείας ιστοσελίδας"
+   },
+   "popup_security_report_android": {
+      "message": "Έκθεση ασφάλειας"
+   },
+   "popup_site_exception": {
+      "message": "Η ιστοσελίδα βρίσκεται στην λίστα επιτρεπόμενων"
+   },
+   "popup_site_exception_info": {
+      "message": "Το φιλτράρισμα είναι απενεργοποιημένο επειδή μπορεί να παρέμβει στη λειτουργία αυτής της ιστοσελίδας."
+   },
+   "popup_site_filtering_disabled": {
+      "message": "AdGuard δεν μπορεί να τρέξει σε αυτό την διεύθυνση διαδικτύου"
+   },
+   "popup_site_filtering_state": {
+      "message": "Προστασία σε αυτή την ιστοσελίδα"
+   },
+   "popup_site_protection_disabled": {
+      "message": "Η προστασία AdGuard έχει παύση"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "Η προστασία έχει παύση"
+   },
+   "popup_tab_blocked": {
+      "message": "Μπλοκαρισμένα: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "Σύνολο: $1"
+   },
+   "popup_what_wrong_site": {
+      "message": "Τι είναι το πρόβλημα με την ιστοσελίδα;"
+   },
+   "release_notes_title": {
+      "message": "Η AdGuard Επέκταση ενημερώθηκε!"
+   },
+   "release_notes_whats_new": {
+      "message": "Τι καινούργιο υπάρχει σε αυτή την έκδοση;"
+   },
+   "sb_adguard_blocked": {
+      "message": "Η επέκταση AdGuard έχει μπλοκάρει την πρόσβαση σε αυτήν τη σελίδα"
+   },
+   "sb_go_back": {
+      "message": "Go back"
+   },
+   "sb_goto_site": {
+      "message": "Proceed anyway"
+   },
+   "sb_main_title": {
+      "message": "Προσοχή! Θα μπορούσε να είναι ανασφαλές!"
+   },
+   "sb_malware_description": {
+      "message": "AdGuard has found that malicious software may be&nbsp;installed onto your computer if&nbsp;you proceed. If&nbsp;you've visited this site in&nbsp;the past or&nbsp;you trust this site, it&nbsp;is&nbsp;possible that it&nbsp;has just recently been compromised by&nbsp;a&nbsp;hacker. We&nbsp;recommend you to&nbsp;not proceed or&nbsp;try again later."
+   },
+   "sb_malware_site": {
+      "message": "This web page at&nbsp;\u003Cstrong>$1\u003C/strong>, has been reported as&nbsp;a&nbsp;malware page and has been blocked based on&nbsp;your security preferences."
+   },
+   "sb_more_actions": {
+      "message": "Advanced"
+   },
+   "sb_phishing_description": {
+      "message": "AdGuard has found that this page may be&nbsp;a&nbsp;forgery or&nbsp;imitation of&nbsp;another website, designed to&nbsp;trick users into sharing personal or&nbsp;financial information. Entering any personal information on&nbsp;this page may result in&nbsp;identity theft or&nbsp;other abuse."
+   },
+   "sb_phishing_site": {
+      "message": "This web page at&nbsp;\u003Cstrong>$1\u003C/strong>, has been reported as&nbsp;a&nbsp;phishing page and has been blocked based on&nbsp;your security preferences."
+   },
+   "sb_site_report": {
+      "message": "More information"
+   },
+   "sb_title": {
+      "message": "Προσοχή! Θα μπορούσε να είναι ανασφαλές!"
+   },
+   "short_name": {
+      "message": "Μπλοκάρισμα διαφημίσεων AdGuard"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "Μπλοκάρει τις διαφημίσεις σε όλα τα προγράμματα περιήγησης"
+   },
+   "thankyou_compare_blocked": {
+      "message": "Μπλοκάρισμα διαφημίσεων"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "Περιορισμένο από τον τις δυνατότητες των  επεκτάσεων του προγράμματος περιήγησης"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "AdGuard Επέκταση"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "Πλήρες"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard για Windows"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard για Mac"
+   },
+   "thankyou_compare_increase": {
+      "message": "Μειώνει το χρόνο φόρτωσης της σελίδας"
+   },
+   "thankyou_compare_parent": {
+      "message": "Γονικός έλεγχος"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "Προστασία από ηλεκτρονικό ψάρεμα και κακόβουλες ιστοσελίδες"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "Προστασία από ηλεκτρονικό ψάρεμα"
+   },
+   "thankyou_compare_support": {
+      "message": "Τεχνική υποστήριξη"
+   },
+   "thankyou_compare_traffic": {
+      "message": "Σώζει διαδικτυακή κίνηση"
+   },
+   "thankyou_download": {
+      "message": "Κατεβάστε το AdGuard"
+   },
+   "thankyou_enjoy": {
+      "message": "Enjoy a&nbsp;wide array of&nbsp;websites without intrusive ads, counters that track your every move, and various threats such as&nbsp;viruses or&nbsp;scams just waiting to&nbsp;prey on&nbsp;you."
+   },
+   "thankyou_help_in_development": {
+      "message": "Συμμετοχή στην ανάπτυξη των φίλτρων του AdGuard"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "Στείλτε ανώνυμα στατιστικά στοιχεία σχετικά με το έργο των φίλτρων διαφημίσεων του Αdguard ,  καθώς και ιστοσελίδες που το AdGuard εντοπίζει ως ύποπτες.  \u003Cspan class='warn-message'>Δεν συνιστάται για & αργούς υπολογιστές.\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "Εγκατεστημένο"
+   },
+   "thankyou_setup_filter": {
+      "message": "Customize your filtering options"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "The Browsing Security module protects you from malicious and phishing websites. The module uses \u003Ca target='blank' href='http://adguard.com/how-malware-blocked.html'>a special web service\u003C/a> to check the websites you visit."
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "Protection against phishing and malicious websites"
+   },
+   "thankyou_title": {
+      "message": "Thank you for installing AdGuard!"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "AdGuard can remove social network widgets from web pages. For example, the \"Like\" buttons that track your actions."
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "Social networks widgets filter"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "Hundreds of&nbsp;Internet companies spy upon your actions. With AdGuard you can be&nbsp;easily protected from this spying."
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "A&nbsp;filter for all known counters and analytical systems"
+   },
+   "thankyou_want_full_protection": {
+      "message": "Θέλετε να δοκιμάσετε την πλήρη προστασία; Κατεβάστε το AdGuard για Windows!"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "Θέλετε να δοκιμάσετε την πλήρη προστασία; Κατεβάστε το AdGuard για Mac!"
+   }
+}

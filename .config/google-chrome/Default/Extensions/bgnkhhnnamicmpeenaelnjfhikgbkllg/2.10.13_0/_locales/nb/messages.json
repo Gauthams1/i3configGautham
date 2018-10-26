@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: vil du aktivere abonnementet for $1?"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard: ønsker du å importere regler fra $1 til brukerfilteret ditt?"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "AdGuard er ferdig med å importere regler til brukerfilteret. Antall importerte regler: $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "Importeringen er fullført"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard for Windows"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "«$1» har blitt aktivert automatisk"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Automatisk aktivering av filtrene"
+   },
+   "assistant_another_element": {
+      "message": "Velg et annet element"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "Bruk denne regelen for&nbsp;alle nettsider"
+   },
+   "assistant_block": {
+      "message": "Blokker"
+   },
+   "assistant_block_by_reference": {
+      "message": "Blokker element med&nbsp;nettadresse"
+   },
+   "assistant_block_element": {
+      "message": "Blokker element"
+   },
+   "assistant_block_element_explain": {
+      "message": "Regeloppsett for elementblokkering"
+   },
+   "assistant_block_similar": {
+      "message": "Blokker lignende elementer"
+   },
+   "assistant_extended_settings": {
+      "message": "Avanserte innstillinger"
+   },
+   "assistant_preview": {
+      "message": "Forhåndsvisning"
+   },
+   "assistant_preview_end": {
+      "message": "Fullfør forhåndsvisning"
+   },
+   "assistant_preview_header": {
+      "message": "Blokker element - Forhåndsvisning"
+   },
+   "assistant_preview_header_info": {
+      "message": "Sjekk hvordan siden vil se ut før du bekrefter blokkeringen."
+   },
+   "assistant_preview_start": {
+      "message": "Forhåndsvisning"
+   },
+   "assistant_select_element": {
+      "message": "Valgmodus"
+   },
+   "assistant_select_element_cancel": {
+      "message": "Avbryt"
+   },
+   "assistant_select_element_ext": {
+      "message": "Klikk på&nbsp;et hvilket som helst element på&nbsp;siden"
+   },
+   "assistant_slider_explain": {
+      "message": "Bruk glidebryteren til å&nbsp;endre størrelsen på&nbsp;elementet som&nbsp;skal&nbsp;blokkeres av&nbsp;denne regelen:"
+   },
+   "assistant_slider_if_hide": {
+      "message": "Filteret vil inneholde en&nbsp;regel som blokkerer det valgte elementet"
+   },
+   "assistant_slider_max": {
+      "message": "STØRRE"
+   },
+   "assistant_slider_min": {
+      "message": "MINDRE"
+   },
+   "background_tab_title": {
+      "message": "Background tab"
+   },
+   "context_abuse_site": {
+      "message": "Send inn en klage på denne nettsiden..."
+   },
+   "context_ads_has_been_removed": {
+      "message": "Annonser har blitt fjernet fra denne siden"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "Beskyttet av $1"
+   },
+   "context_antibanner": {
+      "message": "Annonseblokkerer"
+   },
+   "context_block_site_ads": {
+      "message": "Blokker annonser på denne nettsiden..."
+   },
+   "context_block_site_element": {
+      "message": "Blokker element..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: Blokker bilde..."
+   },
+   "context_disable_protection": {
+      "message": "Pause AdGuard-beskyttelse"
+   },
+   "context_enable_protection": {
+      "message": "Fortsett AdGuard-beskyttelse"
+   },
+   "context_general_settings": {
+      "message": "Generelle innstillinger"
+   },
+   "context_miscellaneous_settings": {
+      "message": "Diverse"
+   },
+   "context_open_log": {
+      "message": "Filtreringslogg..."
+   },
+   "context_open_settings": {
+      "message": "AdGuard-innstillinger..."
+   },
+   "context_safebrowsing": {
+      "message": "Nettsurfingsikkerhet"
+   },
+   "context_security_report": {
+      "message": "Åpne en nettsidesikkerhetsrapport"
+   },
+   "context_site_exception": {
+      "message": "Denne nettsiden er i unntakene"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard kan ikke kjøre på dette domenet"
+   },
+   "context_site_filtering_off": {
+      "message": "Deaktiver filtrering på denne nettsiden"
+   },
+   "context_site_filtering_on": {
+      "message": "Aktiver filtrering på denne nettsiden"
+   },
+   "context_site_protection_disabled": {
+      "message": "AdGuard-beskyttelse har blitt pauset"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Se etter filteroppdateringer"
+   },
+   "context_userfilter": {
+      "message": "Brukerfilter"
+   },
+   "context_whitelist": {
+      "message": "Hviteliste"
+   },
+   "description": {
+      "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites."
+   },
+   "description_blocked": {
+      "message": "Ads blocked on this page: $1"
+   },
+   "filter_download_ads_malware": {
+      "message": "90% av&nbsp;virus og skadelig programvare er&nbsp;distribuert\u003Cbr/>gjennom skrupelløse annonsenettverk."
+   },
+   "filter_download_do_you_know": {
+      "message": "Visste du?"
+   },
+   "filter_download_loading": {
+      "message": "Vennligst vent mens filterdatabasen&nbsp;laster..."
+   },
+   "filter_download_rules": {
+      "message": "I&nbsp;gjennomsnitt&nbsp;legger vi til mer enn 100&nbsp;annonsefilterregler hver uke."
+   },
+   "filter_download_sb_sites": {
+      "message": "AdGuards database over nettfisking og skadelig programvare inneholder\u003Cbr/>mer enn 1&nbsp;million nettsider."
+   },
+   "filter_download_title": {
+      "message": "Filterdatabase&nbsp;laster..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "Tøm"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "Denne siden er hvitelistet"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "Skriv inn søkeord"
+   },
+   "filtering_log_tab": {
+      "message": "Fane:"
+   },
+   "filtering_log_title": {
+      "message": "Filtreringslogg"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Legg til en regel"
+   },
+   "filtering_modal_add_title": {
+      "message": "Legge til regel"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Bruk regelen på alle nettsider"
+   },
+   "filtering_modal_block": {
+      "message": "Blokker"
+   },
+   "filtering_modal_element": {
+      "message": "Element:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Legg til et unntak"
+   },
+   "filtering_modal_filter": {
+      "message": "Filter:"
+   },
+   "filtering_modal_important": {
+      "message": "Gi regelen høyere prioritet"
+   },
+   "filtering_modal_info_title": {
+      "message": "Detaljer over forespørsel"
+   },
+   "filtering_modal_match_case": {
+      "message": "Vurder saken"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Åpne i en ny fane"
+   },
+   "filtering_modal_options": {
+      "message": "Alternativer"
+   },
+   "filtering_modal_patterns": {
+      "message": "Mønstre"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Fjern fra brukerfiltre"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "Fjern fra hvitelistefilter"
+   },
+   "filtering_modal_rule": {
+      "message": "Regel:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "Regeltekst"
+   },
+   "filtering_modal_source": {
+      "message": "Kilde:"
+   },
+   "filtering_modal_third_party": {
+      "message": "Bruk kun på tredjepartsforespørsler"
+   },
+   "filtering_modal_type": {
+      "message": "Type:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Fjern blokkering"
+   },
+   "filtering_refresh_tab": {
+      "message": "Oppdater side"
+   },
+   "filtering_table_empty_row": {
+      "message": "Loggen for denne siden er tom. \u003Ca href='#' class='reloadTab'>Oppdater siden\u003C/a> for å se loggen."
+   },
+   "filtering_table_filter": {
+      "message": "Filter"
+   },
+   "filtering_table_rule": {
+      "message": "Filtreringsregel"
+   },
+   "filtering_table_source": {
+      "message": "Kilde"
+   },
+   "filtering_table_type": {
+      "message": "Type"
+   },
+   "filtering_type_all": {
+      "message": "Alle"
+   },
+   "name": {
+      "message": "AdGuard-annonseblokkerer"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "Tillat søk og nettsider å bruke selvfremmende annonser\u003Ca target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Finn ut mer om&nbsp;det\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "Annonseblokkerer"
+   },
+   "options_antibanner_info": {
+      "message": "Antall filterregler: $1"
+   },
+   "options_antibanner_list_empty": {
+      "message": "Filterlisten er&nbsp;top. \u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>Legge til nytt filter\u003C/a>?"
+   },
+   "options_blog": {
+      "message": "AdGuard-blogg"
+   },
+   "options_collect_hit_stats": {
+      "message": "Send statistikk om bruken&nbsp;av annonsefiltrene\u003Ca target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Finn ut mer om&nbsp;det\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "For mange filtre er aktivert. Safari kan ikke bruke mer enn 50 000 regler."
+   },
+   "options_do_you_like": {
+      "message": "Liker&nbsp;du AdGuard?"
+   },
+   "options_download_adguard": {
+      "message": "Download full version"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "Alle filtre"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Aktiver de mest passende filtrene automatisk"
+   },
+   "options_feedback": {
+      "message": "Kontakt&nbsp;oss"
+   },
+   "options_filter_version": {
+      "message": "Versjon $1. Oppdatert $2, $3."
+   },
+   "options_footer_like_us": {
+      "message": "Ranger&nbsp;det!"
+   },
+   "options_forum": {
+      "message": "AdGuard-forum"
+   },
+   "options_general_settings": {
+      "message": "Generelle innstillinger"
+   },
+   "options_like_us": {
+      "message": "Liker du AdGuard? Ranger&nbsp;det!"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Diverse"
+   },
+   "options_modal_cancel": {
+      "message": "Avbryt"
+   },
+   "options_modal_edit": {
+      "message": "Liste over filtre"
+   },
+   "options_modal_homepage": {
+      "message": "Hjemmeside"
+   },
+   "options_modal_save": {
+      "message": "Lagre endringer"
+   },
+   "options_open_changelog": {
+      "message": "Endringslogg"
+   },
+   "options_open_log": {
+      "message": "Filtreringslogg"
+   },
+   "options_popup_update_error": {
+      "message": "Kunne ikke laste ned oppdateringer. Prøv igjen senere."
+   },
+   "options_popup_update_not_found": {
+      "message": "Ingen oppdateringer funnet"
+   },
+   "options_popup_update_title": {
+      "message": "Filtre oppdatert"
+   },
+   "options_popup_update_updated": {
+      "message": "\"$1\" oppdatert til versjon $2"
+   },
+   "options_reset_stats": {
+      "message": "Tilbakestill statistikker"
+   },
+   "options_reset_stats_done": {
+      "message": "Statistikkene har blitt tilbakestilt"
+   },
+   "options_safebrowsing": {
+      "message": "Nettsurfingssikkerhet"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Beskyttelse mot nettfisking og skadelig programvare\u003Ca target='_blank' href='https://kb.adguard.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Finn ut mer om&nbsp;det\u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "Hjelp&nbsp;oss med&nbsp;utviklingen av filtrene for nettsurfingssikkerheten\u003Cspan class='sp-table-row-info'>Send inn anonym sikkerhetsrelatert informasjon\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "Ingenting funnet"
+   },
+   "options_settings": {
+      "message": "AdGuard-innstillinger"
+   },
+   "options_show_adguard_full_version": {
+      "message": "Vis informasjon om&nbsp;den fille AdGuard-versjonen"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "Indiker nummeret over&nbsp;blokkerte annonser på&nbsp;ikonet til AdGuard-utvidelsesen"
+   },
+   "options_show_context_menu": {
+      "message": "Legg til AdGuard-element i&nbsp;nettleserens kontekstmeny"
+   },
+   "options_site": {
+      "message": "Offisiell nettside"
+   },
+   "options_too_many_filters_selected": {
+      "message": "Du har valgt alt for mange filterabonnementer. Dette&nbsp;kan redusere nettsurfingen din betydelig."
+   },
+   "options_update_antibanner_filters": {
+      "message": "Se etter filteroppdateringer"
+   },
+   "options_use_optimized_filters": {
+      "message": "Bruk optimaliserte filtre\u003Cspan class='sp-table-row-info'>Liste over lette filtre som er optimalisert for mobile enheter\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "Brukerfilter"
+   },
+   "options_userfilter_add_rule": {
+      "message": "Legg til ny regel"
+   },
+   "options_userfilter_clear": {
+      "message": "Tøm"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "Tømming av brukerfilteret fjerner alle regler. Vil du virkelig tømme brukerfilteret?"
+   },
+   "options_userfilter_description": {
+      "message": "Du kan legge til dine egne regler i&nbsp;dette filteret. Dette alternativet er&nbsp;anbefalt for avanserte brukere med erfaring med HTML/CSS. Les \u003Ca class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>filterregler-guiden\u003C/a> for å&nbsp;lære hvordan du&nbsp;kan skrive dine egne filterregler."
+   },
+   "options_userfilter_export": {
+      "message": "Eksporter"
+   },
+   "options_userfilter_import": {
+      "message": "Importer"
+   },
+   "options_userfilter_search": {
+      "message": "Søk i&nbsp;brukerfilter"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "Skriv inn søkeord"
+   },
+   "options_userlist_empty": {
+      "message": "Brukerfilteret er tomt. \u003Ca class='spl-user-descr-link addUserFilter' href='#'>Legg til ny filterregel\u003C/a>?"
+   },
+   "options_whitelist": {
+      "message": "Hviteliste"
+   },
+   "options_whitelist_add_domain": {
+      "message": "Legg til nettside"
+   },
+   "options_whitelist_description": {
+      "message": "AdGuard filtrerer ikke nettsider i hvitelisten."
+   },
+   "options_whitelist_empty": {
+      "message": "Hvitelisten er tom. \u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>Legg til nettside\u003C/a> i hvitelisten?"
+   },
+   "options_whitelist_inverse": {
+      "message": "Omvendt hviteliste\u003Cspan class='sp-table-row-info'>Blokkerer ingen annonser \u003Ci>bortsett fra\u003C/i> hvitelisten\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "Søk i&nbsp;hvitelisten"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "Skriv inn søkeord"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "Tømming av hvitelisten fjerner alle regler. Vil du virkelig tømme hvitelisten?"
+   },
+   "popup_abuse_problem": {
+      "message": "Submit a&nbsp;complaint"
+   },
+   "popup_abuse_site": {
+      "message": "Send inn en&nbsp;klage på&nbsp;denne nettsiden"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard for Android"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "AdGuard \u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>integreringsmodus\u003C/a> er aktiv"
+   },
+   "popup_adguard_ios": {
+      "message": "AdGuard for iOS"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "popup_adguard_other_os": {
+      "message": "Andre AdGuard-versjoner:"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard for Windows"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "Annonser har blitt fjernet fra denne siden"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "Beskyttet av $1"
+   },
+   "popup_block_site_ads": {
+      "message": "Blokker annonser&nbsp;på&nbsp;denne nettsiden"
+   },
+   "popup_block_site_ads_android": {
+      "message": "Blokkerer annonser på en nettside"
+   },
+   "popup_disable_protection": {
+      "message": "Pause AdGuard-beskyttelse"
+   },
+   "popup_enable_protection": {
+      "message": "Fortsett AdGuard-beskyttelse"
+   },
+   "popup_feedback_cancel": {
+      "message": "Avbryt"
+   },
+   "popup_feedback_comment": {
+      "message": "Kommentar"
+   },
+   "popup_feedback_empty_option": {
+      "message": "Velg en klagegrunn"
+   },
+   "popup_feedback_malware_option": {
+      "message": "Nettfisking mistenkt"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "Annonse&nbsp;hoppet over"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "Du må oppgi en&nbsp;grunn for klagen!"
+   },
+   "popup_feedback_other_option": {
+      "message": "Annet"
+   },
+   "popup_feedback_send": {
+      "message": "Send inn en&nbsp;klage"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "Nettsiden vises forvrengt"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "Åpner filtreringsloggen..."
+   },
+   "popup_in_white_list_android": {
+      "message": "I hvitelisten"
+   },
+   "popup_open_log_android": {
+      "message": "Filtreringslogg"
+   },
+   "popup_open_settings": {
+      "message": "AdGuard-innstillinger"
+   },
+   "popup_security_report": {
+      "message": "Nettsidens sikkerhetsrapport"
+   },
+   "popup_security_report_android": {
+      "message": "Sikkerhetsrapport"
+   },
+   "popup_site_exception": {
+      "message": "Denne nettsiden er&nbsp;i&nbsp;unntakene"
+   },
+   "popup_site_exception_info": {
+      "message": "Filtrering er&nbsp;deaktivert fordi den&nbsp;kan forstyrre nettsidens arbeid."
+   },
+   "popup_site_filtering_disabled": {
+      "message": "AdGuard kan ikke kjøre på&nbsp;dette domenet"
+   },
+   "popup_site_filtering_state": {
+      "message": "Beskyttelse på denne nettsiden"
+   },
+   "popup_site_protection_disabled": {
+      "message": "AdGuard-beskyttelse har blitt pauset"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "Beskyttelsen er pauset"
+   },
+   "popup_tab_blocked": {
+      "message": "Blokkert: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "Totalt: $1"
+   },
+   "popup_what_wrong_site": {
+      "message": "Hva er&nbsp;feil med denne nettsiden?"
+   },
+   "release_notes_title": {
+      "message": "AdGuard Extension updated!"
+   },
+   "release_notes_whats_new": {
+      "message": "What's new in&nbsp;this version?"
+   },
+   "sb_adguard_blocked": {
+      "message": "AdGuard har blokkert tilgang til&nbsp;denne siden"
+   },
+   "sb_go_back": {
+      "message": "Gå tilbake"
+   },
+   "sb_goto_site": {
+      "message": "Fortsett uansett"
+   },
+   "sb_main_title": {
+      "message": "Advarsel! Kan være&nbsp;usikker!"
+   },
+   "sb_malware_description": {
+      "message": "AdGuard har funnet ut at skadelig programvare kan&nbsp;installeres på datamaskinen din&nbsp;hvis du fortsetter. Hvis&nbsp;du har besøkt denne siden&nbsp;før eller&nbsp;hvis du stoler på denne siden, er&nbsp;det&nbsp;mulig at den&nbsp;nettopp har blitt kompromittert av&nbsp;en&nbsp;hacker. Vi&nbsp;anbefaler at du&nbsp;ikke fortsetter eller&nbsp;at du prøver igjen senere."
+   },
+   "sb_malware_site": {
+      "message": "Denne nettsiden på&nbsp;\u003Cstrong>$1\u003C/strong>, har blitt rapportert som&nbsp;en&nbsp;side med skadelig programvare og har blitt blokkert basert på&nbsp;dine sikkerhetsinnstillinger.."
+   },
+   "sb_more_actions": {
+      "message": "Avansert"
+   },
+   "sb_phishing_description": {
+      "message": "AdGuard har funnet ut at denne siden kan være&nbsp;en&nbsp;forfalskning eller&nbsp;en etterligning av&nbsp;en annen nettside, utformet for å&nbsp;lure brukere til å dele personlig eller&nbsp;finansiell informasjon. Hvis du legger inn personlig informasjon på&nbsp;denne siden, kan det føre til identitetstyveri eller&nbsp;annen misbruk."
+   },
+   "sb_phishing_site": {
+      "message": "Denne nettsiden på&nbsp;\u003Cstrong>$1\u003C/strong>, har blitt rapportert som&nbsp;en&nbsp;side med nettfisking og har blitt blokkert basert på&nbsp;dine sikkerhetsinnstillinger.."
+   },
+   "sb_site_report": {
+      "message": "Mer informasjon"
+   },
+   "sb_title": {
+      "message": "Advarsel! Kan være&nbsp;usikker!"
+   },
+   "short_name": {
+      "message": "AdGuard-annonseblokkerer"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "Blokker annonser i alle nettlesere"
+   },
+   "thankyou_compare_blocked": {
+      "message": "Annonseblokkering"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "Begrenset av nettleserens utvidelsesfunksjoner"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "AdGuard-utvidelse"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "Full"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard for Windows"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard for Mac"
+   },
+   "thankyou_compare_increase": {
+      "message": "Reduserer tiden for lasting av sider"
+   },
+   "thankyou_compare_parent": {
+      "message": "Foreldrekontroll"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "Beskyttelse mot nettfisking og ondsinnede nettsider"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "Beskyttelse mot nettfisking-angrep"
+   },
+   "thankyou_compare_support": {
+      "message": "Teknisk støtte"
+   },
+   "thankyou_compare_traffic": {
+      "message": "Sparer Internettrafikk"
+   },
+   "thankyou_download": {
+      "message": "Last ned AdGuard"
+   },
+   "thankyou_enjoy": {
+      "message": "Nyt et&nbsp;bredt utvalg av&nbsp;nettsider uten påtrengende annonser, tellere som sporer alt du foretar deg, og ulike trusler som for eksempel&nbsp;virus eller&nbsp;svindel som bare venter på&nbsp;å lure&nbsp;deg."
+   },
+   "thankyou_help_in_development": {
+      "message": "Delta i&nbsp;utviklingen av&nbsp;AdGuard-filtrene"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "Send anonym statistikk over&nbsp;AdGuards annonsefiltre, og&nbsp;nettsider AdGuard har identifisert som&nbsp;mistenkelig. \u003Cspan class='warn-message'>Ikke anbefalt på&nbsp;trege datamaskiner.\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "INSTALLERT"
+   },
+   "thankyou_setup_filter": {
+      "message": "Tilpass filtreringsalternativene dine"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "[Nettsurfingsikkerhetsmodulen](http://adguard.com/how-malware-blocked.html) beskytter deg mot ondsinnede nettsider og nettfisking. Modulen bruker [en spesiell nettjeneste](http://adguard.com/how-malware-blocked.html) for å kontrollere nettsidene du besøker."
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "Beskyttelse mot nettfisking og ondsinnede nettsider"
+   },
+   "thankyou_title": {
+      "message": "Takk for at du installerte AdGuard!"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "AdGuard kan fjerne sosiale medier-moduler fra nettsider. For eksempel, \"Lik\"-knappene som sporer handlingene dine."
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "Filter over sosiale medier-moduler"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "Hundrevis av&nbsp;Internett-selskaper spionarer på dine handlinger. Med AdGuard kan du&nbsp;enkelt beskyttes mot denne spioneringen."
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "Et&nbsp;filter for alle kjente tellere og analysesystemer"
+   },
+   "thankyou_want_full_protection": {
+      "message": "Vil du&nbsp;prøve full beskyttelse? Last ned AdGuard for Windows!"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "Vil du&nbsp;prøve full beskyttelse? Last ned AdGuard for Mac!"
+   }
+}

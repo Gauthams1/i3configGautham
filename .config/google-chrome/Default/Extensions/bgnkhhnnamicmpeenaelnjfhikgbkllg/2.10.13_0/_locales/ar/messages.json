@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: هل تريد تمكين اشتراك $ 1؟"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard:هل تريد استيراد القواعد من$ 1  إلى عامل تصفيه المستخدم الخاص بك ؟"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "انتهى AdGuard  من استيراد القواعد إلى فلتر المستخدم. عدد القواعد المستوردة:  $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "تم الانتهاء من الاستيراد بنجاح"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard للماك"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard للويندوز"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "تم تفعيله تلقائيا «$1»"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "التنشيط التلقائي للفلاتر"
+   },
+   "assistant_another_element": {
+      "message": "إختيار عنصر آخر"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "طبق هذه اللائحة على جميع المواقع\u003Cinput id='oneDomainRadio' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block": {
+      "message": "حجب"
+   },
+   "assistant_block_by_reference": {
+      "message": "حجب عنصر بواسطة عنوانه\u003Cinput id='blockByUrl' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block_element": {
+      "message": "حجب عنصر"
+   },
+   "assistant_block_element_explain": {
+      "message": "إعداد لائحة لحجب عنصر"
+   },
+   "assistant_block_similar": {
+      "message": "حجب العناصر المشابهة\u003Cinput id='blockSimilar' type='checkbox' class='checkbox'>"
+   },
+   "assistant_extended_settings": {
+      "message": "إعدادات متقدمة"
+   },
+   "assistant_preview": {
+      "message": "معاينة"
+   },
+   "assistant_preview_end": {
+      "message": "إنهاء المعاينة"
+   },
+   "assistant_preview_header": {
+      "message": "منع عنصر- المعاينة"
+   },
+   "assistant_preview_header_info": {
+      "message": "تحقق من الطريقة التي ستبدو عليها الصفحة قبل تاكيد الحظر."
+   },
+   "assistant_preview_start": {
+      "message": "معاينة"
+   },
+   "assistant_select_element": {
+      "message": "وضع التحديد"
+   },
+   "assistant_select_element_cancel": {
+      "message": "الخروج من وضع التحديد"
+   },
+   "assistant_select_element_ext": {
+      "message": "قم بتحديد أي عنصر في الصفحة أو "
+   },
+   "assistant_slider_explain": {
+      "message": "استخدم شريط التمرير لتغيير حجم العنصر المراد حجبه بواسطة هذه اللائحة"
+   },
+   "assistant_slider_if_hide": {
+      "message": "سوف يحوي الفلتر على اللائحة لحجب العنصر المحدد"
+   },
+   "assistant_slider_max": {
+      "message": "أكبر"
+   },
+   "assistant_slider_min": {
+      "message": "أصغر"
+   },
+   "background_tab_title": {
+      "message": "علامة تبويب الخلفية"
+   },
+   "context_abuse_site": {
+      "message": "إرسال شكوى حول هذا الموقع..."
+   },
+   "context_ads_has_been_removed": {
+      "message": "تم حذف الإعلانات من هذه الصفحة"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "محمي بواسطة $1"
+   },
+   "context_antibanner": {
+      "message": "حاجب الإعلاانات"
+   },
+   "context_block_site_ads": {
+      "message": "حجب إعلان على هذا الموقع..."
+   },
+   "context_block_site_element": {
+      "message": "حجب عنصر..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: حجب صورة"
+   },
+   "context_disable_protection": {
+      "message": "إيقاف حماية AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "تشغيل حماية AdGuard"
+   },
+   "context_general_settings": {
+      "message": "إعدادات عامة"
+   },
+   "context_miscellaneous_settings": {
+      "message": "متنوع"
+   },
+   "context_open_log": {
+      "message": "سجل الفلترة"
+   },
+   "context_open_settings": {
+      "message": "إعدادات AdGuard"
+   },
+   "context_safebrowsing": {
+      "message": "حماية التصفح"
+   },
+   "context_security_report": {
+      "message": "تقرير أمان المتصفح..."
+   },
+   "context_site_exception": {
+      "message": "الموقع ضمن المواقع المستثناه"
+   },
+   "context_site_filtering_disabled": {
+      "message": "لا يمكن تشغيل AdGuard على هذا النطاق"
+   },
+   "context_site_filtering_off": {
+      "message": "تعطيل الفلترة في هذا الموقع"
+   },
+   "context_site_filtering_on": {
+      "message": "تفعيل الفلترة في هذا الموقع"
+   },
+   "context_site_protection_disabled": {
+      "message": "حماية AdGuard متوقفة"
+   },
+   "context_update_antibanner_filters": {
+      "message": "بحث عن تحديثات الفلاتر"
+   },
+   "context_userfilter": {
+      "message": "فلتر المستخدم"
+   },
+   "context_whitelist": {
+      "message": "القائمة البيضاء"
+   },
+   "description": {
+      "message": "ملحق حاجب للإعلانات لا مثيل له في التصدي للإعلانات والنوافذ المنبثقة. يقوم بحجب الإعلانات على الفيسبوك واليوتيوب وجميع المواقع الأخرى."
+   },
+   "description_blocked": {
+      "message": "الإعلانات المحجوبة على هذه الصفحة: 1$"
+   },
+   "filter_download_ads_malware": {
+      "message": "90% of&nbsp;viruses and malicious software is&nbsp;distributed\u003Cbr/>through unscrupulous ad&nbsp;networks."
+   },
+   "filter_download_do_you_know": {
+      "message": "هل كنت تعلم؟"
+   },
+   "filter_download_loading": {
+      "message": "Please wait while filters database is&nbsp;loading..."
+   },
+   "filter_download_rules": {
+      "message": "On&nbsp;average we&nbsp;add more than 100&nbsp;ad filter rules every week."
+   },
+   "filter_download_sb_sites": {
+      "message": "AdGuard phishing and malware database contains\u003Cbr/>more than 1&nbsp;million websites."
+   },
+   "filter_download_title": {
+      "message": "Filters database is&nbsp;loading..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "مسح"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "يتم إدراج الموقع في القائمة البيضاء"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "ادخل كلمات البحث"
+   },
+   "filtering_log_tab": {
+      "message": "القسم:"
+   },
+   "filtering_log_title": {
+      "message": "سجل الفلترة"
+   },
+   "filtering_modal_add_rule": {
+      "message": "أضف قاعدة"
+   },
+   "filtering_modal_add_title": {
+      "message": "أضافه قاعده"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "تطبيق القاعدة علي كافة مواقع ويب"
+   },
+   "filtering_modal_block": {
+      "message": "حظر"
+   },
+   "filtering_modal_element": {
+      "message": "Element:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "إضافة استثناء"
+   },
+   "filtering_modal_filter": {
+      "message": "فلتر"
+   },
+   "filtering_modal_important": {
+      "message": "إعطاء أولوية أعلى للقاعدة"
+   },
+   "filtering_modal_info_title": {
+      "message": "تفاصيل الطلب"
+   },
+   "filtering_modal_match_case": {
+      "message": "النظر في القضية"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "فتح في علامة تبويب جديدة"
+   },
+   "filtering_modal_options": {
+      "message": "الخيارات"
+   },
+   "filtering_modal_patterns": {
+      "message": "أنماط"
+   },
+   "filtering_modal_remove_user": {
+      "message": "إزالة من فلاتر المستخدم"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "إزالة من فلتر القائمة البيضاء"
+   },
+   "filtering_modal_rule": {
+      "message": "قاعدة:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "نص القاعدة"
+   },
+   "filtering_modal_source": {
+      "message": "المصدر:"
+   },
+   "filtering_modal_third_party": {
+      "message": "تطبيق علي طلبات الطرف الثالث فقط"
+   },
+   "filtering_modal_type": {
+      "message": "نوع:"
+   },
+   "filtering_modal_unblock": {
+      "message": "رفع الحظر"
+   },
+   "filtering_refresh_tab": {
+      "message": "تحديث الصفحة"
+   },
+   "filtering_table_empty_row": {
+      "message": "سجل هذه الصفحة فارغ.  \u003Ca href='#' class='reloadTab'> تحديث الصفحة \u003C/a> للاطلاع على السجل."
+   },
+   "filtering_table_filter": {
+      "message": "فلتر"
+   },
+   "filtering_table_rule": {
+      "message": "قواعد الفلترة"
+   },
+   "filtering_table_source": {
+      "message": "المصدر"
+   },
+   "filtering_table_type": {
+      "message": "النوع"
+   },
+   "filtering_type_all": {
+      "message": "الكل"
+   },
+   "name": {
+      "message": "حاجب الإعلانات AdGuard"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "السماح للإعلانات المقبولة \u003Ca target='_blank' href='https://adguard.com/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'>معرفة المزيد\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "حاجب الإعلانات"
+   },
+   "options_antibanner_info": {
+      "message": "عدد قواعد التصفية: $1"
+   },
+   "options_antibanner_list_empty": {
+      "message": "قائمة الفلاتر فارغة. \u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>إضافة فلتر جديد\u003C/a>؟"
+   },
+   "options_blog": {
+      "message": "مدونة AdGuard"
+   },
+   "options_collect_hit_stats": {
+      "message": "إرسال الإحصائيات لاستخدامها في فلاتر الإعلانات\u003Ca target='_blank' href='https://adguard.com/filter-rules-statistics.html?utm_source=extension&aid=16593' class='sp-table-row-info'>معرفة المزيد حول ذلك\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "تم تمكين فلاتر كثيرة جدا. يتعذر على سفاري استخدام أكثر من 50000 قاعدة."
+   },
+   "options_do_you_like": {
+      "message": "هل&nbsp;يعجبك AdGuard؟"
+   },
+   "options_download_adguard": {
+      "message": "تنزيل الإصدار الكامل"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "جميع الفلاتر"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "تفعيل الفلاتر الأكثر ملائمة تلقائياً"
+   },
+   "options_feedback": {
+      "message": "تواصل&nbsp;معنا"
+   },
+   "options_filter_version": {
+      "message": "الإصدار 1$. تم تحديثه 2$ في 3$."
+   },
+   "options_footer_like_us": {
+      "message": "قم&nbsp;بتقييمه!"
+   },
+   "options_forum": {
+      "message": "منتدى AdGuard"
+   },
+   "options_general_settings": {
+      "message": "إعدادات عامة"
+   },
+   "options_like_us": {
+      "message": "أعجبك AdGuard؟ قم&nbsp;بتقييمه!"
+   },
+   "options_miscellaneous_settings": {
+      "message": "متنوع"
+   },
+   "options_modal_cancel": {
+      "message": "إلغاء"
+   },
+   "options_modal_edit": {
+      "message": "قائمة الفلاتر"
+   },
+   "options_modal_homepage": {
+      "message": "الصفحة الرئيسية"
+   },
+   "options_modal_save": {
+      "message": "حفظ التغييرات"
+   },
+   "options_open_changelog": {
+      "message": "سجل التغيير"
+   },
+   "options_open_log": {
+      "message": "سِجل التصفية"
+   },
+   "options_popup_update_error": {
+      "message": "فشل التحديث. الرجاء المحاولة لاحقاً."
+   },
+   "options_popup_update_not_found": {
+      "message": "لا يوجد تحديثات"
+   },
+   "options_popup_update_title": {
+      "message": "تم تحديث الفلاتر بنجاح"
+   },
+   "options_popup_update_updated": {
+      "message": "\"$1\" تم تحديثه للإصدار 2$"
+   },
+   "options_reset_stats": {
+      "message": "إعادة تعيين الإحصائيات"
+   },
+   "options_reset_stats_done": {
+      "message": "تمت إعادة تعيين الإحصائيات"
+   },
+   "options_safebrowsing": {
+      "message": "أمان التصفح"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "الحماية من التصيد والبرمجيات الخبيثة\u003Ca target='_blank' href='https://adguard.com/how-malware-blocked.html?utm_source=extension&aid=16593' class='sp-table-row-info'>معرفة المزيد حول ذلك\u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "ساعدنا في تطوير فلاتر أمان المتصفح\u003Cspan class='sp-table-row-info'>إرسال معلومات مجهولة المصدر تتعلق بالأمان\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "لم يُعثَر على شيء"
+   },
+   "options_settings": {
+      "message": "إعدادات AdGuard"
+   },
+   "options_show_adguard_full_version": {
+      "message": "عرض المعلومات في&nbsp;الإصدار الكامل من AdGuard"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "إظهار عدد الإعلانات المحجوبة على أيقونة AdGuard"
+   },
+   "options_show_context_menu": {
+      "message": "إضافة AdGuard للقائمة المنسدلة في المتصفح"
+   },
+   "options_site": {
+      "message": "الموقع الرسمي"
+   },
+   "options_too_many_filters_selected": {
+      "message": "لقد اشتركت في الكثير من الفلاتر. _فعل ذلك ربما يبطئ التصفح بشكل كبير"
+   },
+   "options_update_antibanner_filters": {
+      "message": "التحقق من وجود تحديثات للفلتر"
+   },
+   "options_use_optimized_filters": {
+      "message": "استخدم الفلتر المتحسن \u003Cspan class='sp-table-row-info'> قوائم فلتر خفيفة تم تحسينها للموبيل\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "فلتر المستخدم"
+   },
+   "options_userfilter_add_rule": {
+      "message": "إضافة لائحة جديدة"
+   },
+   "options_userfilter_clear": {
+      "message": "إزالة"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "إزالة فلتر المستخدم يحذف جميع اللوائح. هل أنت متأكد من رغبتك في إزالة الفلتر؟"
+   },
+   "options_userfilter_description": {
+      "message": "تستطيع إضافة لائحتك الخاصة لـ&nbsp;هذا الفلتر. هذا الخيار&nbsp;مستحسن للمستخدمين المتقدمين من هم على معرفة بالـ HTML/CSS. إقرأ \u003Ca class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>تدريب ضبط لوائح الفلاتر\u003C/a> لـ&nbsp;معرفة كيفية&nbsp;كتابة لوائح الفلاتر الخاصة بك."
+   },
+   "options_userfilter_export": {
+      "message": "تصدير"
+   },
+   "options_userfilter_import": {
+      "message": "استيراد"
+   },
+   "options_userfilter_search": {
+      "message": "البحث في&nbsp;فلتر المستخدم"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "أدخِل عبارة البحث"
+   },
+   "options_userlist_empty": {
+      "message": "فلتر المستخدم فارغ. \u003Ca class='spl-user-descr-link addUserFilter' href='#'>إضافة لائحة فلتر جديدة\u003C/a>؟"
+   },
+   "options_whitelist": {
+      "message": "القائمة البيضاء"
+   },
+   "options_whitelist_add_domain": {
+      "message": "إضافة موقع"
+   },
+   "options_whitelist_description": {
+      "message": "لا يقوم AdGuard بتصفية المواقع الموجودة في القائمة البيضاء"
+   },
+   "options_whitelist_empty": {
+      "message": "القائمة البيضاء فارغة. \u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>إضافة موقع\u003C/a>للقائمة البيضاء؟"
+   },
+   "options_whitelist_inverse": {
+      "message": "عكس مفعول القائمة البيضاء\u003Cspan class='sp-table-row-info'>السماح بالإعلانات في جميع المواقع \u003Ci>باستثناء\u003C/i>مواقع القائمة البيضاء\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "البحث في&nbsp;القائمة البيضاء"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "أدخِل عبارة البحث"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "إزالة القائمة البيضاء يحذف جميع اللوائح. هل أنت متأكد من رغبتك في إزالة القائمة البيضاء؟"
+   },
+   "popup_abuse_problem": {
+      "message": "إرسال&nbsp;شكوى"
+   },
+   "popup_abuse_site": {
+      "message": "إرسال&nbsp;شكوى حول&nbsp;هذا الموقع"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard للأندرويد"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "AdGuard \u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>وضع التكامل\u003C/a> مفعل"
+   },
+   "popup_adguard_ios": {
+      "message": "iOSلنظام التشغيل AdGuard"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard للماك"
+   },
+   "popup_adguard_other_os": {
+      "message": "AdGuard للمنصات الأخرى"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard للويندوز"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "تم حذف الإعلانات في هذه الصفحة"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "محمي بواسطة $1"
+   },
+   "popup_block_site_ads": {
+      "message": "حجب إعلان&nbsp;في&nbsp;هذا الموقع"
+   },
+   "popup_block_site_ads_android": {
+      "message": "حجب الإعلانات على هذا الموقع"
+   },
+   "popup_disable_protection": {
+      "message": "إيقاف حماية AdGuard"
+   },
+   "popup_enable_protection": {
+      "message": "تشغيل حماية AdGuard"
+   },
+   "popup_feedback_cancel": {
+      "message": "إلغاء"
+   },
+   "popup_feedback_comment": {
+      "message": "تعليق"
+   },
+   "popup_feedback_empty_option": {
+      "message": "اختر سبب الشكوى"
+   },
+   "popup_feedback_malware_option": {
+      "message": "يُشتبه التصيد"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "تم تخطي الإعلان&nbsp;"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "يجب أن تختار&nbsp;سبباً للشكوى!"
+   },
+   "popup_feedback_other_option": {
+      "message": "أخرى"
+   },
+   "popup_feedback_send": {
+      "message": "إرسال&nbsp;شكوى"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "عرض الموقع مشوَّه"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "فتح سجل الفلترة..."
+   },
+   "popup_in_white_list_android": {
+      "message": "في القائمة البيضاء"
+   },
+   "popup_open_log_android": {
+      "message": "سجل الفلترة"
+   },
+   "popup_open_settings": {
+      "message": "إعدادات AdGuard"
+   },
+   "popup_security_report": {
+      "message": "تقرير أمان الموقع"
+   },
+   "popup_security_report_android": {
+      "message": "تقرير الأمان"
+   },
+   "popup_site_exception": {
+      "message": "هذا الموقع&nbsp;من&nbsp;المواقع المستثناه"
+   },
+   "popup_site_exception_info": {
+      "message": "الفلترة&nbsp;معطلة, لأنها&nbsp;تتعارض مع طريقة عمل هذا الموقع"
+   },
+   "popup_site_filtering_disabled": {
+      "message": "لا يمكن تشغيل AdGuard على&nbsp;هذا النطاق"
+   },
+   "popup_site_filtering_state": {
+      "message": "الحماية على هذا الموقع"
+   },
+   "popup_site_protection_disabled": {
+      "message": "حماية AdGuard متوقفة"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "الحماية متوقفة"
+   },
+   "popup_tab_blocked": {
+      "message": "تم حجبه: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "المجموع: $1"
+   },
+   "popup_what_wrong_site": {
+      "message": "ما هي&nbsp;مشكلة الموقع؟"
+   },
+   "release_notes_title": {
+      "message": "AdGuard Extension updated!"
+   },
+   "release_notes_whats_new": {
+      "message": "ما الجديد في هذا الإصدار؟"
+   },
+   "sb_adguard_blocked": {
+      "message": "AdGuard منع الدخول لـ &nbsp; لهذة الصفحة"
+   },
+   "sb_go_back": {
+      "message": "الرجوع للخلف"
+   },
+   "sb_goto_site": {
+      "message": "المتابعة على أية حال"
+   },
+   "sb_main_title": {
+      "message": "تحذير! ربما يكون&nbsp;غير آمن!"
+   },
+   "sb_malware_description": {
+      "message": "AdGuard has found that malicious software may be&nbsp;installed onto your computer if&nbsp;you proceed. If&nbsp;you've visited this site in&nbsp;the past or&nbsp;you trust this site, it&nbsp;is&nbsp;possible that it&nbsp;has just recently been compromised by&nbsp;a&nbsp;hacker. We&nbsp;recommend you to&nbsp;not proceed or&nbsp;try again later."
+   },
+   "sb_malware_site": {
+      "message": "This web page at&nbsp;\u003Cstrong>$1\u003C/strong>, has been reported as&nbsp;a&nbsp;malware page and has been blocked based on&nbsp;your security preferences."
+   },
+   "sb_more_actions": {
+      "message": "متقدم"
+   },
+   "sb_phishing_description": {
+      "message": "وجد ادجوارد أن هذه الصفحة قد تكون & nbsp؛ تزوير أو & nbsp؛ تقليد & nbsp؛ موقع ويب آخر ، مصمّم على & nbsp؛ خداع المستخدمين للمشاركة في معلومات مالية شخصية أو & nbsp؛. قد يؤدي إدخال أية معلومات شخصية على & nbsp؛ هذه الصفحة إلى & nbsp؛ سرقة الهوية أو & nbsp؛ إساءة أخرى."
+   },
+   "sb_phishing_site": {
+      "message": "This web page at&nbsp;\u003Cstrong>$1\u003C/strong>, has been reported as&nbsp;a&nbsp;phishing page and has been blocked based on&nbsp;your security preferences."
+   },
+   "sb_site_report": {
+      "message": "المزيد من المعلومات"
+   },
+   "sb_title": {
+      "message": "تحذير! ربما يكون&nbsp;غير آمن!"
+   },
+   "short_name": {
+      "message": "حاجب الإعلانات AdGuard"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "حجب الإعلانات في جميع المتصفحات"
+   },
+   "thankyou_compare_blocked": {
+      "message": "حجب إعلان"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "مقيد بسبب محدودية قدرات ملحقات المتصفح"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "مُلحق AdGuard"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "كامل"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard للويندوز!"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard للماك!"
+   },
+   "thankyou_compare_increase": {
+      "message": "يقلل الزمن المستغرق في تحميل الصفحة"
+   },
+   "thankyou_compare_parent": {
+      "message": "التحكم الأبوي"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "الحماية ضد التصيد والمواقع الخبيثة"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "الحماية ضد هجمات التصيد"
+   },
+   "thankyou_compare_support": {
+      "message": "الدعم الفني"
+   },
+   "thankyou_compare_traffic": {
+      "message": "يوفر حركة المرور على الإنترنت"
+   },
+   "thankyou_download": {
+      "message": "تنزيل AdGuard"
+   },
+   "thankyou_enjoy": {
+      "message": "Enjoy a&nbsp;wide array of&nbsp;websites without intrusive ads, counters that track your every move, and various threats such as&nbsp;viruses or&nbsp;scams just waiting to&nbsp;prey on&nbsp;you."
+   },
+   "thankyou_help_in_development": {
+      "message": "شارك في تطوير فلاتر AdGuard"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "إرسال إحصائيات مجهولة المصدر عن أداء فلاتر الإعلانات بالإضافة إلى المواقع التي اعتبرها AdGuard مشبوهة.\u003Cspan class='warn-message'>غير مستحسن للأجهزة البطيئة.\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "مُثَبَّت"
+   },
+   "thankyou_setup_filter": {
+      "message": "تخصيص خيارات التصفية الخاصة بك"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "The Browsing Security module protects you from malicious and phishing websites. The module uses \u003Ca target='blank' href='http://adguard.com/how-malware-blocked.html'>a special web service\u003C/a> to check the websites you visit."
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "الحماية من التصيد ومواقع ويب الضارة"
+   },
+   "thankyou_title": {
+      "message": "!AdGuardشكرا لك على تثبيت"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "يمكن لـ ادجوارد إزالة الحاجيات الشبكة الاجتماعية من صفحات الويب. على سبيل المثال ، الأزرار \"أعجبني\" التي تتتبع إجراءاتك."
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "فلتر الحاجيات والشبكات الاجتماعية"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "المئات من شركات الإنترنت تتجسس على انشطتك. مع ادجوارد يمكنك حماية &nbsp; بسهولة من هذا التجسس"
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "A&nbsp;filter for all known counters and analytical systems"
+   },
+   "thankyou_want_full_protection": {
+      "message": "هل ترغب في تجربة الحماية الكاملة؟ قم بتنزيل AdGuard للويندوز!"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "هل ترغب في تجربة الحماية الكاملة؟_قم بتنزيل AdGuard للماك!"
+   }
+}

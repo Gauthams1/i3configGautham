@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"C Improved",
+		"C++ Completions",
+		"C++ Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JavaScript Enhancements",
+		"Package Control",
+		"Python 3",
+		"Python Completions",
+		"SideBarEnhancements"
+	]
+}

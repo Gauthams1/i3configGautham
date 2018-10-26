@@ -1,0 +1,35 @@
+2018/10/23-16:47:32.575 29937 Reusing MANIFEST /home/gautham/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/23-16:47:32.575 29937 Recovering log #80
+2018/10/23-16:47:32.695 29937 Reusing old log /home/gautham/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000080.log 
+2018/10/23-19:56:12.236 30616 Level-0 table #85: started
+2018/10/23-19:56:12.403 30616 Level-0 table #85: 1320903 bytes OK
+2018/10/23-19:56:12.496 30616 Delete type=0 #80
+2018/10/23-20:14:41.424 30616 Compacting 1@1 + 1@2 files
+2018/10/23-20:14:41.673 30616 Generated table #86@1: 51069 keys, 2250202 bytes
+2018/10/23-20:14:41.750 30616 Generated table #87@1: 516 keys, 102750 bytes
+2018/10/23-20:14:41.750 30616 Compacted 1@1 + 1@2 files => 2352952 bytes
+2018/10/23-20:14:41.806 30616 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/10/23-20:14:41.806 30616 Delete type=2 #85
+2018/10/23-20:14:41.807 30616 Delete type=2 #82
+2018/10/24-19:43:48.318 30616 Level-0 table #89: started
+2018/10/24-19:43:48.510 30616 Level-0 table #89: 1291490 bytes OK
+2018/10/24-19:43:48.603 30616 Delete type=0 #84
+2018/10/24-19:45:02.047 30616 Compacting 1@1 + 2@2 files
+2018/10/24-19:45:02.344 30616 Generated table #90@1: 45761 keys, 2231422 bytes
+2018/10/24-19:45:02.511 30616 Generated table #91@1: 22067 keys, 794169 bytes
+2018/10/24-19:45:02.511 30616 Compacted 1@1 + 2@2 files => 3025591 bytes
+2018/10/24-19:45:02.577 30616 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/10/24-19:45:02.577 30616 Delete type=2 #87
+2018/10/24-19:45:02.578 30616 Delete type=2 #89
+2018/10/24-19:45:02.578 30616 Delete type=2 #86
+2018/10/25-18:09:51.455 30616 Level-0 table #93: started
+2018/10/25-18:09:51.625 30616 Level-0 table #93: 1247383 bytes OK
+2018/10/25-18:09:51.700 30616 Delete type=0 #88
+2018/10/25-18:11:04.818 30616 Compacting 1@1 + 2@2 files
+2018/10/25-18:11:05.073 30616 Generated table #94@1: 41179 keys, 2229680 bytes
+2018/10/25-18:11:05.263 30616 Generated table #95@1: 42790 keys, 1445939 bytes
+2018/10/25-18:11:05.263 30616 Compacted 1@1 + 2@2 files => 3675619 bytes
+2018/10/25-18:11:05.328 30616 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/10/25-18:11:05.328 30616 Delete type=2 #90
+2018/10/25-18:11:05.329 30616 Delete type=2 #91
+2018/10/25-18:11:05.330 30616 Delete type=2 #93

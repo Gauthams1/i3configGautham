@@ -1,0 +1,8 @@
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"language","value":"en","_id":"UTWcfL7EZmuNWEt7"}
+{"key":"version","value":"0.3.10","_id":"hIgpSr5XzjF91Gvu"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"PAfaa3XwEuwltBFO"}
+{"key":"arch","value":"x64","_id":"t93eRbXdkaFViuet"}
+{"key":"os","value":"linux","_id":"YAoRMHkGzfX8FCku"}
+{"key":"totalDownloaded","value":0,"_id":"iisGDDruVvfBuBfS"}
+{"key":"totalUploaded","value":0,"_id":"GtLoFeXXBZW9bYaF"}

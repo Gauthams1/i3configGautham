@@ -1,0 +1,26 @@
+2018/10/26-08:08:12.500 1295 Reusing MANIFEST /home/gautham/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/10/26-08:08:12.500 1295 Recovering log #1171
+2018/10/26-08:08:12.524 1295 Reusing old log /home/gautham/.config/google-chrome/Default/Session Storage/001171.log 
+2018/10/26-08:08:23.429 2525 Level-0 table #1175: started
+2018/10/26-08:08:25.566 2525 Level-0 table #1175: 13384 bytes OK
+2018/10/26-08:08:25.787 2525 Delete type=0 #1171
+2018/10/26-08:32:45.874 2525 Level-0 table #1177: started
+2018/10/26-08:32:46.031 2525 Level-0 table #1177: 18890 bytes OK
+2018/10/26-08:32:46.286 2525 Delete type=0 #1174
+2018/10/26-16:46:05.977 2525 Compacting 3@0 + 1@1 files
+2018/10/26-16:46:06.075 2525 Generated table #1178@0: 1911 keys, 49282 bytes
+2018/10/26-16:46:06.075 2525 Compacted 3@0 + 1@1 files => 49282 bytes
+2018/10/26-16:46:06.141 2525 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/26-16:46:06.142 2525 Delete type=2 #1170
+2018/10/26-16:46:06.142 2525 Delete type=2 #1177
+2018/10/26-16:46:06.142 2525 Delete type=2 #1172
+2018/10/26-16:46:06.142 2525 Delete type=2 #1175
+2018/10/26-22:51:23.024 2525 Level-0 table #1180: started
+2018/10/26-22:51:23.128 2525 Level-0 table #1180: 19322 bytes OK
+2018/10/26-22:51:23.184 2525 Delete type=0 #1176
+2018/10/26-23:20:47.140 2525 Level-0 table #1182: started
+2018/10/26-23:20:47.219 2525 Level-0 table #1182: 28070 bytes OK
+2018/10/26-23:20:47.286 2525 Delete type=0 #1179
+2018/10/26-23:39:22.492 2525 Level-0 table #1184: started
+2018/10/26-23:39:22.561 2525 Level-0 table #1184: 17599 bytes OK
+2018/10/26-23:39:22.630 2525 Delete type=0 #1181

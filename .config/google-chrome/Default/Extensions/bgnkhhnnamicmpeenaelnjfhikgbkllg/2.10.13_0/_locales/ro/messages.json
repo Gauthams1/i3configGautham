@@ -1,0 +1,707 @@
+{
+   "abp_subscribe_confirm_enable": {
+      "message": "AdGuard: vreți să permiteți $1 subscripția?"
+   },
+   "abp_subscribe_confirm_import": {
+      "message": "AdGuard: vreți să importați reguli din $1 în filtrul utilizatorului dumneavoastră?"
+   },
+   "abp_subscribe_confirm_import_finished_text": {
+      "message": "AdGuard a terminat importarea de reguli în filtrul utilizatorului. Numărul de reguli importate: $1"
+   },
+   "abp_subscribe_confirm_import_finished_title": {
+      "message": "Importarea a fost terminată cu succes"
+   },
+   "adguard_product_mac": {
+      "message": "AdGuard pentru Mac"
+   },
+   "adguard_product_windows": {
+      "message": "AdGuard pentru Windows"
+   },
+   "alert_popup_filter_enabled_text": {
+      "message": "«$1» a fost activat automat"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Auto-activarea filtrelor"
+   },
+   "assistant_another_element": {
+      "message": "Selectează alt element"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "Aplică regula pentru fiecare pagină web"
+   },
+   "assistant_block": {
+      "message": "Blocare"
+   },
+   "assistant_block_by_reference": {
+      "message": "Blocare element prin url"
+   },
+   "assistant_block_element": {
+      "message": "Blochează element"
+   },
+   "assistant_block_element_explain": {
+      "message": "Elementul de blocare a regulilor de configurare"
+   },
+   "assistant_block_similar": {
+      "message": "Blocare elemente similare"
+   },
+   "assistant_extended_settings": {
+      "message": "Setări avansate"
+   },
+   "assistant_preview": {
+      "message": "Previzualizare"
+   },
+   "assistant_preview_end": {
+      "message": "Termină previzualizarea"
+   },
+   "assistant_preview_header": {
+      "message": "Blocare element - Previzualizare"
+   },
+   "assistant_preview_header_info": {
+      "message": "Verifică cum va arăta pagina înainte de confirmarea blocării."
+   },
+   "assistant_preview_start": {
+      "message": "Previzualizează"
+   },
+   "assistant_select_element": {
+      "message": "Selectează modul"
+   },
+   "assistant_select_element_cancel": {
+      "message": "Anulează"
+   },
+   "assistant_select_element_ext": {
+      "message": "Click pe oricare element de pe pagină"
+   },
+   "assistant_slider_explain": {
+      "message": "Folosește cursorul pentru a schimba mărimea elementului pentru a fi blocat de această regulă:"
+   },
+   "assistant_slider_if_hide": {
+      "message": "Acest filtru va conține o regulă care blochează elementul selectat"
+   },
+   "assistant_slider_max": {
+      "message": "GENEROS"
+   },
+   "assistant_slider_min": {
+      "message": "REDUS"
+   },
+   "background_tab_title": {
+      "message": "Background tab"
+   },
+   "context_abuse_site": {
+      "message": "Trimiteți o plângere despre această pagină web..."
+   },
+   "context_ads_has_been_removed": {
+      "message": "Anunțurile au fost îndepărtate de pe această pagină"
+   },
+   "context_ads_has_been_removed_by_adguard": {
+      "message": "Protejat de $1"
+   },
+   "context_antibanner": {
+      "message": "Blocare anunțuri"
+   },
+   "context_block_site_ads": {
+      "message": "Blocați anunțurile pe această pagină web..."
+   },
+   "context_block_site_element": {
+      "message": "Blocați element..."
+   },
+   "context_block_site_image": {
+      "message": "AdGuard: Blocați imagine..."
+   },
+   "context_disable_protection": {
+      "message": "Întrerupeți protecția AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "Reporniți protecția AdGuard"
+   },
+   "context_general_settings": {
+      "message": "Setări generale"
+   },
+   "context_miscellaneous_settings": {
+      "message": "Diverse"
+   },
+   "context_open_log": {
+      "message": "Jurnal de filtrare..."
+   },
+   "context_open_settings": {
+      "message": "Setări AdGuard..."
+   },
+   "context_safebrowsing": {
+      "message": "Navigare în siguranță"
+   },
+   "context_security_report": {
+      "message": "Deschideți raportul de securitate pentru o pagină web..."
+   },
+   "context_site_exception": {
+      "message": "Această pagină web este în excepții"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard nu poate funcționa pe acest domeniu"
+   },
+   "context_site_filtering_off": {
+      "message": "Dezactivați filtrarea pe această pagină web"
+   },
+   "context_site_filtering_on": {
+      "message": "Activați filtrarea pe această pagină web"
+   },
+   "context_site_protection_disabled": {
+      "message": "Protecția AdGuard este în pauză"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Verificați dacă sunt actualizări de filtre"
+   },
+   "context_userfilter": {
+      "message": "Filtrul utilizatorului"
+   },
+   "context_whitelist": {
+      "message": "Lista albă"
+   },
+   "description": {
+      "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites."
+   },
+   "description_blocked": {
+      "message": "Ads blocked on this page: $1"
+   },
+   "filter_download_ads_malware": {
+      "message": "90% din&nbsp;viruși și programele malițioase sunt&nbsp;distribuite\u003Cbr/>prin rețele de publicitate lipsite de scrupule."
+   },
+   "filter_download_do_you_know": {
+      "message": "Știați?"
+   },
+   "filter_download_loading": {
+      "message": "Vă rugăm asteptați până baza de date a filtrelor este&nbsp;încărcată..."
+   },
+   "filter_download_rules": {
+      "message": "În&nbsp;medie&nbsp;adăugăm mai mult de 100&nbsp;filtre de anunțuri în fiecare săptămână,"
+   },
+   "filter_download_sb_sites": {
+      "message": "Baza de date AdGuard pentru fraude si programe malițioase conține\u003Cbr/>mai mult de 1&nbsp;milion de pagini web."
+   },
+   "filter_download_title": {
+      "message": "Baza de date a filtrelor se&nbsp;încarcă..."
+   },
+   "filtering_clear_tab_events": {
+      "message": "Resetați"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "Această pagină web este în lista albă"
+   },
+   "filtering_log_preserve_log": {
+      "message": "Preserve log"
+   },
+   "filtering_log_search_string": {
+      "message": "Introduceți fraza pentru căutare"
+   },
+   "filtering_log_tab": {
+      "message": "Filă"
+   },
+   "filtering_log_title": {
+      "message": "Jurnal de filtrare"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Adăugați o regulă"
+   },
+   "filtering_modal_add_title": {
+      "message": "Adăugarea unei reguli"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Aplică această regulă la toate paginile web"
+   },
+   "filtering_modal_block": {
+      "message": "Blocați"
+   },
+   "filtering_modal_element": {
+      "message": "Element:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Adăugați o excepție"
+   },
+   "filtering_modal_filter": {
+      "message": "Filtrul:"
+   },
+   "filtering_modal_important": {
+      "message": "Acordă o prioritate sporită regulii"
+   },
+   "filtering_modal_info_title": {
+      "message": "Cereți detalii"
+   },
+   "filtering_modal_match_case": {
+      "message": "Luați în considerare cazul"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Deschideți intr-o filă nouă"
+   },
+   "filtering_modal_options": {
+      "message": "Opțiuni"
+   },
+   "filtering_modal_patterns": {
+      "message": "Tipare"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Ștergeți din filtrele utilizatorului"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "Ștergeți din filtrul listei albe"
+   },
+   "filtering_modal_rule": {
+      "message": "Regula:"
+   },
+   "filtering_modal_rule_text": {
+      "message": "Textul regulii"
+   },
+   "filtering_modal_source": {
+      "message": "Sursa:"
+   },
+   "filtering_modal_third_party": {
+      "message": "Aplicați numai la cererile venite din partea terților"
+   },
+   "filtering_modal_type": {
+      "message": "Tipul:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Deblocați"
+   },
+   "filtering_refresh_tab": {
+      "message": "Reîmprospătare pagină"
+   },
+   "filtering_table_empty_row": {
+      "message": "Jurnalul pentru această pagină este gol.\u003Ca href='#' class='reloadTab'>Reîncărcați pagina\u003C/a> pentru a vedea jurnalul."
+   },
+   "filtering_table_filter": {
+      "message": "Filtru"
+   },
+   "filtering_table_rule": {
+      "message": "Regula de filtrare"
+   },
+   "filtering_table_source": {
+      "message": "Sursa"
+   },
+   "filtering_table_type": {
+      "message": "Tip"
+   },
+   "filtering_type_all": {
+      "message": "Toate"
+   },
+   "name": {
+      "message": "AdGuard AdBlocker"
+   },
+   "options_allow_acceptable_ads": {
+      "message": "Allow search ads and the self-promotion of websites\u003Ca target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Learn more about&nbsp;it\u003C/a>"
+   },
+   "options_antibanner": {
+      "message": "Blocarea anunțurilor"
+   },
+   "options_antibanner_info": {
+      "message": "Filtrează numărul regulilor: $1"
+   },
+   "options_antibanner_list_empty": {
+      "message": "Lista de filtre este&nbsp;goală. \u003Ca class='spl-user-descr-link editAntiBannerFilters' href='#'>Adăugați filtru nou\u003C/a>?"
+   },
+   "options_blog": {
+      "message": "Blog-ul AdGuard"
+   },
+   "options_collect_hit_stats": {
+      "message": "Trimiteți statisticile pentru folosirea&nbsp;filtrelor de anunțuri\u003Ca target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Aflați mai multe despre&nbsp;asta\u003C/a>"
+   },
+   "options_content_blocker_overlimit": {
+      "message": "Prea multe filtre activate. Safari nu poate folosi mai mult de 50000 de reguli."
+   },
+   "options_do_you_like": {
+      "message": "Vă&nbsp;place AdGuard?"
+   },
+   "options_download_adguard": {
+      "message": "Download full version"
+   },
+   "options_edit_antibanner_filters": {
+      "message": "Toate filtrele"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Activează cele mai adecvate filtre în mod automat"
+   },
+   "options_feedback": {
+      "message": "Contactați-ne"
+   },
+   "options_filter_version": {
+      "message": "Version $1. Updated $2 at $3."
+   },
+   "options_footer_like_us": {
+      "message": "Acordați&nbsp;o notă!"
+   },
+   "options_forum": {
+      "message": "Forumul AdGuard"
+   },
+   "options_general_settings": {
+      "message": "Setări Generale"
+   },
+   "options_like_us": {
+      "message": "Vă place AdGuard? Accordați-i&nbsp;o notă!"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Diverse"
+   },
+   "options_modal_cancel": {
+      "message": "Anulează"
+   },
+   "options_modal_edit": {
+      "message": "Listă filtre"
+   },
+   "options_modal_homepage": {
+      "message": "Pagina principală"
+   },
+   "options_modal_save": {
+      "message": "Salvați modificările"
+   },
+   "options_open_changelog": {
+      "message": "Jurnalul modificărilor"
+   },
+   "options_open_log": {
+      "message": "Jurnalul filtrărilor"
+   },
+   "options_popup_update_error": {
+      "message": "Nu s-a reușit obținerea actualizărilor. Vă rugăm să incercați mai târziu."
+   },
+   "options_popup_update_not_found": {
+      "message": "Nu au fost găsite actualizări"
+   },
+   "options_popup_update_title": {
+      "message": "Filtrele au fost actualizate cu succes"
+   },
+   "options_popup_update_updated": {
+      "message": "\"$1\" a fost updatată la versiunea $2"
+   },
+   "options_reset_stats": {
+      "message": "Resetați statisticile"
+   },
+   "options_reset_stats_done": {
+      "message": "Statisticile sunt resetate"
+   },
+   "options_safebrowsing": {
+      "message": "Securitate la navigare"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Protecție împotriva infracțiunilor virtuale\u003Ca target='_blank' href='https://kb.adguard.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Aflați mai mult despre&nbsp;asta\u003C/a>"
+   },
+   "options_safebrowsing_help": {
+      "message": "Help&nbsp;us in&nbsp;Browsing security filters development\u003Cspan class='sp-table-row-info'>Submit anonymous security-related information\u003C/span>"
+   },
+   "options_searchlist_empty": {
+      "message": "Nu s-a găsit nimic"
+   },
+   "options_settings": {
+      "message": "Setări AdGuard"
+   },
+   "options_show_adguard_full_version": {
+      "message": "Arată informații despre&nbsp;AdGuard versiunea completă"
+   },
+   "options_show_blocked_ads_count": {
+      "message": "Indică numărul anunțurilor blocate în icoana extensiei AdGuard"
+   },
+   "options_show_context_menu": {
+      "message": "Adăugați AdGuard la meniul contextual al navigatorului web"
+   },
+   "options_site": {
+      "message": "Pagină oficială"
+   },
+   "options_too_many_filters_selected": {
+      "message": "Ați selectat prea multe abonamente la filtre. S-ar putea să reducă semnificativ navigarea web."
+   },
+   "options_update_antibanner_filters": {
+      "message": "Verifică actualizări de filtre"
+   },
+   "options_use_optimized_filters": {
+      "message": "Folosiți filtre optimizate\u003Cspan class='sp-table-row-info'>Liste simple de filtre optimizate pentru dispozitive mobile\u003C/span>"
+   },
+   "options_userfilter": {
+      "message": "Folosiți filtrul"
+   },
+   "options_userfilter_add_rule": {
+      "message": "Adaugați o regulă nouă"
+   },
+   "options_userfilter_clear": {
+      "message": "Goliți"
+   },
+   "options_userfilter_clear_confirm": {
+      "message": "Golirea filtrului utilizatorului șterge toate regulile. Sigur doriți să goliți filtrul utilizatorului?"
+   },
+   "options_userfilter_description": {
+      "message": "Puteți adăuga propriile reguli la&nbsp;acest filtru. Această opțiune este&nbsp;recomandată utilizatorilor avansați, familiarizați cu HTML/CSS.Citiți \u003Ca class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>tutorialul regulilor filtrelor pentru a&nbsp;învăța cum să vă&nbsp;scrieți propriile reguli pentru filtre."
+   },
+   "options_userfilter_export": {
+      "message": "Exportați"
+   },
+   "options_userfilter_import": {
+      "message": "Importați"
+   },
+   "options_userfilter_search": {
+      "message": "Caută în&nbsp;filtrul utilizatorului"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "Introduceți fraza de căutare"
+   },
+   "options_userlist_empty": {
+      "message": "Filtrul utilizatorului este gol. \u003Ca class='spl-user-descr-link addUserFilter' href='#'>Adăugați o nouă regulă de filtrare\u003C/a>?"
+   },
+   "options_whitelist": {
+      "message": "Listă albă"
+   },
+   "options_whitelist_add_domain": {
+      "message": "Adaugați pagină web"
+   },
+   "options_whitelist_description": {
+      "message": "AdGuard nu filtrează paginile web din lista albă."
+   },
+   "options_whitelist_empty": {
+      "message": "Lista albă este goală. \u003Ca class='spl-user-descr-link addWhiteListFilter' href='#'>Adăugați o pagină web\u003C/a> la lista albă?"
+   },
+   "options_whitelist_inverse": {
+      "message": "Inversați lista albă\u003Cspan class='sp-table-row-info'>Deblocați anunțurile peste tot\u003Ci>în afară\u003C/i> de lista albă\u003C/span>"
+   },
+   "options_whitelist_search": {
+      "message": "Caută în&nbsp;lista albă"
+   },
+   "options_whitelist_search_placeholder": {
+      "message": "Introduceți fraza de căutare"
+   },
+   "options_whitelistfilter_clear_confirm": {
+      "message": "Golirea listei albe va șterge toate regulile. Sigur doriți să goliți lista albă?"
+   },
+   "popup_abuse_problem": {
+      "message": "Submit a&nbsp;complaint"
+   },
+   "popup_abuse_site": {
+      "message": "Trimiteți o&nbsp;plângere despre&nbsp;această pagină web"
+   },
+   "popup_adguard_android": {
+      "message": "AdGuard pentru Android"
+   },
+   "popup_adguard_footer_integration": {
+      "message": "AdGuard \u003Ca href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>modul integrare\u003C/a> este activ"
+   },
+   "popup_adguard_ios": {
+      "message": "AdGuard pentru iOS"
+   },
+   "popup_adguard_mac": {
+      "message": "AdGuard pentru Mac"
+   },
+   "popup_adguard_other_os": {
+      "message": "Alte versiuni AdGuard:"
+   },
+   "popup_adguard_windows": {
+      "message": "AdGuard pentru Windows"
+   },
+   "popup_ads_has_been_removed": {
+      "message": "Anunțurile au fost îndepărtate de pe această pagină"
+   },
+   "popup_ads_has_been_removed_by_adguard": {
+      "message": "Protejat de $1"
+   },
+   "popup_block_site_ads": {
+      "message": "Blocați anunțurile&nbsp;pe&nbsp;această pagină web"
+   },
+   "popup_block_site_ads_android": {
+      "message": "Blocați anunțurile pe această pagină web"
+   },
+   "popup_disable_protection": {
+      "message": "Întrerupeți protecția AdGuard"
+   },
+   "popup_enable_protection": {
+      "message": "Continuați protecția AdGuard"
+   },
+   "popup_feedback_cancel": {
+      "message": "Anulează"
+   },
+   "popup_feedback_comment": {
+      "message": "Comentariu"
+   },
+   "popup_feedback_empty_option": {
+      "message": "Selectați un motiv pentru plângere"
+   },
+   "popup_feedback_malware_option": {
+      "message": "Tentativă de fraudă suspectată"
+   },
+   "popup_feedback_miss_ads_option": {
+      "message": "Anunț&nbsp;omis"
+   },
+   "popup_feedback_option_is_empty": {
+      "message": "Trebuie să selectați un&nbsp;motiv pentru plângerea dumneavoastră!"
+   },
+   "popup_feedback_other_option": {
+      "message": "Altul"
+   },
+   "popup_feedback_send": {
+      "message": "Trimiteți o&nbsp;plângere"
+   },
+   "popup_feedback_wrong_block_option": {
+      "message": "Afișarea paginii web este distorsionată"
+   },
+   "popup_filtering_log_icon_title": {
+      "message": "Deschideți jurnalul de filtrare..."
+   },
+   "popup_in_white_list_android": {
+      "message": "În lista albă"
+   },
+   "popup_open_log_android": {
+      "message": "Jurnal de filtrare"
+   },
+   "popup_open_settings": {
+      "message": "Setări AdGuard"
+   },
+   "popup_security_report": {
+      "message": "Raport despre securitatea paginii web"
+   },
+   "popup_security_report_android": {
+      "message": "Raport de securitate"
+   },
+   "popup_site_exception": {
+      "message": "Această pagină web este&nbsp;în&nbsp;excepții"
+   },
+   "popup_site_exception_info": {
+      "message": "Filtrarea este&nbsp;dezactivată, pentru că&nbsp;poate interfera cu funcționarea acestei pagini web."
+   },
+   "popup_site_filtering_disabled": {
+      "message": "AdGuard nu poate rula pe&nbsp;acest domeniu"
+   },
+   "popup_site_filtering_state": {
+      "message": "Protecție pe această pagină web"
+   },
+   "popup_site_protection_disabled": {
+      "message": "Protecția AdGuard este întreruptă"
+   },
+   "popup_site_protection_disabled_android": {
+      "message": "Protecția este în pauză"
+   },
+   "popup_tab_blocked": {
+      "message": "Blocat: $1"
+   },
+   "popup_tab_blocked_all": {
+      "message": "Total: $1"
+   },
+   "popup_what_wrong_site": {
+      "message": "Ce este&nbsp;în neregulă cu această pagină web?"
+   },
+   "release_notes_title": {
+      "message": "AdGuard Extension updated!"
+   },
+   "release_notes_whats_new": {
+      "message": "What's new in&nbsp;this version?"
+   },
+   "sb_adguard_blocked": {
+      "message": "AdGuard a blocat accesul la&nbsp;această pagină"
+   },
+   "sb_go_back": {
+      "message": "Mergeți înapoi"
+   },
+   "sb_goto_site": {
+      "message": "Continuați oricum"
+   },
+   "sb_main_title": {
+      "message": "Atenție! Ar putea fi&nbsp;riscant!"
+   },
+   "sb_malware_description": {
+      "message": "AdGuard a descoperit că programe malițioase ar putea fi&nbsp;instalate pe calculatorul dumneavoastră dacă&nbsp;continuați. Dacă&nbsp;ați vizitat această pagină web în&nbsp;trecut sau&nbsp;aveți încredere în această pagină, este&nbsp;posibil ca ea&nbsp;să fi fost compromisă recent de către&nbsp;un&nbsp;hacker. Vă&nbsp;recomandăm sa&nbsp;nu continuați sau&nbsp;sa încercați din nou mai târziu."
+   },
+   "sb_malware_site": {
+      "message": "Această pagină web la adresa&nbsp;\u003Cstrong>$1\u003C/strong>, a fost raportată ca&nbsp;o&nbsp;pagină malițioasă și a fost blocată în baza&nbsp;preferințelor dumneavoastră de securitate."
+   },
+   "sb_more_actions": {
+      "message": "Avansat"
+   },
+   "sb_phishing_description": {
+      "message": "AdGuard a descoperit că această pagină ar putea fi&nbsp;un&nbsp;fals sau&nbsp;o imitație a&nbsp;unei alte pagini web, cu scopul de a&nbsp;păcăli utilizatorii să împărtășească date personale sau&nbsp;financiare. Introducând orice date personale pe&nbsp;această pagină poate duce la&nbsp;furt de identitate sau&nbsp;alte forme de abuz."
+   },
+   "sb_phishing_site": {
+      "message": "Această pagină web la adresa&nbsp;\u003Cstrong>$1\u003C/strong>, a fost raportată ca&nbsp;o&nbsp;pagină infracțională și a fost blocată în baza&nbsp;preferințelor dumneavoastră de securitate."
+   },
+   "sb_site_report": {
+      "message": "Mai multe informații"
+   },
+   "sb_title": {
+      "message": "Atenție! Ar putea fi&nbsp;riscant!"
+   },
+   "short_name": {
+      "message": "AdGuard AdBlocker"
+   },
+   "thankyou_compare_any_browser": {
+      "message": "Blochează reclamele în toate browserele"
+   },
+   "thankyou_compare_blocked": {
+      "message": "Blocarea anunțurilor"
+   },
+   "thankyou_compare_ext_blocking": {
+      "message": "Limitată de capacitățile de extensie a browserului"
+   },
+   "thankyou_compare_ext_title": {
+      "message": "Extensia AdGuard"
+   },
+   "thankyou_compare_full_blocking": {
+      "message": "Complet"
+   },
+   "thankyou_compare_full_title": {
+      "message": "AdGuard pentru Windows"
+   },
+   "thankyou_compare_full_title_mac": {
+      "message": "AdGuard pentru Mac"
+   },
+   "thankyou_compare_increase": {
+      "message": "Reduce timpul de încărcare a paginii"
+   },
+   "thankyou_compare_parent": {
+      "message": "Control parental"
+   },
+   "thankyou_compare_safebrowsing": {
+      "message": "Protecție împotriva phishingului și a siteurilor răufăcătoare"
+   },
+   "thankyou_compare_safebrowsing_attack": {
+      "message": "Protecție împotriva atacurilor phishing"
+   },
+   "thankyou_compare_support": {
+      "message": "Suport tehnic"
+   },
+   "thankyou_compare_traffic": {
+      "message": "Salvează traficul de internet"
+   },
+   "thankyou_download": {
+      "message": "Descarcă AdGuard"
+   },
+   "thankyou_enjoy": {
+      "message": "Bucurați-vă de&nbsp;o varietate largă de&nbsp;pagini web fără anunțuri intruzive, contoare care vă monitorizează orice mișcare și diferite alte amenințări precum&nbsp;viruși sau&nbsp;înșelătorii care abia asteaptă să le cădeți pradă."
+   },
+   "thankyou_help_in_development": {
+      "message": "Participă la dezvoltarea filtrelor AdGuard"
+   },
+   "thankyou_help_in_development_description": {
+      "message": "Trimite statistici anonime despre munca filtrelor AdGuard, de asemenea a paginilor web pe care AdGuard le-a identificat ca suspecte. \u003Cspan class='warn-message'>Nerecomandat pentru computerele încete.\u003C/span>"
+   },
+   "thankyou_installed": {
+      "message": "INSTALAT"
+   },
+   "thankyou_setup_filter": {
+      "message": "Personalizați opțiunile de filtrare"
+   },
+   "thankyou_setup_safebrowsing_description": {
+      "message": "Modulul de Navigare în siguranță vă protejează de fraude și pagini web malițioase. Modulul foloseste\u003Ca target='blank' href='http://adguard.com/how-malware-blocked.html'>un serviciu web special\u003C/a> pentru a verifica paginile web pe care le vizitați."
+   },
+   "thankyou_setup_safebrowsing_title": {
+      "message": "Protecție împotriva fraudelor și a paginilor web malițioase"
+   },
+   "thankyou_title": {
+      "message": "Vă mulțumim pentru că ați instalat AdGuard!"
+   },
+   "thankyou_tracking_social_filter_description": {
+      "message": "AdGuard poate îndepărta widget-urile rețelelor de socializare de pe paginile web. De exemplu, butoanele \"Îmi place\", care vă monitorizează acțiunile."
+   },
+   "thankyou_tracking_social_filter_title": {
+      "message": "Filtru pentru widget-urile rețelelor de socializare"
+   },
+   "thankyou_tracking_spyware_filter_description": {
+      "message": "Sute de&nbsp;companii de internet vă spionează acțiunile. Cu AdGuard puteți fi protejați cu ușurință de acest spionaj."
+   },
+   "thankyou_tracking_spyware_filter_title": {
+      "message": "Un&nbsp;filtru pentru toate contoarele și sistemele analitice cunoscute"
+   },
+   "thankyou_want_full_protection": {
+      "message": "Vrei să încerci protecția completă? Descarcă AdGuard pentru Windows!"
+   },
+   "thankyou_want_full_protection_mac": {
+      "message": "Vrei să încerci protecția completă? Descarcă AdGuard pentru Mac!"
+   }
+}

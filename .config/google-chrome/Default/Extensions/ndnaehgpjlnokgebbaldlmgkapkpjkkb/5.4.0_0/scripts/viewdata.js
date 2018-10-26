@@ -1,0 +1,15 @@
+/* El código a continuación es propiedad intelectual de The Mail Track Company S.L. de Barcelona, España,
+y solo debe ser utilizado y manejado bajo estos Términos: https://mailtrack.io/es/terms
+
+The code hereafter is the intellectual property of The Mail Track Company S.L. of Barcelona, Spain
+and must be used and handled only according to these Terms: https://mailtrack.io/en/terms */
+
+(function () {
+    'use strict';
+
+    var inject = document.createElement('script');
+
+    inject.textContent = atob(`IWZ1bmN0aW9uKG4pe3ZhciB0PXt9O2Z1bmN0aW9uIGUocil7aWYodFtyXSlyZXR1cm4gdFtyXS5leHBvcnRzO3ZhciBvPXRbcl09e2k6cixsOiExLGV4cG9ydHM6e319O3JldHVybiBuW3JdLmNhbGwoby5leHBvcnRzLG8sby5leHBvcnRzLGUpLG8ubD0hMCxvLmV4cG9ydHN9ZS5tPW4sZS5jPXQsZS5kPWZ1bmN0aW9uKG4sdCxyKXtlLm8obix0KXx8T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sdCx7Y29uZmlndXJhYmxlOiExLGVudW1lcmFibGU6ITAsZ2V0OnJ9KX0sZS5uPWZ1bmN0aW9uKG4pe3ZhciB0PW4mJm4uX19lc01vZHVsZT9mdW5jdGlvbigpe3JldHVybiBuLmRlZmF1bHR9OmZ1bmN0aW9uKCl7cmV0dXJuIG59O3JldHVybiBlLmQodCwiYSIsdCksdH0sZS5vPWZ1bmN0aW9uKG4sdCl7cmV0dXJuIE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChuLHQpfSxlLnA9IiIsZShlLnM9NjMzKX0oezYzMzpmdW5jdGlvbihuLHQsZSl7InVzZSBzdHJpY3QiO3QuX19lc01vZHVsZT0hMCxmdW5jdGlvbigpe09iamVjdC5kZWZpbmVQcm9wZXJ0eSh3aW5kb3csIlZJRVdfREFUQSIse2NvbmZpZ3VyYWJsZTohMCxnZXQ6ZnVuY3Rpb24oKXtyZXR1cm4gdGhpcy5fVklFV19EQVRBfSxzZXQ6ZnVuY3Rpb24obil7dHJ5e24mJihuLmZvckVhY2goZnVuY3Rpb24obil7InRiIj09PW5bMF0mJm5bMl0uZm9yRWFjaChmdW5jdGlvbihuKXtuWzE1XSs9IlxuIitlbmNvZGVVUkkoblswXSl9KX0pLHdpbmRvdy5NVF9WSUVXX0RBVEE9bil9Y2F0Y2gobil7Y29uc29sZS50cmFjZShuKX10aGlzLl9WSUVXX0RBVEE9bn19KX0oKX19KTsKLy8jIHNvdXJjZU1hcHBpbmdVUkw9dmlld2RhdGEuaW5qZWN0LmJ1bmRsZS5qcy5tYXA=`);
+
+    document.documentElement.appendChild(inject);
+}());

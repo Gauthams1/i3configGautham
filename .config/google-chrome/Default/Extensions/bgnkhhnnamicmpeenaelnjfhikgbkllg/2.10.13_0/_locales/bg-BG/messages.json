@@ -1,0 +1,707 @@
+{
+    "filtering_modal_element": {
+        "message": "Element:"
+    },
+    "background_tab_title": {
+        "message": "Background tab"
+    },
+    "filtering_modal_important": {
+        "message": "Дай по-висок приоритет на правилото"
+    },
+    "thankyou_want_full_protection": {
+        "message": "Искате да&nbsp;пробвате пълна защита? Изтеглете AdGuard за Windows!"
+    },
+    "thankyou_want_full_protection_mac": {
+        "message": "Искате да&nbsp;пробвате пълна защита? Изтеглете AdGuard за Mac!"
+    },
+    "thankyou_compare_ext_title": {
+        "message": "Разширение за AdGuard"
+    },
+    "thankyou_compare_full_title": {
+        "message": "AdGuard за Windows"
+    },
+    "thankyou_compare_full_title_mac": {
+        "message": "AdGuard за Mac"
+    },
+    "thankyou_compare_blocked": {
+        "message": "Блокиране на реклами"
+    },
+    "thankyou_compare_ext_blocking": {
+        "message": "Ограничени от разширенията на браузъра възможности"
+    },
+    "thankyou_compare_full_blocking": {
+        "message": "Пълна"
+    },
+    "thankyou_compare_safebrowsing": {
+        "message": "Защита срещу фишинг и злонамерени уеб сайтове"
+    },
+    "thankyou_compare_parent": {
+        "message": "Родителски контрол"
+    },
+    "thankyou_compare_safebrowsing_attack": {
+        "message": "Защита срещу фишинг атаки"
+    },
+    "thankyou_compare_any_browser": {
+        "message": "Блокира рекламите във сички браузъри"
+    },
+    "thankyou_compare_traffic": {
+        "message": "Спестява интернет трафик"
+    },
+    "thankyou_compare_increase": {
+        "message": "Намалява времето за зареждане на страницата"
+    },
+    "thankyou_compare_support": {
+        "message": "Техническа поддръжка"
+    },
+    "thankyou_installed": {
+        "message": "ИНСТАЛИРАНА"
+    },
+    "thankyou_download": {
+        "message": "Изтегли AdGuard"
+    },
+    "thankyou_help_in_development": {
+        "message": "Участвам в&nbsp;разработването на&nbsp;филтрите за AdGuard"
+    },
+    "thankyou_help_in_development_description": {
+        "message": "Изпрати анонимно статистика за работата на&nbsp;филтрите за реклами&nbsp;на AdGuard&nbsp;kakto i&nbsp;уеб сайтовете, които AdGuard идентифицира като&nbsp;подозрителни. <span class='warn-message'>Не се препоръчва на&nbsp;sбавни компютри.</span>"
+    },
+    "release_notes_title": {
+        "message": "AdGuard Extension updated!"
+    },
+    "release_notes_whats_new": {
+        "message": "What's new in&nbsp;this version?"
+    },
+    "assistant_select_element": {
+        "message": "Режим на избор"
+    },
+    "assistant_select_element_ext": {
+        "message": "Кликнете на&nbsp;някой елемент в&nbsp;страницата"
+    },
+    "assistant_select_element_cancel": {
+        "message": "Отказ"
+    },
+    "assistant_block_element": {
+        "message": "Блокиране на елемент"
+    },
+    "assistant_block_element_explain": {
+        "message": "Настройка на правило за блокиране на елемент"
+    },
+    "assistant_slider_explain": {
+        "message": "Използвайте плъзгача за да&nbsp;промените размера на&nbsp;елемента, който&nbsp;ще се&nbsp;блокира от&nbsp;това правило:"
+    },
+    "assistant_slider_if_hide": {
+        "message": "Филтърът ще съдържа&nbsp;правило, което ще блокира избрания елемент"
+    },
+    "assistant_slider_min": {
+        "message": "ПО-МАЛЪК"
+    },
+    "assistant_slider_max": {
+        "message": "ПО-ГОЛЯМ"
+    },
+    "assistant_extended_settings": {
+        "message": "Разширени настройки"
+    },
+    "assistant_apply_rule_to_all_sites": {
+        "message": "Приложи правилото към&nbsp;всеки уеб сайт"
+    },
+    "assistant_block_by_reference": {
+        "message": "Блокирай елемента по&nbsp;url"
+    },
+    "assistant_block_similar": {
+        "message": "Блокирай подобни елементи"
+    },
+    "assistant_block": {
+        "message": "Блокирай"
+    },
+    "assistant_another_element": {
+        "message": "Изберете друг елемент"
+    },
+    "assistant_preview": {
+        "message": "Преглед"
+    },
+    "assistant_preview_header": {
+        "message": "Блокирай елемент - преглед"
+    },
+    "assistant_preview_header_info": {
+        "message": "Сега проверете как ще изглежда страницата, преди да потвърдите блокирането."
+    },
+    "assistant_preview_start": {
+        "message": "Преглед"
+    },
+    "assistant_preview_end": {
+        "message": "Край на прегледа"
+    },
+    "name": {
+        "message": "Блокиране на реклами от AdGuard"
+    },
+    "short_name": {
+        "message": "Блокиране на реклами от AdGuard"
+    },
+    "description": {
+        "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites."
+    },
+    "description_blocked": {
+        "message": "Ads blocked on this page: $1"
+    },
+    "options_settings": {
+        "message": "Настройки на AdGuard"
+    },
+    "options_general_settings": {
+        "message": "Общи настройки"
+    },
+    "options_allow_acceptable_ads": {
+        "message": "Разреши рекламите за търсене и саморекламата на сайтовете <a target='_blank' href='https://adguard.com/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'> Научете повече за&nbsp;това</a>"
+    },
+    "options_show_blocked_ads_count": {
+        "message": "Показай броя на&nbsp;блокираните реклами на&nbsp;иконата на разширението на AdGuard"
+    },
+    "options_enable_autodetect_filter": {
+        "message": "Автоматично активиране на най-подходящите филтри"
+    },
+    "options_antibanner": {
+        "message": "Блокиране на&nbsp;реклами"
+    },
+    "options_antibanner_info": {
+        "message": "Брой на правилата за филтриране: $1"
+    },
+    "options_content_blocker_overlimit": {
+        "message": "Твърде много филтри са включени. Safari не може да използва повече от 50000 правила."
+    },
+    "options_whitelist": {
+        "message": "Бял списък"
+    },
+    "options_update_antibanner_filters": {
+        "message": "Проверка за обновяване на филтририте"
+    },
+    "options_edit_antibanner_filters": {
+        "message": "Всички филтри"
+    },
+    "options_too_many_filters_selected": {
+        "message": "Избрали сте твърде много абонаменти за филтри. Това&nbsp;може значително да забави сърфирането ви в интернет."
+    },
+    "options_modal_cancel": {
+        "message": "Отказ"
+    },
+    "options_modal_save": {
+        "message": "Запази проментие"
+    },
+    "options_modal_edit": {
+        "message": "Списък с филтри"
+    },
+    "options_modal_homepage": {
+        "message": "Домашна страница"
+    },
+    "options_antibanner_list_empty": {
+        "message": "Списъкът с филтри е&nbsp;празен. <a class='spl-user-descr-link editAntiBannerFilters' href='#'>Добавете нов филтър</a>?"
+    },
+    "options_whitelist_description": {
+        "message": "AdGuard не филтрира уеб сайтове от белия списък."
+    },
+    "options_whitelist_inverse": {
+        "message": "Обърни белия списък<span class='sp-table-row-info'>Деблокира рекламите навсякъде, <i>с изключение на</i> белия списък</span>"
+    },
+    "options_whitelist_add_domain": {
+        "message": "Добави уеб сайт"
+    },
+    "options_userfilter": {
+        "message": "Потребителски филтър"
+    },
+    "options_userfilter_description": {
+        "message": "Може да добавите собствени правила към&nbsp;този филтър. Тази опция се&nbsp;препоръчва на напреднали потребители запознати с HTML/CSS. Прочетете <a class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>ръководството за правила във филтрите</a> за&nbsp;да научите как да&nbsp;пишете свои правилла за фитри."
+    },
+    "options_userfilter_add_rule": {
+        "message": "Добави ново правило"
+    },
+    "options_userfilter_export": {
+        "message": "Експорт"
+    },
+    "options_userfilter_import": {
+        "message": "Експорт"
+    },
+    "options_userfilter_clear": {
+        "message": "Изчисти"
+    },
+    "options_userfilter_clear_confirm": {
+        "message": "Изчистването на потребителския филтър премахва всички правила. Наистина ли искате да изчистите потребителския филтър?"
+    },
+    "options_whitelistfilter_clear_confirm": {
+        "message": "Изчистването на белия списък ще изтрие всички правила. Сигурни ли сте, че искате да изчистите белия списък?"
+    },
+    "options_open_changelog": {
+        "message": "Дневник с промени"
+    },
+    "options_safebrowsing": {
+        "message": "Сигурност на сърфирането"
+    },
+    "options_safebrowsing_enabled": {
+        "message": "Защита от фишинг и злонамерен софтуер<a target='_blank' href='https://adguard.com/how-malware-blocked.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Научете повече за&nbsp;това</a>"
+    },
+    "options_safebrowsing_help": {
+        "message": "Помогнете&nbsp;ни в&nbsp;развитието на филтри за сигурността на сърфирането<span class='sp-table-row-info'>Изпращане на анонимна информация, свързана със сигурността</span>"
+    },
+    "options_filter_version": {
+        "message": "Версия $1, обновена $2 на $3."
+    },
+    "options_site": {
+        "message": "Официален уеб сайт"
+    },
+    "options_blog": {
+        "message": "Блог на AdGuard"
+    },
+    "options_forum": {
+        "message": "Форум на AdGuard"
+    },
+    "options_feedback": {
+        "message": "Свържете се с&nbsp;нас"
+    },
+    "options_do_you_like": {
+        "message": "Харесвате&nbsp;ли AdGuard?"
+    },
+    "options_like_us": {
+        "message": "Харесвате AdGuard? Оценете&nbsp;го!"
+    },
+    "options_footer_like_us": {
+        "message": "Оценете&nbsp;го!"
+    },
+    "options_download_adguard": {
+        "message": "Download full version"
+    },
+    "options_whitelist_empty": {
+        "message": "Белият списък е празен. <a class='spl-user-descr-link addWhiteListFilter' href='#'>Добавете някакъв сайт</a> в белия списък?"
+    },
+    "options_userlist_empty": {
+        "message": "Потребителският филтър е празен. <a class='spl-user-descr-link addUserFilter' href='#'>Добавете ново правило за филтър</a>?"
+    },
+    "options_searchlist_empty": {
+        "message": "Нищо не е намерено"
+    },
+    "options_whitelist_search": {
+        "message": "Търси в&nbsp;белия списък"
+    },
+    "options_whitelist_search_placeholder": {
+        "message": "Въведете низ за търсене"
+    },
+    "options_userfilter_search": {
+        "message": "Търси в&nbsp;потребителския филтър"
+    },
+    "options_userfilter_search_placeholder": {
+        "message": "Въведете низ за търсене"
+    },
+    "options_miscellaneous_settings": {
+        "message": "Разни"
+    },
+    "options_show_adguard_full_version": {
+        "message": "Покази информация за&nbsp;пълната версия на AdGuard"
+    },
+    "options_open_log": {
+        "message": "Дневник на филтрирането"
+    },
+    "options_reset_stats": {
+        "message": "Нулирай статистиката"
+    },
+    "options_reset_stats_done": {
+        "message": "Статистиката е нулирана"
+    },
+    "options_collect_hit_stats": {
+        "message": "Изпрати статистическите данни за употребата на&nbsp;филтрите за рекламата<a target='_blank' href='https://adguard.com/filter-rules-statistics.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Научете повече за&nbsp;това</a>"
+    },
+    "options_show_context_menu": {
+        "message": "Добави елемент на AdGuard в контекстното меню' на&nbsp;браузъра"
+    },
+    "options_use_optimized_filters": {
+        "message": "Използвайте оптимизирани филтри<span class='sp-table-row-info'>Лекият филтър показва оптимизираните за мобилни устройства</span>"
+    },
+    "options_popup_update_title": {
+        "message": "Филтрите са успешно обновени"
+    },
+    "options_popup_update_not_found": {
+        "message": "Няма намерени актуализации"
+    },
+    "options_popup_update_error": {
+        "message": "Неуспешно получаване на актуализации. Моля, опитайте отново по-късно."
+    },
+    "options_popup_update_updated": {
+        "message": "\"$1\" е обновен до версия $2"
+    },
+    "popup_block_site_ads": {
+        "message": "Блокиране на рекламите&nbsp;на&nbsp;този уебсайт"
+    },
+    "popup_abuse_site": {
+        "message": "Изпрати&nbsp;оплакване за&nbsp;този сайт"
+    },
+    "popup_abuse_problem": {
+        "message": "Submit a&nbsp;complaint"
+    },
+    "popup_security_report": {
+        "message": "Доклад за сигурността на уебсайта"
+    },
+    "popup_open_settings": {
+        "message": "Настройки на AdGuard"
+    },
+    "popup_disable_protection": {
+        "message": "Временно спиране защитата на AdGuard"
+    },
+    "popup_enable_protection": {
+        "message": "Спиране прекъсването на защитата на AdGuard"
+    },
+    "popup_site_protection_disabled": {
+        "message": "AdGuard protection is paused"
+    },
+    "popup_site_filtering_state": {
+        "message": "Защита на този сайт"
+    },
+    "popup_site_filtering_disabled": {
+        "message": "AdGuard не може да се стартира на&nbsp;този домейн"
+    },
+    "popup_site_exception": {
+        "message": "Този сайт е&nbsp;в&nbsp;изключенията"
+    },
+    "popup_site_exception_info": {
+        "message": "Филтрирането е&nbsp;изключено, защото то&nbsp;може да попречи на работата на този сайт"
+    },
+    "popup_block_site_ads_android": {
+        "message": "Блокиране на рекламите на уебсайта"
+    },
+    "popup_security_report_android": {
+        "message": "Доклад за сигурността"
+    },
+    "popup_in_white_list_android": {
+        "message": "В белия списък"
+    },
+    "popup_site_protection_disabled_android": {
+        "message": "Защитата е спряна временно"
+    },
+    "popup_open_log_android": {
+        "message": "Дневник на филтрирането"
+    },
+    "popup_feedback_empty_option": {
+        "message": "Изберете причина за оплакването"
+    },
+    "popup_feedback_malware_option": {
+        "message": "Подозира се фишинг"
+    },
+    "popup_feedback_wrong_block_option": {
+        "message": "Показването на сайта е изопачено"
+    },
+    "popup_feedback_miss_ads_option": {
+        "message": "Рекламата е&nbsp;пропусната"
+    },
+    "popup_feedback_other_option": {
+        "message": "Друго"
+    },
+    "popup_feedback_option_is_empty": {
+        "message": "Трябва да изберете&nbsp;причина за оплакването си!"
+    },
+    "popup_what_wrong_site": {
+        "message": "Какво не е&nbsp;наред с уеб сайта?"
+    },
+    "popup_feedback_comment": {
+        "message": "Коментар"
+    },
+    "popup_feedback_send": {
+        "message": "Изпрати&nbsp;оплакването"
+    },
+    "popup_feedback_cancel": {
+        "message": "Отказ"
+    },
+    "popup_tab_blocked": {
+        "message": "Блокирани: $1"
+    },
+    "popup_tab_blocked_all": {
+        "message": "Общо: $1"
+    },
+    "popup_ads_has_been_removed": {
+        "message": "Рекламите бяха премахнати от тази страница"
+    },
+    "popup_ads_has_been_removed_by_adguard": {
+        "message": "Защитени от $1"
+    },
+    "popup_filtering_log_icon_title": {
+        "message": "Отвори дневника на филтрорането"
+    },
+    "popup_adguard_other_os": {
+        "message": "Други версии на AdGuard:"
+    },
+    "popup_adguard_footer_integration": {
+        "message": "<a href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>Режимът на интегриране</a>> на Агард е активен"
+    },
+    "popup_adguard_android": {
+        "message": "AdGuard за Андроид"
+    },
+    "popup_adguard_windows": {
+        "message": "AdGuard за Windows"
+    },
+    "popup_adguard_mac": {
+        "message": "AdGuard за Mac"
+    },
+    "popup_adguard_ios": {
+        "message": "AdGuard за iOS"
+    },
+    "context_block_site_ads": {
+        "message": "Блокирай рекламите на този сайт..."
+    },
+    "context_block_site_image": {
+        "message": "AdGuard: Block image..."
+    },
+    "context_block_site_element": {
+        "message": "Блокирай елемент..."
+    },
+    "context_abuse_site": {
+        "message": "Подаване на оплакване за този сайт..."
+    },
+    "context_security_report": {
+        "message": "Отвори доклада за сигурността на уеб сайта..."
+    },
+    "context_ads_has_been_removed": {
+        "message": "Рекламите бяха премахнати от тази страница"
+    },
+    "context_ads_has_been_removed_by_adguard": {
+        "message": "Защитено от $1"
+    },
+    "context_site_filtering_disabled": {
+        "message": "AdGuard не може да се стартира на този домейн"
+    },
+    "context_disable_protection": {
+        "message": "Временно спиране защитата на AdGuard"
+    },
+    "context_enable_protection": {
+        "message": "Unpause AdGuard protection"
+    },
+    "context_site_protection_disabled": {
+        "message": "Защитата на AdGuard временно е спряна"
+    },
+    "context_open_settings": {
+        "message": "Настройки на AdGuard..."
+    },
+    "context_open_log": {
+        "message": "Дневник на филтрирането"
+    },
+    "context_site_exception": {
+        "message": "Този сайт е в изключенията"
+    },
+    "context_site_filtering_on": {
+        "message": "Включи филтрирането на този сайт"
+    },
+    "context_site_filtering_off": {
+        "message": "Изключи филтрирането на този сайт"
+    },
+    "context_update_antibanner_filters": {
+        "message": "Провери за обновяване на филтрите"
+    },
+    "context_general_settings": {
+        "message": "Общи настройки"
+    },
+    "context_antibanner": {
+        "message": "Ad blocker"
+    },
+    "context_safebrowsing": {
+        "message": "Сигурност на сърфирането"
+    },
+    "context_whitelist": {
+        "message": "Бял списък"
+    },
+    "context_userfilter": {
+        "message": "Потребителски филтър"
+    },
+    "context_miscellaneous_settings": {
+        "message": "Разни"
+    },
+    "sb_title": {
+        "message": "Внимание! Може да бъде&nbsp;опасен!"
+    },
+    "sb_main_title": {
+        "message": "Внимание! Може да бъде&nbsp;небезопасен!"
+    },
+    "sb_adguard_blocked": {
+        "message": "AdGuard блокира достъпа до&nbsp;тази страница"
+    },
+    "sb_malware_site": {
+        "message": "This web page at&nbsp;<strong>$1</strong>, has been reported as&nbsp;a&nbsp;malware page and has been blocked based on&nbsp;your security preferences."
+    },
+    "sb_phishing_site": {
+        "message": "Тази уеб страница&nbsp;<strong>$1</strong> е била докладвана като&nbsp;фишинг страница и е блокирана на базата на&nbsp;вашите предпочитания за сигурност."
+    },
+    "sb_malware_description": {
+        "message": "AdGuard has found that malicious software may be&nbsp;installed onto your computer if&nbsp;you proceed. If&nbsp;you've visited this site in&nbsp;the past or&nbsp;you trust this site, it&nbsp;is&nbsp;possible that it&nbsp;has just recently been compromised by&nbsp;a&nbsp;hacker. We&nbsp;recommend you to&nbsp;not proceed or&nbsp;try again later."
+    },
+    "sb_phishing_description": {
+        "message": "AdGuard has found that this page may be&nbsp;a&nbsp;forgery or&nbsp;imitation of&nbsp;another website, designed to&nbsp;trick users into sharing personal or&nbsp;financial information. Entering any personal information on&nbsp;this page may result in&nbsp;identity theft or&nbsp;other abuse."
+    },
+    "sb_go_back": {
+        "message": "Назад"
+    },
+    "sb_more_actions": {
+        "message": "Разширени"
+    },
+    "sb_site_report": {
+        "message": "Още информация"
+    },
+    "sb_goto_site": {
+        "message": "Продължи въпреки това"
+    },
+    "alert_popup_filter_enabled_title": {
+        "message": "Автоматично активиране на филтрите"
+    },
+    "alert_popup_filter_enabled_text": {
+        "message": "«$1» беше активиран автоматично"
+    },
+    "filter_download_title": {
+        "message": "Базата данни с филтри се&nbsp;зарежда..."
+    },
+    "filter_download_loading": {
+        "message": "Моля, изчакайте докато база данни филтри се&nbsp;зарежда..."
+    },
+    "filter_download_do_you_know": {
+        "message": "Знаете ли, че?"
+    },
+    "filter_download_sb_sites": {
+        "message": "Базата данни на AdGuard с фишинг и злонамерен софтуер съдържа<br/>повече от 1&nbsp;милиона уеб сайта."
+    },
+    "filter_download_rules": {
+        "message": "On&nbsp;average we&nbsp;add more than 100&nbsp;ad filter rules every week."
+    },
+    "filter_download_ads_malware": {
+        "message": "90% of&nbsp;viruses and malicious software is&nbsp;distributed<br/>through unscrupulous ad&nbsp;networks."
+    },
+    "thankyou_title": {
+        "message": "Благодарим Ви, че инсталирахте AdGuard!"
+    },
+    "thankyou_enjoy": {
+        "message": "Enjoy a&nbsp;wide array of&nbsp;websites without intrusive ads, counters that track your every move, and various threats such as&nbsp;viruses or&nbsp;scams just waiting to&nbsp;prey on&nbsp;you."
+    },
+    "thankyou_setup_filter": {
+        "message": "Персонализирайте вашите настройки за филтриране"
+    },
+    "thankyou_setup_safebrowsing_title": {
+        "message": "Protection against phishing and malicious websites"
+    },
+    "thankyou_setup_safebrowsing_description": {
+        "message": "The Browsing Security module protects you from malicious and phishing websites. The module uses <a target='blank' href='http://adguard.com/how-malware-blocked.html'>a special web service</a> to check the websites you visit."
+    },
+    "thankyou_tracking_spyware_filter_title": {
+        "message": "A&nbsp;filter for all known counters and analytical systems"
+    },
+    "thankyou_tracking_spyware_filter_description": {
+        "message": "Hundreds of&nbsp;Internet companies spy upon your actions. With AdGuard you can be&nbsp;easily protected from this spying."
+    },
+    "thankyou_tracking_social_filter_title": {
+        "message": "Social networks widgets filter"
+    },
+    "thankyou_tracking_social_filter_description": {
+        "message": "AdGuard can remove social network widgets from web pages. For example, the \"Like\" buttons that track your actions."
+    },
+    "adguard_product_windows": {
+        "message": "AdGuard for Windows"
+    },
+    "adguard_product_mac": {
+        "message": "AdGuard for Mac"
+    },
+    "filtering_log_title": {
+        "message": "Filtering log"
+    },
+    "filtering_log_tab": {
+        "message": "Tab:"
+    },
+    "filtering_log_search_string": {
+        "message": "Enter search string"
+    },
+    "filtering_log_preserve_log": {
+        "message": "Preserve log"
+    },
+    "filtering_refresh_tab": {
+        "message": "Refresh page"
+    },
+    "filtering_clear_tab_events": {
+        "message": "Clear"
+    },
+    "filtering_type_all": {
+        "message": "All"
+    },
+    "filtering_table_type": {
+        "message": "Type"
+    },
+    "filtering_table_rule": {
+        "message": "Filtering rule"
+    },
+    "filtering_table_source": {
+        "message": "Source"
+    },
+    "filtering_table_filter": {
+        "message": "Филтър"
+    },
+    "filtering_table_empty_row": {
+        "message": "The log for this page is empty. <a href='#' class='reloadTab'>Reload page</a> to see the log."
+    },
+    "filtering_modal_info_title": {
+        "message": "Request details"
+    },
+    "filtering_modal_type": {
+        "message": "Type:"
+    },
+    "filtering_modal_source": {
+        "message": "Source:"
+    },
+    "filtering_modal_rule": {
+        "message": "Rule:"
+    },
+    "filtering_modal_filter": {
+        "message": "Filter:"
+    },
+    "filtering_modal_block": {
+        "message": "Block"
+    },
+    "filtering_modal_unblock": {
+        "message": "Unblock"
+    },
+    "filtering_modal_remove_user": {
+        "message": "Remove from user filters"
+    },
+    "filtering_modal_remove_whitelist": {
+        "message": "Remove from whitelist filter"
+    },
+    "filtering_modal_add_title": {
+        "message": "Adding a rule"
+    },
+    "filtering_modal_rule_text": {
+        "message": "Rule text"
+    },
+    "filtering_modal_patterns": {
+        "message": "Patterns"
+    },
+    "filtering_modal_options": {
+        "message": "Options"
+    },
+    "filtering_modal_apply_domains": {
+        "message": "Apply the rule to all websites"
+    },
+    "filtering_modal_match_case": {
+        "message": "Consider the case"
+    },
+    "filtering_modal_third_party": {
+        "message": "Apply to third party requests only"
+    },
+    "filtering_modal_add_rule": {
+        "message": "Add a rule"
+    },
+    "filtering_modal_exception_title": {
+        "message": "Add an exception"
+    },
+    "filtering_modal_open_in_new_tab": {
+        "message": "Open in a new tab"
+    },
+    "filtering_log_in_whitelist": {
+        "message": "The site is whitelisted"
+    },
+    "abp_subscribe_confirm_enable": {
+        "message": "AdGuard: do you want to enable the $1 subscription?"
+    },
+    "abp_subscribe_confirm_import": {
+        "message": "AdGuard: do you want to import rules from $1 to your user filter?"
+    },
+    "abp_subscribe_confirm_import_finished_title": {
+        "message": "Importing has been successfully finished"
+    },
+    "abp_subscribe_confirm_import_finished_text": {
+        "message": "AdGuard has finished importing rules to the user filter. Imported rules number: $1"
+    }
+}

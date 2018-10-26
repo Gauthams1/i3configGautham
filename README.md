@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>Screenshots</b><br>
-    <a href="/rofi.png">Sublime</a>&nbsp;&nbsp;&nbsp;
+    <a href="/Screenshots/screenshot_20181027_001833.png">Sublime</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 

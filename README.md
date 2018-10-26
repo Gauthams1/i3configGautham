@@ -1,10 +1,10 @@
 <h1 align="center">Dotfiles~/</h1>
 
-![Gautham's dotfiles](/i3.png)
+![Gautham's dotfiles](/Screenshots/screenshot_20181027_001833.png)
 
 <p align="center">
     <b>Screenshots</b><br>
-    <a href="/Screenshots/screenshot_20181027_001833.png">Sublime</a>&nbsp;&nbsp;&nbsp;
+    <a href="screenshot_20181027_001933.png">Sublime</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 

@@ -1,12 +1,20 @@
 <h1 align="center">Dotfiles~/</h1>
 
-![Gautham's dotfiles](/Screenshots/screenshot_20181027_001833.png)
-
 <p align="center">
-    <b>Screenshots</b><br>
-    <a href="screenshot_20181027_001933.png">Sublime</a>&nbsp;&nbsp;&nbsp;
+    <b>Screen</b><br>
 </p>
 
+![Gautham's dotfiles](/Screenshots/1.png)
+<p align="center">
+    <b>Wallpaper</b><br>
+</p>
+
+![Gautham's dotfiles](/Screenshots/1.png)
+<p align="center">
+    <b>Sublime</b><br>
+</p>
+
+![Gautham's dotfiles](/Screenshots/2.png)
 
 ## Details
 
@@ -23,6 +31,3 @@
     - [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) - User Interface font.
     - [Font Awesome](https://github.com/FortAwesome/Font-Awesome) - Iconic font.
  
-## Links
-
-[DotShare.it](http://dotshare.it/~dikiaap/)
